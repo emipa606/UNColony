@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+<!-- REFINERY A -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukRefineryA</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Crafting</workType>
+		<priorityInType>80</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukRefineryA</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- REFINERY B -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukRefineryB</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Crafting</workType>
+		<priorityInType>100</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukRefineryB</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+		
+<!-- REFINERY C -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukRefineryC</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Crafting</workType>
+		<priorityInType>100</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukRefineryC</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Metalworking Bench -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukMetalworkingBench</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>80</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukMetalworkingBench</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Metalworking Line -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukMetalworkingLineB</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>130</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukMetalworkingLineB</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Assembly Line -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukAssemblyLineB</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>130</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukAssemblyLineB</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Bessemer Converter -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukBessemerConverter</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>80</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukBessemerConverter</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Open Hearth Furnace -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukOpenHearthFurnace</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>100</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukOpenHearthFurnace</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+<!-- Electric Arc Furnace -->
+	<WorkGiverDef>
+		<defName>DoBillsSadjuukElectricArcFurnace</defName>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Smithing</workType>
+		<priorityInType>120</priorityInType>
+		<fixedBillGiverDefs>
+			<li>SadjuukElectricArcFurnace</li>
+		</fixedBillGiverDefs>
+        <verb>work</verb>
+        <gerund>working at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+			<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	
+	
+	
+</Defs>

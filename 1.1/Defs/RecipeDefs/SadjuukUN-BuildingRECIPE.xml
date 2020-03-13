@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+<!-- ============================================================================= -->
+<!-- Construction Machinery -->
+<!-- ============================================================================= -->
+	<!-- Paint recipe A -->
+	<RecipeDef>
+	<defName>SadjuukSyntheticPaintRecipe</defName>
+	<label>make 5 Paint from chemfuel</label>
+	<description>Synthesize paint from biofuel.</description>
+	<jobString>Synthesize paint.</jobString>
+	<effectWorking>Cremate</effectWorking>
+	<soundWorking>Recipe_Cremate</soundWorking>
+	<workAmount>200</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	<ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>Chemfuel</li>
+				</thingDefs>
+			</filter>
+			<count>10</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<thingDefs>
+			<li>Chemfuel</li>
+		</thingDefs>
+	</fixedIngredientFilter>
+	<products>
+		<SadjuukSyntheticPaint>5</SadjuukSyntheticPaint>
+	</products>
+	</RecipeDef>
+	
+	<!-- Paint recipe B -->
+	<RecipeDef>
+	<defName>SadjuukSyntheticPaintRecipeB</defName>
+	<label>make 75 Paint from Fuel Oil</label>
+	<description>Synthesize paint from Fuel Oil.</description>
+	<jobString>Synthesize paint.</jobString>
+	<effectWorking>Cremate</effectWorking>
+	<soundWorking>Recipe_Cremate</soundWorking>
+	<workAmount>1200</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	<ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>SadjuukFuelOil</li>
+				</thingDefs>
+			</filter>
+			<count>1</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<thingDefs>
+			<li>SadjuukFuelOil</li>
+		</thingDefs>
+	</fixedIngredientFilter>
+	<products>
+		<SadjuukSyntheticPaint>75</SadjuukSyntheticPaint>
+	</products>
+	</RecipeDef>
+
+	<!-- Concrete -->
+    <RecipeDef>
+    <defName>SadjuukConcreteRecipeA</defName>
+    <label>Make 15 Concrete Slabs.</label>
+    <description>Produce Concrete Slabs.</description>
+    <jobString>Producing Concrete Slabs.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	<effectWorking>Cremate</effectWorking>
+	<soundWorking>Recipe_Cremate</soundWorking>
+	<ingredients>
+		<li>
+			<filter>
+				<categories>
+					<li>StoneChunks</li>
+				</categories>
+			</filter>
+			<count>1</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<categories>
+			<li>StoneChunks</li>
+		</categories>
+	</fixedIngredientFilter>
+	<products>
+		<SadjuukConcrete>15</SadjuukConcrete>
+	</products>
+	</RecipeDef>
+	
+	<!-- Asphalt Concrete (1/15 Fuel Oil) -->
+    <RecipeDef>
+    <defName>SadjuukConcreteRecipeB</defName>
+    <label>Make 75 Asphalt Concrete.</label>
+    <description>Produce Asphalt Concrete.</description>
+    <jobString>Producing Asphalt Concrete.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	<effectWorking>Cremate</effectWorking>
+	<soundWorking>Recipe_Cremate</soundWorking>
+	<ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>SadjuukFuelOil</li>
+				</thingDefs>
+			</filter>
+			<count>1</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<thingDefs>
+			<li>SadjuukFuelOil</li>
+		</thingDefs>
+	</fixedIngredientFilter>
+	<products>
+		<SadjuukAsphaltConcrete>75</SadjuukAsphaltConcrete>
+	</products>
+	</RecipeDef>
+	
+	<!-- Glass -->
+    <RecipeDef>
+    <defName>SadjuukGlassRecipeA</defName>
+    <label>Make 12 Glass Slabs.</label>
+    <description>Produce Glass Slabs.</description>
+    <jobString>Producing Glass Slabs.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+	<effectWorking>Cremate</effectWorking>
+	<soundWorking>Recipe_Cremate</soundWorking>
+	<ingredients>
+		<li>
+			<filter>
+				<categories>
+					<li>StoneChunks</li>
+				</categories>
+			</filter>
+			<count>1</count>
+		</li>
+	</ingredients>
+	<fixedIngredientFilter>
+		<categories>
+			<li>StoneChunks</li>
+		</categories>
+	</fixedIngredientFilter>
+	<products>
+		<SadjuukGlass>12</SadjuukGlass>
+	</products>
+	</RecipeDef>
+	
+</Defs>
