@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Paint recipe A -->
+
+  <SadjuukSyntheticPaintRecipe.label>make 5 Paint from chemfuel</SadjuukSyntheticPaintRecipe.label>
+  <SadjuukSyntheticPaintRecipe.description>Synthesize paint from biofuel.</SadjuukSyntheticPaintRecipe.description>
+  <SadjuukSyntheticPaintRecipe.jobString>Synthesize paint.</SadjuukSyntheticPaintRecipe.jobString>
+
+
+  <!-- Paint recipe B -->
+
+  <SadjuukSyntheticPaintRecipeB.label>make 75 Paint from Fuel Oil</SadjuukSyntheticPaintRecipeB.label>
+  <SadjuukSyntheticPaintRecipeB.description>Synthesize paint from Fuel Oil.</SadjuukSyntheticPaintRecipeB.description>
+  <SadjuukSyntheticPaintRecipeB.jobString>Synthesize paint.</SadjuukSyntheticPaintRecipeB.jobString>
+
+
+  <!-- Concrete -->
+
+  <SadjuukConcreteRecipeA.label>Make 15 Concrete Slabs.</SadjuukConcreteRecipeA.label>
+  <SadjuukConcreteRecipeA.description>Produce Concrete Slabs.</SadjuukConcreteRecipeA.description>
+  <SadjuukConcreteRecipeA.jobString>Producing Concrete Slabs.</SadjuukConcreteRecipeA.jobString>
+
+
+  <!-- Asphalt Concrete (1/15 Fuel Oil) -->
+
+  <SadjuukConcreteRecipeB.label>Make 75 Asphalt Concrete.</SadjuukConcreteRecipeB.label>
+  <SadjuukConcreteRecipeB.description>Produce Asphalt Concrete.</SadjuukConcreteRecipeB.description>
+  <SadjuukConcreteRecipeB.jobString>Producing Asphalt Concrete.</SadjuukConcreteRecipeB.jobString>
+
+
+  <!-- Glass -->
+
+  <SadjuukGlassRecipeA.label>Make 12 Glass Slabs.</SadjuukGlassRecipeA.label>
+  <SadjuukGlassRecipeA.description>Produce Glass Slabs.</SadjuukGlassRecipeA.description>
+  <SadjuukGlassRecipeA.jobString>Producing Glass Slabs.</SadjuukGlassRecipeA.jobString>
+
+
+</LanguageData>

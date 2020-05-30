@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Paint AA -->
+
+  <SadjuukPaintAA.label>Yellow Double lines</SadjuukPaintAA.label>
+  <SadjuukPaintAA.description>Painted lines.</SadjuukPaintAA.description>
+  <SadjuukPaintAA_Blueprint.label>Yellow Double lines (blueprint)</SadjuukPaintAA_Blueprint.label>
+  <SadjuukPaintAA_Frame.label>Yellow Double lines (building)</SadjuukPaintAA_Frame.label>
+  <SadjuukPaintAA_Frame.description>Painted lines.</SadjuukPaintAA_Frame.description>
+
+
+  <!-- Paint AB -->
+
+  <SadjuukPaintAB.label>White Double lines</SadjuukPaintAB.label>
+  <SadjuukPaintAB.description>Painted lines.</SadjuukPaintAB.description>
+  <SadjuukPaintAB_Blueprint.label>White Double lines (blueprint)</SadjuukPaintAB_Blueprint.label>
+  <SadjuukPaintAB_Frame.label>White Double lines (building)</SadjuukPaintAB_Frame.label>
+  <SadjuukPaintAB_Frame.description>Painted lines.</SadjuukPaintAB_Frame.description>
+
+
+  <!-- Paint AC -->
+
+  <SadjuukPaintAC.label>Blue Double lines</SadjuukPaintAC.label>
+  <SadjuukPaintAC.description>Painted lines.</SadjuukPaintAC.description>
+  <SadjuukPaintAC_Blueprint.label>Blue Double lines (blueprint)</SadjuukPaintAC_Blueprint.label>
+  <SadjuukPaintAC_Frame.label>Blue Double lines (building)</SadjuukPaintAC_Frame.label>
+  <SadjuukPaintAC_Frame.description>Painted lines.</SadjuukPaintAC_Frame.description>
+
+
+  <!-- Paint AD -->
+
+  <SadjuukPaintAD.label>Red Double lines</SadjuukPaintAD.label>
+  <SadjuukPaintAD.description>Painted lines.</SadjuukPaintAD.description>
+  <SadjuukPaintAD_Blueprint.label>Red Double lines (blueprint)</SadjuukPaintAD_Blueprint.label>
+  <SadjuukPaintAD_Frame.label>Red Double lines (building)</SadjuukPaintAD_Frame.label>
+  <SadjuukPaintAD_Frame.description>Painted lines.</SadjuukPaintAD_Frame.description>
+
+
+  <!-- Paint AE -->
+
+  <SadjuukPaintAE.label>Yellow Simple lines</SadjuukPaintAE.label>
+  <SadjuukPaintAE.description>Painted lines.</SadjuukPaintAE.description>
+  <SadjuukPaintAE_Blueprint.label>Yellow Simple lines (blueprint)</SadjuukPaintAE_Blueprint.label>
+  <SadjuukPaintAE_Frame.label>Yellow Simple lines (building)</SadjuukPaintAE_Frame.label>
+  <SadjuukPaintAE_Frame.description>Painted lines.</SadjuukPaintAE_Frame.description>
+
+
+  <!-- Paint AF -->
+
+  <SadjuukPaintAF.label>White Simple line</SadjuukPaintAF.label>
+  <SadjuukPaintAF.description>Painted lines.</SadjuukPaintAF.description>
+  <SadjuukPaintAF_Blueprint.label>White Simple line (blueprint)</SadjuukPaintAF_Blueprint.label>
+  <SadjuukPaintAF_Frame.label>White Simple line (building)</SadjuukPaintAF_Frame.label>
+  <SadjuukPaintAF_Frame.description>Painted lines.</SadjuukPaintAF_Frame.description>
+
+
+  <!-- Paint AG -->
+
+  <SadjuukPaintAG.label>Blue Simple line</SadjuukPaintAG.label>
+  <SadjuukPaintAG.description>Painted lines.</SadjuukPaintAG.description>
+  <SadjuukPaintAG_Blueprint.label>Blue Simple line (blueprint)</SadjuukPaintAG_Blueprint.label>
+  <SadjuukPaintAG_Frame.label>Blue Simple line (building)</SadjuukPaintAG_Frame.label>
+  <SadjuukPaintAG_Frame.description>Painted lines.</SadjuukPaintAG_Frame.description>
+
+
+  <!-- Paint AH -->
+
+  <SadjuukPaintAH.label>Red Simple line</SadjuukPaintAH.label>
+  <SadjuukPaintAH.description>Painted lines.</SadjuukPaintAH.description>
+  <SadjuukPaintAH_Blueprint.label>Red Simple line (blueprint)</SadjuukPaintAH_Blueprint.label>
+  <SadjuukPaintAH_Frame.label>Red Simple line (building)</SadjuukPaintAH_Frame.label>
+  <SadjuukPaintAH_Frame.description>Painted lines.</SadjuukPaintAH_Frame.description>
+
+
+  <!-- Paint BA -->
+
+  <SadjuukPaintBA.label>Yellow Painted arrow</SadjuukPaintBA.label>
+  <SadjuukPaintBA.description>Painted arrow.</SadjuukPaintBA.description>
+  <SadjuukPaintBA_Blueprint.label>Yellow Painted arrow (blueprint)</SadjuukPaintBA_Blueprint.label>
+  <SadjuukPaintBA_Frame.label>Yellow Painted arrow (building)</SadjuukPaintBA_Frame.label>
+  <SadjuukPaintBA_Frame.description>Painted arrow.</SadjuukPaintBA_Frame.description>
+
+
+  <!-- Paint BB -->
+
+  <SadjuukPaintBB.label>White Painted arrow</SadjuukPaintBB.label>
+  <SadjuukPaintBB.description>Painted arrow.</SadjuukPaintBB.description>
+  <SadjuukPaintBB_Blueprint.label>White Painted arrow (blueprint)</SadjuukPaintBB_Blueprint.label>
+  <SadjuukPaintBB_Frame.label>White Painted arrow (building)</SadjuukPaintBB_Frame.label>
+  <SadjuukPaintBB_Frame.description>Painted arrow.</SadjuukPaintBB_Frame.description>
+
+
+  <!-- Paint BC -->
+
+  <SadjuukPaintBC.label>Blue Painted arrow</SadjuukPaintBC.label>
+  <SadjuukPaintBC.description>Painted arrow.</SadjuukPaintBC.description>
+  <SadjuukPaintBC_Blueprint.label>Blue Painted arrow (blueprint)</SadjuukPaintBC_Blueprint.label>
+  <SadjuukPaintBC_Frame.label>Blue Painted arrow (building)</SadjuukPaintBC_Frame.label>
+  <SadjuukPaintBC_Frame.description>Painted arrow.</SadjuukPaintBC_Frame.description>
+
+
+  <!-- Paint BD -->
+
+  <SadjuukPaintBD.label>Red Painted arrow</SadjuukPaintBD.label>
+  <SadjuukPaintBD.description>Painted arrow.</SadjuukPaintBD.description>
+  <SadjuukPaintBD_Blueprint.label>Red Painted arrow (blueprint)</SadjuukPaintBD_Blueprint.label>
+  <SadjuukPaintBD_Frame.label>Red Painted arrow (building)</SadjuukPaintBD_Frame.label>
+  <SadjuukPaintBD_Frame.description>Painted arrow.</SadjuukPaintBD_Frame.description>
+
+
+  <!-- Paint CA -->
+
+  <SadjuukPaintCA.label>Red Zebra (L)</SadjuukPaintCA.label>
+  <SadjuukPaintCA.description>Painted Zebra.</SadjuukPaintCA.description>
+  <SadjuukPaintCA_Blueprint.label>Red Zebra (L) (blueprint)</SadjuukPaintCA_Blueprint.label>
+  <SadjuukPaintCA_Frame.label>Red Zebra (L) (building)</SadjuukPaintCA_Frame.label>
+  <SadjuukPaintCA_Frame.description>Painted Zebra.</SadjuukPaintCA_Frame.description>
+
+
+  <!-- Paint CB -->
+
+  <SadjuukPaintCB.label>Red Zebra (R)</SadjuukPaintCB.label>
+  <SadjuukPaintCB.description>Painted Zebra.</SadjuukPaintCB.description>
+  <SadjuukPaintCB_Blueprint.label>Red Zebra (R) (blueprint)</SadjuukPaintCB_Blueprint.label>
+  <SadjuukPaintCB_Frame.label>Red Zebra (R) (building)</SadjuukPaintCB_Frame.label>
+  <SadjuukPaintCB_Frame.description>Painted Zebra.</SadjuukPaintCB_Frame.description>
+
+
+  <!-- Paint CC -->
+
+  <SadjuukPaintCC.label>Yellow Zebra (L)</SadjuukPaintCC.label>
+  <SadjuukPaintCC.description>Painted Zebra.</SadjuukPaintCC.description>
+  <SadjuukPaintCC_Blueprint.label>Yellow Zebra (L) (blueprint)</SadjuukPaintCC_Blueprint.label>
+  <SadjuukPaintCC_Frame.label>Yellow Zebra (L) (building)</SadjuukPaintCC_Frame.label>
+  <SadjuukPaintCC_Frame.description>Painted Zebra.</SadjuukPaintCC_Frame.description>
+
+
+  <!-- Paint CD -->
+
+  <SadjuukPaintCD.label>Yellow Zebra (R)</SadjuukPaintCD.label>
+  <SadjuukPaintCD.description>Painted Zebra.</SadjuukPaintCD.description>
+  <SadjuukPaintCD_Blueprint.label>Yellow Zebra (R) (blueprint)</SadjuukPaintCD_Blueprint.label>
+  <SadjuukPaintCD_Frame.label>Yellow Zebra (R) (building)</SadjuukPaintCD_Frame.label>
+  <SadjuukPaintCD_Frame.description>Painted Zebra.</SadjuukPaintCD_Frame.description>
+
+
+  <!-- Wooden Gate Horizontal -->
+
+  <SadjuukDoorAA.label>Wooden Gate (H)</SadjuukDoorAA.label>
+  <SadjuukDoorAA.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAA.description>
+  <SadjuukDoorAA_Blueprint.label>Wooden Gate (H) (blueprint)</SadjuukDoorAA_Blueprint.label>
+  <SadjuukDoorAA_Frame.label>Wooden Gate (H) (building)</SadjuukDoorAA_Frame.label>
+  <SadjuukDoorAA_Frame.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAA_Frame.description>
+
+
+  <!-- Wooden Gate Vertical -->
+
+  <SadjuukDoorAB.label>Wooden Gate (V)</SadjuukDoorAB.label>
+  <SadjuukDoorAB.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAB.description>
+  <SadjuukDoorAB_Blueprint.label>Wooden Gate (V) (blueprint)</SadjuukDoorAB_Blueprint.label>
+  <SadjuukDoorAB_Frame.label>Wooden Gate (V) (building)</SadjuukDoorAB_Frame.label>
+  <SadjuukDoorAB_Frame.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAB_Frame.description>
+
+
+  <!-- Grid Door Horizontal -->
+
+  <SadjuukDoorBA.label>Grid Gate (H)</SadjuukDoorBA.label>
+  <SadjuukDoorBA.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBA.description>
+  <SadjuukDoorBA_Blueprint.label>Grid Gate (H) (blueprint)</SadjuukDoorBA_Blueprint.label>
+  <SadjuukDoorBA_Frame.label>Grid Gate (H) (building)</SadjuukDoorBA_Frame.label>
+  <SadjuukDoorBA_Frame.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBA_Frame.description>
+
+
+  <!-- Grid Door Vertical -->
+
+  <SadjuukDoorBB.label>Grid Gate (V)</SadjuukDoorBB.label>
+  <SadjuukDoorBB.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBB.description>
+  <SadjuukDoorBB_Blueprint.label>Grid Gate (V) (blueprint)</SadjuukDoorBB_Blueprint.label>
+  <SadjuukDoorBB_Frame.label>Grid Gate (V) (building)</SadjuukDoorBB_Frame.label>
+  <SadjuukDoorBB_Frame.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBB_Frame.description>
+
+
+  <!-- Glass Door Horizontal -->
+
+  <SadjuukDoorCA.label>Glass Door (H)</SadjuukDoorCA.label>
+  <SadjuukDoorCA.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCA.description>
+  <SadjuukDoorCA_Blueprint.label>Glass Door (H) (blueprint)</SadjuukDoorCA_Blueprint.label>
+  <SadjuukDoorCA_Frame.label>Glass Door (H) (building)</SadjuukDoorCA_Frame.label>
+  <SadjuukDoorCA_Frame.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCA_Frame.description>
+
+
+  <!-- Glass Door Vertical -->
+
+  <SadjuukDoorCB.label>Glass Door (V)</SadjuukDoorCB.label>
+  <SadjuukDoorCB.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCB.description>
+  <SadjuukDoorCB_Blueprint.label>Glass Door (V) (blueprint)</SadjuukDoorCB_Blueprint.label>
+  <SadjuukDoorCB_Frame.label>Glass Door (V) (building)</SadjuukDoorCB_Frame.label>
+  <SadjuukDoorCB_Frame.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCB_Frame.description>
+
+
+  <!-- Wood Door Horizontal -->
+
+  <SadjuukDoorDA.label>Wooden Door (H)</SadjuukDoorDA.label>
+  <SadjuukDoorDA.description>HP : 350
+Heavy Armored door.</SadjuukDoorDA.description>
+  <SadjuukDoorDA_Blueprint.label>Wooden Door (H) (blueprint)</SadjuukDoorDA_Blueprint.label>
+  <SadjuukDoorDA_Frame.label>Wooden Door (H) (building)</SadjuukDoorDA_Frame.label>
+  <SadjuukDoorDA_Frame.description>HP : 350
+Heavy Armored door.</SadjuukDoorDA_Frame.description>
+
+
+  <!-- Wood  Door Vertical -->
+
+  <SadjuukDoorDB.label>Wooden Door (V)</SadjuukDoorDB.label>
+  <SadjuukDoorDB.description>HP : 350
+Heavy Armored door.</SadjuukDoorDB.description>
+  <SadjuukDoorDB_Blueprint.label>Wooden Door (V) (blueprint)</SadjuukDoorDB_Blueprint.label>
+  <SadjuukDoorDB_Frame.label>Wooden Door (V) (building)</SadjuukDoorDB_Frame.label>
+  <SadjuukDoorDB_Frame.description>HP : 350
+Heavy Armored door.</SadjuukDoorDB_Frame.description>
+
+
+  <!-- Wood Door Horizontal -->
+
+  <SadjuukDoorLA.label>Wooden Door (H)</SadjuukDoorLA.label>
+  <SadjuukDoorLA.description>HP : 350
+Heavy Armored door.</SadjuukDoorLA.description>
+  <SadjuukDoorLA_Blueprint.label>Wooden Door (H) (blueprint)</SadjuukDoorLA_Blueprint.label>
+  <SadjuukDoorLA_Frame.label>Wooden Door (H) (building)</SadjuukDoorLA_Frame.label>
+  <SadjuukDoorLA_Frame.description>HP : 350
+Heavy Armored door.</SadjuukDoorLA_Frame.description>
+
+
+  <!-- Wood  Door Vertical -->
+
+  <SadjuukDoorLB.label>Wooden Door (V)</SadjuukDoorLB.label>
+  <SadjuukDoorLB.description>HP : 350
+Heavy Armored door.</SadjuukDoorLB.description>
+  <SadjuukDoorLB_Blueprint.label>Wooden Door (V) (blueprint)</SadjuukDoorLB_Blueprint.label>
+  <SadjuukDoorLB_Frame.label>Wooden Door (V) (building)</SadjuukDoorLB_Frame.label>
+  <SadjuukDoorLB_Frame.description>HP : 350
+Heavy Armored door.</SadjuukDoorLB_Frame.description>
+
+
+  <!-- Steel Door Horizontal -->
+
+  <SadjuukDoorEA.label>Steel Door (H)</SadjuukDoorEA.label>
+  <SadjuukDoorEA.description>HP : 450
+Rustic Steel door.</SadjuukDoorEA.description>
+  <SadjuukDoorEA_Blueprint.label>Steel Door (H) (blueprint)</SadjuukDoorEA_Blueprint.label>
+  <SadjuukDoorEA_Frame.label>Steel Door (H) (building)</SadjuukDoorEA_Frame.label>
+  <SadjuukDoorEA_Frame.description>HP : 450
+Rustic Steel door.</SadjuukDoorEA_Frame.description>
+
+
+  <!-- Steel  Door Vertical -->
+
+  <SadjuukDoorEB.label>Steel Door (V)</SadjuukDoorEB.label>
+  <SadjuukDoorEB.description>HP : 450
+Rustic Steel door.</SadjuukDoorEB.description>
+  <SadjuukDoorEB_Blueprint.label>Steel Door (V) (blueprint)</SadjuukDoorEB_Blueprint.label>
+  <SadjuukDoorEB_Frame.label>Steel Door (V) (building)</SadjuukDoorEB_Frame.label>
+  <SadjuukDoorEB_Frame.description>HP : 450
+Rustic Steel door.</SadjuukDoorEB_Frame.description>
+
+
+  <!-- Steel Door Horizontal -->
+
+  <SadjuukDoorFA.label>Steel Door (H)</SadjuukDoorFA.label>
+  <SadjuukDoorFA.description>HP : 600
+Steel door.</SadjuukDoorFA.description>
+  <SadjuukDoorFA_Blueprint.label>Steel Door (H) (blueprint)</SadjuukDoorFA_Blueprint.label>
+  <SadjuukDoorFA_Frame.label>Steel Door (H) (building)</SadjuukDoorFA_Frame.label>
+  <SadjuukDoorFA_Frame.description>HP : 600
+Steel door.</SadjuukDoorFA_Frame.description>
+
+
+  <!-- Steel  Door Vertical -->
+
+  <SadjuukDoorFB.label>Steel Door (V)</SadjuukDoorFB.label>
+  <SadjuukDoorFB.description>HP : 600
+Steel door.</SadjuukDoorFB.description>
+  <SadjuukDoorFB_Blueprint.label>Steel Door (V) (blueprint)</SadjuukDoorFB_Blueprint.label>
+  <SadjuukDoorFB_Frame.label>Steel Door (V) (building)</SadjuukDoorFB_Frame.label>
+  <SadjuukDoorFB_Frame.description>HP : 600
+Steel door.</SadjuukDoorFB_Frame.description>
+
+
+  <!-- Steel Door Horizontal -->
+
+  <SadjuukDoorGA.label>Steel Door (H)</SadjuukDoorGA.label>
+  <SadjuukDoorGA.description>HP : 600
+Painted Steel door.</SadjuukDoorGA.description>
+  <SadjuukDoorGA_Blueprint.label>Steel Door (H) (blueprint)</SadjuukDoorGA_Blueprint.label>
+  <SadjuukDoorGA_Frame.label>Steel Door (H) (building)</SadjuukDoorGA_Frame.label>
+  <SadjuukDoorGA_Frame.description>HP : 600
+Painted Steel door.</SadjuukDoorGA_Frame.description>
+
+
+  <!-- Steel  Door Vertical -->
+
+  <SadjuukDoorGB.label>Steel Door (V)</SadjuukDoorGB.label>
+  <SadjuukDoorGB.description>HP : 600
+Painted Steel door.</SadjuukDoorGB.description>
+  <SadjuukDoorGB_Blueprint.label>Steel Door (V) (blueprint)</SadjuukDoorGB_Blueprint.label>
+  <SadjuukDoorGB_Frame.label>Steel Door (V) (building)</SadjuukDoorGB_Frame.label>
+  <SadjuukDoorGB_Frame.description>HP : 600
+Painted Steel door.</SadjuukDoorGB_Frame.description>
+
+
+  <!-- Shielded Door Horizontal -->
+
+  <SadjuukDoorHA.label>Shielded Door (H)</SadjuukDoorHA.label>
+  <SadjuukDoorHA.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHA.description>
+  <SadjuukDoorHA_Blueprint.label>Shielded Door (H) (blueprint)</SadjuukDoorHA_Blueprint.label>
+  <SadjuukDoorHA_Frame.label>Shielded Door (H) (building)</SadjuukDoorHA_Frame.label>
+  <SadjuukDoorHA_Frame.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHA_Frame.description>
+
+
+  <!-- Shielded  Door Vertical -->
+
+  <SadjuukDoorHB.label>Shielded Door (V)</SadjuukDoorHB.label>
+  <SadjuukDoorHB.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHB.description>
+  <SadjuukDoorHB_Blueprint.label>Shielded Door (V) (blueprint)</SadjuukDoorHB_Blueprint.label>
+  <SadjuukDoorHB_Frame.label>Shielded Door (V) (building)</SadjuukDoorHB_Frame.label>
+  <SadjuukDoorHB_Frame.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHB_Frame.description>
+
+
+  <!-- Shielded Door Horizontal -->
+
+  <SadjuukDoorIA.label>Shielded Door (H)</SadjuukDoorIA.label>
+  <SadjuukDoorIA.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIA.description>
+  <SadjuukDoorIA_Blueprint.label>Shielded Door (H) (blueprint)</SadjuukDoorIA_Blueprint.label>
+  <SadjuukDoorIA_Frame.label>Shielded Door (H) (building)</SadjuukDoorIA_Frame.label>
+  <SadjuukDoorIA_Frame.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIA_Frame.description>
+
+
+  <!-- Shielded Door Vertical -->
+
+  <SadjuukDoorIB.label>Shielded Door (V)</SadjuukDoorIB.label>
+  <SadjuukDoorIB.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIB.description>
+  <SadjuukDoorIB_Blueprint.label>Shielded Door (V) (blueprint)</SadjuukDoorIB_Blueprint.label>
+  <SadjuukDoorIB_Frame.label>Shielded Door (V) (building)</SadjuukDoorIB_Frame.label>
+  <SadjuukDoorIB_Frame.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIB_Frame.description>
+
+
+  <!-- Armored Door Horizontal -->
+
+  <SadjuukDoorJA.label>Armored Door (H)</SadjuukDoorJA.label>
+  <SadjuukDoorJA.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJA.description>
+  <SadjuukDoorJA_Blueprint.label>Armored Door (H) (blueprint)</SadjuukDoorJA_Blueprint.label>
+  <SadjuukDoorJA_Frame.label>Armored Door (H) (building)</SadjuukDoorJA_Frame.label>
+  <SadjuukDoorJA_Frame.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJA_Frame.description>
+
+
+  <!-- Armored  Door Vertical -->
+
+  <SadjuukDoorJB.label>Armored Door (V)</SadjuukDoorJB.label>
+  <SadjuukDoorJB.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJB.description>
+  <SadjuukDoorJB_Blueprint.label>Armored Door (V) (blueprint)</SadjuukDoorJB_Blueprint.label>
+  <SadjuukDoorJB_Frame.label>Armored Door (V) (building)</SadjuukDoorJB_Frame.label>
+  <SadjuukDoorJB_Frame.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJB_Frame.description>
+
+
+  <!-- Armored Door Horizontal -->
+
+  <SadjuukDoorKA.label>Armored Door (H)</SadjuukDoorKA.label>
+  <SadjuukDoorKA.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKA.description>
+  <SadjuukDoorKA_Blueprint.label>Armored Door (H) (blueprint)</SadjuukDoorKA_Blueprint.label>
+  <SadjuukDoorKA_Frame.label>Armored Door (H) (building)</SadjuukDoorKA_Frame.label>
+  <SadjuukDoorKA_Frame.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKA_Frame.description>
+
+
+  <!-- Armored  Door Vertical -->
+
+  <SadjuukDoorKB.label>Armored Door (V)</SadjuukDoorKB.label>
+  <SadjuukDoorKB.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKB.description>
+  <SadjuukDoorKB_Blueprint.label>Armored Door (V) (blueprint)</SadjuukDoorKB_Blueprint.label>
+  <SadjuukDoorKB_Frame.label>Armored Door (V) (building)</SadjuukDoorKB_Frame.label>
+  <SadjuukDoorKB_Frame.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKB_Frame.description>
+
+
+  <!-- Wooden Wall AA -->
+
+  <SadjuukWallAA.label>Wooden Wall A</SadjuukWallAA.label>
+  <SadjuukWallAA.description>HP : 350
+Wooden wall.</SadjuukWallAA.description>
+  <SadjuukWallAA_Blueprint.label>Wooden Wall A (blueprint)</SadjuukWallAA_Blueprint.label>
+  <SadjuukWallAA_Frame.label>Wooden Wall A (building)</SadjuukWallAA_Frame.label>
+  <SadjuukWallAA_Frame.description>HP : 350
+Wooden wall.</SadjuukWallAA_Frame.description>
+
+
+  <!-- Wooden Embrasure AA -->
+
+  <SadjuukEmbrasureAA.label>Wooden Embrasure A</SadjuukEmbrasureAA.label>
+  <SadjuukEmbrasureAA.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAA.description>
+  <SadjuukEmbrasureAA_Blueprint.label>Wooden Embrasure A (blueprint)</SadjuukEmbrasureAA_Blueprint.label>
+  <SadjuukEmbrasureAA_Frame.label>Wooden Embrasure A (building)</SadjuukEmbrasureAA_Frame.label>
+  <SadjuukEmbrasureAA_Frame.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAA_Frame.description>
+
+
+  <!-- Wooden Wall AB -->
+
+  <SadjuukWallAB.label>Wooden Wall B</SadjuukWallAB.label>
+  <SadjuukWallAB.description>HP : 350
+Wooden wall.</SadjuukWallAB.description>
+  <SadjuukWallAB_Blueprint.label>Wooden Wall B (blueprint)</SadjuukWallAB_Blueprint.label>
+  <SadjuukWallAB_Frame.label>Wooden Wall B (building)</SadjuukWallAB_Frame.label>
+  <SadjuukWallAB_Frame.description>HP : 350
+Wooden wall.</SadjuukWallAB_Frame.description>
+
+
+  <!-- Wooden Embrasure AB -->
+
+  <SadjuukEmbrasureAB.label>Wooden Embrasure B</SadjuukEmbrasureAB.label>
+  <SadjuukEmbrasureAB.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAB.description>
+  <SadjuukEmbrasureAB_Blueprint.label>Wooden Embrasure B (blueprint)</SadjuukEmbrasureAB_Blueprint.label>
+  <SadjuukEmbrasureAB_Frame.label>Wooden Embrasure B (building)</SadjuukEmbrasureAB_Frame.label>
+  <SadjuukEmbrasureAB_Frame.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAB_Frame.description>
+
+
+  <!-- Steel Wall BA -->
+
+  <SadjuukWallBA.label>Steel Wall A</SadjuukWallBA.label>
+  <SadjuukWallBA.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBA.description>
+  <SadjuukWallBA_Blueprint.label>Steel Wall A (blueprint)</SadjuukWallBA_Blueprint.label>
+  <SadjuukWallBA_Frame.label>Steel Wall A (building)</SadjuukWallBA_Frame.label>
+  <SadjuukWallBA_Frame.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBA_Frame.description>
+
+
+  <!-- Steel Embrasure BA -->
+
+  <SadjuukEmbrasureBA.label>Steel Embrasure A</SadjuukEmbrasureBA.label>
+  <SadjuukEmbrasureBA.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBA.description>
+  <SadjuukEmbrasureBA_Blueprint.label>Steel Embrasure A (blueprint)</SadjuukEmbrasureBA_Blueprint.label>
+  <SadjuukEmbrasureBA_Frame.label>Steel Embrasure A (building)</SadjuukEmbrasureBA_Frame.label>
+  <SadjuukEmbrasureBA_Frame.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBA_Frame.description>
+
+
+  <!-- Steel Wall BB -->
+
+  <SadjuukWallBB.label>Steel Wall B</SadjuukWallBB.label>
+  <SadjuukWallBB.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBB.description>
+  <SadjuukWallBB_Blueprint.label>Steel Wall B (blueprint)</SadjuukWallBB_Blueprint.label>
+  <SadjuukWallBB_Frame.label>Steel Wall B (building)</SadjuukWallBB_Frame.label>
+  <SadjuukWallBB_Frame.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBB_Frame.description>
+
+
+  <!-- Steel Embrasure BB -->
+
+  <SadjuukEmbrasureBB.label>Steel Embrasure B</SadjuukEmbrasureBB.label>
+  <SadjuukEmbrasureBB.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBB.description>
+  <SadjuukEmbrasureBB_Blueprint.label>Steel Embrasure B (blueprint)</SadjuukEmbrasureBB_Blueprint.label>
+  <SadjuukEmbrasureBB_Frame.label>Steel Embrasure B (building)</SadjuukEmbrasureBB_Frame.label>
+  <SadjuukEmbrasureBB_Frame.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBB_Frame.description>
+
+
+  <!-- Concrete Wall CA -->
+
+  <SadjuukWallCA.label>Concrete Wall A</SadjuukWallCA.label>
+  <SadjuukWallCA.description>HP : 775
+Concrete wall.</SadjuukWallCA.description>
+  <SadjuukWallCA_Blueprint.label>Concrete Wall A (blueprint)</SadjuukWallCA_Blueprint.label>
+  <SadjuukWallCA_Frame.label>Concrete Wall A (building)</SadjuukWallCA_Frame.label>
+  <SadjuukWallCA_Frame.description>HP : 775
+Concrete wall.</SadjuukWallCA_Frame.description>
+
+
+  <!-- Concrete Embrasure CA -->
+
+  <SadjuukEmbrasureCA.label>Concrete Embrasure A</SadjuukEmbrasureCA.label>
+  <SadjuukEmbrasureCA.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCA.description>
+  <SadjuukEmbrasureCA_Blueprint.label>Concrete Embrasure A (blueprint)</SadjuukEmbrasureCA_Blueprint.label>
+  <SadjuukEmbrasureCA_Frame.label>Concrete Embrasure A (building)</SadjuukEmbrasureCA_Frame.label>
+  <SadjuukEmbrasureCA_Frame.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCA_Frame.description>
+
+
+  <!-- Concrete Wall CB -->
+
+  <SadjuukWallCB.label>Concrete Wall B</SadjuukWallCB.label>
+  <SadjuukWallCB.description>HP : 775
+Concrete wall.</SadjuukWallCB.description>
+  <SadjuukWallCB_Blueprint.label>Concrete Wall B (blueprint)</SadjuukWallCB_Blueprint.label>
+  <SadjuukWallCB_Frame.label>Concrete Wall B (building)</SadjuukWallCB_Frame.label>
+  <SadjuukWallCB_Frame.description>HP : 775
+Concrete wall.</SadjuukWallCB_Frame.description>
+
+
+  <!-- Concrete Embrasure CB -->
+
+  <SadjuukEmbrasureCB.label>Concrete Embrasure B</SadjuukEmbrasureCB.label>
+  <SadjuukEmbrasureCB.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCB.description>
+  <SadjuukEmbrasureCB_Blueprint.label>Concrete Embrasure B (blueprint)</SadjuukEmbrasureCB_Blueprint.label>
+  <SadjuukEmbrasureCB_Frame.label>Concrete Embrasure B (building)</SadjuukEmbrasureCB_Frame.label>
+  <SadjuukEmbrasureCB_Frame.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCB_Frame.description>
+
+
+  <!-- Concrete Wall CC -->
+
+  <SadjuukWallCC.label>Concrete Wall C</SadjuukWallCC.label>
+  <SadjuukWallCC.description>HP : 775
+Concrete wall.</SadjuukWallCC.description>
+  <SadjuukWallCC_Blueprint.label>Concrete Wall C (blueprint)</SadjuukWallCC_Blueprint.label>
+  <SadjuukWallCC_Frame.label>Concrete Wall C (building)</SadjuukWallCC_Frame.label>
+  <SadjuukWallCC_Frame.description>HP : 775
+Concrete wall.</SadjuukWallCC_Frame.description>
+
+
+  <!-- Concrete Embrasure CC -->
+
+  <SadjuukEmbrasureCC.label>Concrete Embrasure C</SadjuukEmbrasureCC.label>
+  <SadjuukEmbrasureCC.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCC.description>
+  <SadjuukEmbrasureCC_Blueprint.label>Concrete Embrasure C (blueprint)</SadjuukEmbrasureCC_Blueprint.label>
+  <SadjuukEmbrasureCC_Frame.label>Concrete Embrasure C (building)</SadjuukEmbrasureCC_Frame.label>
+  <SadjuukEmbrasureCC_Frame.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCC_Frame.description>
+
+
+  <!-- Concrete Wall CD -->
+
+  <SadjuukWallCD.label>Concrete Wall D</SadjuukWallCD.label>
+  <SadjuukWallCD.description>HP : 775
+Concrete wall.</SadjuukWallCD.description>
+  <SadjuukWallCD_Blueprint.label>Concrete Wall D (blueprint)</SadjuukWallCD_Blueprint.label>
+  <SadjuukWallCD_Frame.label>Concrete Wall D (building)</SadjuukWallCD_Frame.label>
+  <SadjuukWallCD_Frame.description>HP : 775
+Concrete wall.</SadjuukWallCD_Frame.description>
+
+
+  <!-- Concrete Embrasure CD -->
+
+  <SadjuukEmbrasureCD.label>Concrete Embrasure D</SadjuukEmbrasureCD.label>
+  <SadjuukEmbrasureCD.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCD.description>
+  <SadjuukEmbrasureCD_Blueprint.label>Concrete Embrasure D (blueprint)</SadjuukEmbrasureCD_Blueprint.label>
+  <SadjuukEmbrasureCD_Frame.label>Concrete Embrasure D (building)</SadjuukEmbrasureCD_Frame.label>
+  <SadjuukEmbrasureCD_Frame.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCD_Frame.description>
+
+
+  <!-- Concrete Wall CE -->
+
+  <SadjuukWallCE.label>Concrete Wall E</SadjuukWallCE.label>
+  <SadjuukWallCE.description>HP : 775
+Concrete wall.</SadjuukWallCE.description>
+  <SadjuukWallCE_Blueprint.label>Concrete Wall E (blueprint)</SadjuukWallCE_Blueprint.label>
+  <SadjuukWallCE_Frame.label>Concrete Wall E (building)</SadjuukWallCE_Frame.label>
+  <SadjuukWallCE_Frame.description>HP : 775
+Concrete wall.</SadjuukWallCE_Frame.description>
+
+
+  <!-- Concrete Embrasure CE -->
+
+  <SadjuukEmbrasureCE.label>Concrete Embrasure E</SadjuukEmbrasureCE.label>
+  <SadjuukEmbrasureCE.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCE.description>
+  <SadjuukEmbrasureCE_Blueprint.label>Concrete Embrasure E (blueprint)</SadjuukEmbrasureCE_Blueprint.label>
+  <SadjuukEmbrasureCE_Frame.label>Concrete Embrasure E (building)</SadjuukEmbrasureCE_Frame.label>
+  <SadjuukEmbrasureCE_Frame.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCE_Frame.description>
+
+
+  <!-- Shielded Wall DA -->
+
+  <SadjuukWallDA.label>Shielded Wall</SadjuukWallDA.label>
+  <SadjuukWallDA.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDA.description>
+  <SadjuukWallDA_Blueprint.label>Shielded Wall (blueprint)</SadjuukWallDA_Blueprint.label>
+  <SadjuukWallDA_Frame.label>Shielded Wall (building)</SadjuukWallDA_Frame.label>
+  <SadjuukWallDA_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDA_Frame.description>
+
+
+  <!-- Shielded Embrasure DA -->
+
+  <SadjuukEmbrasureDA.label>Shielded Embrasure</SadjuukEmbrasureDA.label>
+  <SadjuukEmbrasureDA.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDA.description>
+  <SadjuukEmbrasureDA_Blueprint.label>Shielded Embrasure (blueprint)</SadjuukEmbrasureDA_Blueprint.label>
+  <SadjuukEmbrasureDA_Frame.label>Shielded Embrasure (building)</SadjuukEmbrasureDA_Frame.label>
+  <SadjuukEmbrasureDA_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDA_Frame.description>
+
+
+  <!-- Shielded Wall DB -->
+
+  <SadjuukWallDB.label>Green Shielded Wall</SadjuukWallDB.label>
+  <SadjuukWallDB.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDB.description>
+  <SadjuukWallDB_Blueprint.label>Green Shielded Wall (blueprint)</SadjuukWallDB_Blueprint.label>
+  <SadjuukWallDB_Frame.label>Green Shielded Wall (building)</SadjuukWallDB_Frame.label>
+  <SadjuukWallDB_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDB_Frame.description>
+
+
+  <!-- Shielded Embrasure DB -->
+
+  <SadjuukEmbrasureDB.label>Green Shielded Embrasure</SadjuukEmbrasureDB.label>
+  <SadjuukEmbrasureDB.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDB.description>
+  <SadjuukEmbrasureDB_Blueprint.label>Green Shielded Embrasure (blueprint)</SadjuukEmbrasureDB_Blueprint.label>
+  <SadjuukEmbrasureDB_Frame.label>Green Shielded Embrasure (building)</SadjuukEmbrasureDB_Frame.label>
+  <SadjuukEmbrasureDB_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDB_Frame.description>
+
+
+  <!-- Shielded Wall DC -->
+
+  <SadjuukWallDC.label>Woodland Camo Wall</SadjuukWallDC.label>
+  <SadjuukWallDC.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDC.description>
+  <SadjuukWallDC_Blueprint.label>Woodland Camo Wall (blueprint)</SadjuukWallDC_Blueprint.label>
+  <SadjuukWallDC_Frame.label>Woodland Camo Wall (building)</SadjuukWallDC_Frame.label>
+  <SadjuukWallDC_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDC_Frame.description>
+
+
+  <!-- Shielded Embrasure DC -->
+
+  <SadjuukEmbrasureDC.label>Woodland Camo Embrasure</SadjuukEmbrasureDC.label>
+  <SadjuukEmbrasureDC.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDC.description>
+  <SadjuukEmbrasureDC_Blueprint.label>Woodland Camo Embrasure (blueprint)</SadjuukEmbrasureDC_Blueprint.label>
+  <SadjuukEmbrasureDC_Frame.label>Woodland Camo Embrasure (building)</SadjuukEmbrasureDC_Frame.label>
+  <SadjuukEmbrasureDC_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDC_Frame.description>
+
+
+  <!-- Shielded Wall DD -->
+
+  <SadjuukWallDD.label>Flecktarn Camo Wall</SadjuukWallDD.label>
+  <SadjuukWallDD.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDD.description>
+  <SadjuukWallDD_Blueprint.label>Flecktarn Camo Wall (blueprint)</SadjuukWallDD_Blueprint.label>
+  <SadjuukWallDD_Frame.label>Flecktarn Camo Wall (building)</SadjuukWallDD_Frame.label>
+  <SadjuukWallDD_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDD_Frame.description>
+
+
+  <!-- Shielded Embrasure DD -->
+
+  <SadjuukEmbrasureDD.label>Flecktarn Camo Embrasure</SadjuukEmbrasureDD.label>
+  <SadjuukEmbrasureDD.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDD.description>
+  <SadjuukEmbrasureDD_Blueprint.label>Flecktarn Camo Embrasure (blueprint)</SadjuukEmbrasureDD_Blueprint.label>
+  <SadjuukEmbrasureDD_Frame.label>Flecktarn Camo Embrasure (building)</SadjuukEmbrasureDD_Frame.label>
+  <SadjuukEmbrasureDD_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDD_Frame.description>
+
+
+  <!-- Shielded Wall DE -->
+
+  <SadjuukWallDE.label>Desert Camo Wall</SadjuukWallDE.label>
+  <SadjuukWallDE.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDE.description>
+  <SadjuukWallDE_Blueprint.label>Desert Camo Wall (blueprint)</SadjuukWallDE_Blueprint.label>
+  <SadjuukWallDE_Frame.label>Desert Camo Wall (building)</SadjuukWallDE_Frame.label>
+  <SadjuukWallDE_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDE_Frame.description>
+
+
+  <!-- Shielded Embrasure DE -->
+
+  <SadjuukEmbrasureDE.label>Desert Camo Embrasure</SadjuukEmbrasureDE.label>
+  <SadjuukEmbrasureDE.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDE.description>
+  <SadjuukEmbrasureDE_Blueprint.label>Desert Camo Embrasure (blueprint)</SadjuukEmbrasureDE_Blueprint.label>
+  <SadjuukEmbrasureDE_Frame.label>Desert Camo Embrasure (building)</SadjuukEmbrasureDE_Frame.label>
+  <SadjuukEmbrasureDE_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDE_Frame.description>
+
+
+  <!-- Shielded Wall DF -->
+
+  <SadjuukWallDF.label>Ice Camo Wall</SadjuukWallDF.label>
+  <SadjuukWallDF.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDF.description>
+  <SadjuukWallDF_Blueprint.label>Ice Camo Wall (blueprint)</SadjuukWallDF_Blueprint.label>
+  <SadjuukWallDF_Frame.label>Ice Camo Wall (building)</SadjuukWallDF_Frame.label>
+  <SadjuukWallDF_Frame.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDF_Frame.description>
+
+
+  <!-- Shielded Embrasure DF -->
+
+  <SadjuukEmbrasureDF.label>Ice Camo Embrasure</SadjuukEmbrasureDF.label>
+  <SadjuukEmbrasureDF.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDF.description>
+  <SadjuukEmbrasureDF_Blueprint.label>Ice Camo Embrasure (blueprint)</SadjuukEmbrasureDF_Blueprint.label>
+  <SadjuukEmbrasureDF_Frame.label>Ice Camo Embrasure (building)</SadjuukEmbrasureDF_Frame.label>
+  <SadjuukEmbrasureDF_Frame.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDF_Frame.description>
+
+
+  <!-- Armored Wall EA -->
+
+  <SadjuukWallEA.label>Armored Wall A</SadjuukWallEA.label>
+  <SadjuukWallEA.description>HP : 3350
+Armored concrete wall.</SadjuukWallEA.description>
+  <SadjuukWallEA_Blueprint.label>Armored Wall A (blueprint)</SadjuukWallEA_Blueprint.label>
+  <SadjuukWallEA_Frame.label>Armored Wall A (building)</SadjuukWallEA_Frame.label>
+  <SadjuukWallEA_Frame.description>HP : 3350
+Armored concrete wall.</SadjuukWallEA_Frame.description>
+
+
+  <!-- Armored Embrasure EA -->
+
+  <SadjuukEmbrasureEA.label>Armored Embrasure A</SadjuukEmbrasureEA.label>
+  <SadjuukEmbrasureEA.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEA.description>
+  <SadjuukEmbrasureEA_Blueprint.label>Armored Embrasure A (blueprint)</SadjuukEmbrasureEA_Blueprint.label>
+  <SadjuukEmbrasureEA_Frame.label>Armored Embrasure A (building)</SadjuukEmbrasureEA_Frame.label>
+  <SadjuukEmbrasureEA_Frame.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEA_Frame.description>
+
+
+  <!-- Armored Wall EB -->
+
+  <SadjuukWallEB.label>Armored Wall B</SadjuukWallEB.label>
+  <SadjuukWallEB.description>HP : 3350
+Armored concrete wall.</SadjuukWallEB.description>
+  <SadjuukWallEB_Blueprint.label>Armored Wall B (blueprint)</SadjuukWallEB_Blueprint.label>
+  <SadjuukWallEB_Frame.label>Armored Wall B (building)</SadjuukWallEB_Frame.label>
+  <SadjuukWallEB_Frame.description>HP : 3350
+Armored concrete wall.</SadjuukWallEB_Frame.description>
+
+
+  <!-- Armored Embrasure EB -->
+
+  <SadjuukEmbrasureEB.label>Armored Embrasure B</SadjuukEmbrasureEB.label>
+  <SadjuukEmbrasureEB.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEB.description>
+  <SadjuukEmbrasureEB_Blueprint.label>Armored Embrasure B (blueprint)</SadjuukEmbrasureEB_Blueprint.label>
+  <SadjuukEmbrasureEB_Frame.label>Armored Embrasure B (building)</SadjuukEmbrasureEB_Frame.label>
+  <SadjuukEmbrasureEB_Frame.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEB_Frame.description>
+
+
+  <!-- Armored Wall EC -->
+
+  <SadjuukWallEC.label>Armored Wall C</SadjuukWallEC.label>
+  <SadjuukWallEC.description>HP : 3350
+Armored concrete wall.</SadjuukWallEC.description>
+  <SadjuukWallEC_Blueprint.label>Armored Wall C (blueprint)</SadjuukWallEC_Blueprint.label>
+  <SadjuukWallEC_Frame.label>Armored Wall C (building)</SadjuukWallEC_Frame.label>
+  <SadjuukWallEC_Frame.description>HP : 3350
+Armored concrete wall.</SadjuukWallEC_Frame.description>
+
+
+  <!-- Armored Embrasure EC -->
+
+  <SadjuukEmbrasureEC.label>Armored Embrasure C</SadjuukEmbrasureEC.label>
+  <SadjuukEmbrasureEC.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEC.description>
+  <SadjuukEmbrasureEC_Blueprint.label>Armored Embrasure C (blueprint)</SadjuukEmbrasureEC_Blueprint.label>
+  <SadjuukEmbrasureEC_Frame.label>Armored Embrasure C (building)</SadjuukEmbrasureEC_Frame.label>
+  <SadjuukEmbrasureEC_Frame.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEC_Frame.description>
+
+
+  <!-- Armored Wall ED -->
+
+  <SadjuukWallED.label>Armored Wall D</SadjuukWallED.label>
+  <SadjuukWallED.description>HP : 3350
+Armored concrete wall.</SadjuukWallED.description>
+  <SadjuukWallED_Blueprint.label>Armored Wall D (blueprint)</SadjuukWallED_Blueprint.label>
+  <SadjuukWallED_Frame.label>Armored Wall D (building)</SadjuukWallED_Frame.label>
+  <SadjuukWallED_Frame.description>HP : 3350
+Armored concrete wall.</SadjuukWallED_Frame.description>
+
+
+  <!-- Armored Embrasure ED -->
+
+  <SadjuukEmbrasureED.label>Armored Embrasure D</SadjuukEmbrasureED.label>
+  <SadjuukEmbrasureED.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureED.description>
+  <SadjuukEmbrasureED_Blueprint.label>Armored Embrasure D (blueprint)</SadjuukEmbrasureED_Blueprint.label>
+  <SadjuukEmbrasureED_Frame.label>Armored Embrasure D (building)</SadjuukEmbrasureED_Frame.label>
+  <SadjuukEmbrasureED_Frame.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureED_Frame.description>
+
+
+  <!-- Wooden Fence -->
+
+  <SadjuukWoodFence.label>Wood Fence</SadjuukWoodFence.label>
+  <SadjuukWoodFence.description>HP : 80
+A rustic Wooden fence.</SadjuukWoodFence.description>
+  <SadjuukWoodFence_Blueprint.label>Wood Fence (blueprint)</SadjuukWoodFence_Blueprint.label>
+  <SadjuukWoodFence_Frame.label>Wood Fence (building)</SadjuukWoodFence_Frame.label>
+  <SadjuukWoodFence_Frame.description>HP : 80
+A rustic Wooden fence.</SadjuukWoodFence_Frame.description>
+
+
+  <!-- Grid Fence -->
+
+  <SadjuukGridFence.label>Grid Fence</SadjuukGridFence.label>
+  <SadjuukGridFence.description>HP : 250
+An industrial metal grid fence.</SadjuukGridFence.description>
+  <SadjuukGridFence_Blueprint.label>Grid Fence (blueprint)</SadjuukGridFence_Blueprint.label>
+  <SadjuukGridFence_Frame.label>Grid Fence (building)</SadjuukGridFence_Frame.label>
+  <SadjuukGridFence_Frame.description>HP : 250
+An industrial metal grid fence.</SadjuukGridFence_Frame.description>
+
+
+  <!-- Glass Partition -->
+
+  <SadjuukGlassFenceA.label>Glass Partition</SadjuukGlassFenceA.label>
+  <SadjuukGlassFenceA.description>HP : 70
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukGlassFenceA.description>
+  <SadjuukGlassFenceA_Blueprint.label>Glass Partition (blueprint)</SadjuukGlassFenceA_Blueprint.label>
+  <SadjuukGlassFenceA_Frame.label>Glass Partition (building)</SadjuukGlassFenceA_Frame.label>
+  <SadjuukGlassFenceA_Frame.description>HP : 70
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukGlassFenceA_Frame.description>
+
+
+  <!-- Concrete Fence -->
+
+  <SadjuukConcreteFence.label>Concrete Fence</SadjuukConcreteFence.label>
+  <SadjuukConcreteFence.description>HP : 300
+An industrial concrete fence.</SadjuukConcreteFence.description>
+  <SadjuukConcreteFence_Blueprint.label>Concrete Fence (blueprint)</SadjuukConcreteFence_Blueprint.label>
+  <SadjuukConcreteFence_Frame.label>Concrete Fence (building)</SadjuukConcreteFence_Frame.label>
+  <SadjuukConcreteFence_Frame.description>HP : 300
+An industrial concrete fence.</SadjuukConcreteFence_Frame.description>
+
+
+</LanguageData>

@@ -1,1150 +1,1105 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
-
-<!-- ============================================================================= -->
-<!-- Bessemer Converter -->
-<!-- ============================================================================= -->
-	<!-- Steel plate (75 steel) -->
-    <RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Bessemer Converter -->
+  <!-- ============================================================================= -->
+  <!-- Steel plate (75 steel) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeA</defName>
     <label>Produce 75 steel plates.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Steel</li>
-				</thingDefs>
-			</filter>
-			<count>75</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>75</SadjuukSteelPlate>
+      <SadjuukSteelPlate>75</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Steel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel plate (1/30 Steel chunk) -->
-	<RecipeDef>
+  </RecipeDef>
+  <!-- Steel plate (1/30 Steel chunk) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeCA</defName>
     <label>Produce steel plates from chunks.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>SmeltingSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ChunkSlagSteel</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChunkSlagSteel</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>30</SadjuukSteelPlate>
+      <SadjuukSteelPlate>30</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ChunkSlagSteel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-	</RecipeDef>
-
-
-<!-- ============================================================================= -->	
-<!-- Open Hearth Furnace -->
-<!-- ============================================================================= -->
-	<!-- Steel plate (150 steel) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Open Hearth Furnace -->
+  <!-- ============================================================================= -->
+  <!-- Steel plate (150 steel) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeB</defName>
     <label>Produce 150 steel plates.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Steel</li>
-				</thingDefs>
-			</filter>
-			<count>150</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>150</SadjuukSteelPlate>
+      <SadjuukSteelPlate>150</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Steel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel plate (2/75 Steel chunk) -->
-	<RecipeDef>
+  </RecipeDef>
+  <!-- Steel plate (2/75 Steel chunk) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeCB</defName>
     <label>Produce steel plates from chunks.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>SmeltingSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ChunkSlagSteel</li>
-				</thingDefs>
-			</filter>
-			<count>2</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChunkSlagSteel</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>75</SadjuukSteelPlate>
+      <SadjuukSteelPlate>75</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ChunkSlagSteel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-	</RecipeDef>
-	
-
-<!-- ============================================================================= -->
-<!-- Electric Arc Furnace -->
-<!-- ============================================================================= -->
-	<!-- Steel plate (225 steel) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Electric Arc Furnace -->
+  <!-- ============================================================================= -->
+  <!-- Steel plate (225 steel) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeC</defName>
     <label>Produce 225 steel plates.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Steel</li>
-				</thingDefs>
-			</filter>
-			<count>225</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>225</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>225</SadjuukSteelPlate>
+      <SadjuukSteelPlate>225</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Steel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel plate (3/135 Steel chunk) -->
-	<RecipeDef>
+  </RecipeDef>
+  <!-- Steel plate (3/135 Steel chunk) -->
+  <RecipeDef>
     <defName>SadjuukSteelSlabRecipeCC</defName>
     <label>Produce steel plates from chunks.</label>
     <description>Produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>2400</workAmount>
     <workSpeedStat>SmeltingSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ChunkSlagSteel</li>
-				</thingDefs>
-			</filter>
-			<count>3</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ChunkSlagSteel</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>135</SadjuukSteelPlate>
+      <SadjuukSteelPlate>135</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ChunkSlagSteel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ChunkSlagSteel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-	</RecipeDef>
-	
-
-<!-- ============================================================================= -->
-<!-- Metalworking Bench -->
-<!-- ============================================================================= -->
-	<!-- Steel Plate from raw steel -->
-	<RecipeDef>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Metalworking Bench -->
+  <!-- ============================================================================= -->
+  <!-- Steel Plate from raw steel -->
+  <RecipeDef>
     <defName>SadjuukSteelPlateRecipe2A</defName>
     <label>Produce 1 steel plate.</label>
     <description>Manually treat raw steel to produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>300</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Steel</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>1</SadjuukSteelPlate>
+      <SadjuukSteelPlate>1</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Steel</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	</RecipeDef>
-  
-	<!-- Steel Plate from raw steel -->
-    <RecipeDef>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+  </RecipeDef>
+  <!-- Steel Plate from raw steel -->
+  <RecipeDef>
     <defName>SadjuukSteelPlateRecipeA</defName>
     <label>Produce 15 steel plates.</label>
     <description>Manually treat raw steel to produce steel plates.</description>
     <jobString>Producing steel plates.</jobString>
     <workAmount>4500</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Steel</li>
-				</thingDefs>
-			</filter>
-			<count>15</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelPlate>15</SadjuukSteelPlate>
+      <SadjuukSteelPlate>15</SadjuukSteelPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Steel</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Metal Grid -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Metal Grid -->
+  <RecipeDef>
     <defName>SadjuukMetalGridRecipeA</defName>
     <label>Produce 1 metal grid.</label>
     <description>Produce various metal grids.</description>
     <jobString>Producing metal grids.</jobString>
     <workAmount>400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukMetalGrid>1</SadjuukMetalGrid>
+      <SadjuukMetalGrid>1</SadjuukMetalGrid>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Metal Grid -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Metal Grid -->
+  <RecipeDef>
     <defName>SadjuukMetalGridRecipeAB</defName>
     <label>Produce 15 metal grid.</label>
     <description>Produce various metal grids.</description>
     <jobString>Producing metal grids.</jobString>
     <workAmount>6000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>15</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukMetalGrid>15</SadjuukMetalGrid>
+      <SadjuukMetalGrid>15</SadjuukMetalGrid>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel Tube -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Steel Tube -->
+  <RecipeDef>
     <defName>SadjuukSteelTubeRecipeA</defName>
     <label>Produce 1 steel tube.</label>
     <description>Produce various steel tubes.</description>
     <jobString>Producing steel tubes.</jobString>
     <workAmount>400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelTube>1</SadjuukSteelTube>
+      <SadjuukSteelTube>1</SadjuukSteelTube>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel Tube -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Steel Tube -->
+  <RecipeDef>
     <defName>SadjuukSteelTubeRecipeAB</defName>
     <label>Produce 15 steel tube.</label>
     <description>Produce various steel tubes.</description>
     <jobString>Producing steel tubes.</jobString>
     <workAmount>6000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>15</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelTube>15</SadjuukSteelTube>
+      <SadjuukSteelTube>15</SadjuukSteelTube>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Wire -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Wire -->
+  <RecipeDef>
     <defName>SadjuukWireRecipeA</defName>
     <label>Make 10 wire and cable sets.</label>
     <description>Produce wires and cable sets.</description>
     <jobString>Producing wires and cable sets.</jobString>
     <workAmount>900</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukWire>10</SadjuukWire>
+      <SadjuukWire>10</SadjuukWire>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Basic Component -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Basic Component -->
+  <RecipeDef>
     <defName>SadjuukBasicComponentRecipeA</defName>
     <label>Make 10 Basic Components.</label>
     <description>Produce various Components.</description>
     <jobString>Producing various Industrial Components.</jobString>
     <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smith</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ComponentIndustrial</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-				<li>SadjuukWire</li>
-				</thingDefs>
-			</filter>
-			<count>10</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukWire</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukBasicComponent>10</SadjuukBasicComponent>
+      <SadjuukBasicComponent>10</SadjuukBasicComponent>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ComponentIndustrial</li>
-			<li>SadjuukWire</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ComponentIndustrial</li>
+        <li>SadjuukWire</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-
-<!-- ============================================================================= -->
-<!-- Metalworking Line -->
-<!-- ============================================================================= -->
-	<!-- Metal Grid (1) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Metalworking Line -->
+  <!-- ============================================================================= -->
+  <!-- Metal Grid (1) -->
+  <RecipeDef>
     <defName>SadjuukMetalGridRecipeB</defName>
     <label>Produce 1 metal grid.</label>
     <description>Produce various metal grids.</description>
     <jobString>Producing metal grids.</jobString>
     <workAmount>200</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smelt</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukMetalGrid>1</SadjuukMetalGrid>
+      <SadjuukMetalGrid>1</SadjuukMetalGrid>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Metal Grid (25) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Metal Grid (25) -->
+  <RecipeDef>
     <defName>SadjuukMetalGridRecipeC</defName>
     <label>Produce 25 metal grid.</label>
     <description>Produce various metal grids.</description>
     <jobString>Producing metal grids.</jobString>
     <workAmount>5000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smelt</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>25</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukMetalGrid>25</SadjuukMetalGrid>
+      <SadjuukMetalGrid>25</SadjuukMetalGrid>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel Tube (1) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Steel Tube (1) -->
+  <RecipeDef>
     <defName>SadjuukSteelTubeRecipeB</defName>
     <label>Produce 1 steel tube.</label>
     <description>Produce various steel tubes.</description>
     <jobString>Producing steel tubes.</jobString>
     <workAmount>200</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smelt</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelTube>1</SadjuukSteelTube>
+      <SadjuukSteelTube>1</SadjuukSteelTube>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Steel Tube (25) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Steel Tube (25) -->
+  <RecipeDef>
     <defName>SadjuukSteelTubeRecipeC</defName>
     <label>Produce 25 steel tube.</label>
     <description>Produce various steel tubes.</description>
     <jobString>Producing steel tubes.</jobString>
     <workAmount>5000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Smelt</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>25</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSteelTube>25</SadjuukSteelTube>
+      <SadjuukSteelTube>25</SadjuukSteelTube>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Wire (10) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Wire (10) -->
+  <RecipeDef>
     <defName>SadjuukWireRecipeB</defName>
     <label>Make 10 wires and cable sets.</label>
     <description>Produce wires and cable sets.</description>
     <jobString>Producing wires and cable sets.</jobString>
     <workAmount>450</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukWire>10</SadjuukWire>
+      <SadjuukWire>10</SadjuukWire>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Wire (120) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Wire (120) -->
+  <RecipeDef>
     <defName>SadjuukWireRecipeC</defName>
     <label>Make 120 wires and cable sets.</label>
     <description>Produce wires and cable sets.</description>
     <jobString>Producing wires and cable sets.</jobString>
     <workAmount>5400</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>12</count>
-		</li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukWire>120</SadjuukWire>
+      <SadjuukWire>120</SadjuukWire>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Armored Plate (1) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Armored Plate (1) -->
+  <RecipeDef>
     <defName>SadjuukArmoredPlateRecipeB</defName>
     <label>Make 1 Armored Plate.</label>
     <description>Produce Armored Plate.</description>
     <jobString>Producing Armored Plate.</jobString>
     <workAmount>800</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Plasteel</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukArmoredPlate>1</SadjuukArmoredPlate>
+      <SadjuukArmoredPlate>1</SadjuukArmoredPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Plasteel</li>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Armored Plate (7) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Armored Plate (7) -->
+  <RecipeDef>
     <defName>SadjuukArmoredPlateRecipeC</defName>
     <label>Make 7 Armored Plate.</label>
     <description>Produce Armored Plate.</description>
     <jobString>Producing Armored Plate.</jobString>
     <workAmount>5600</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Plasteel</li>
-				</thingDefs>
-			</filter>
-			<count>7</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukSteelPlate</li>
-				</thingDefs>
-			</filter>
-			<count>7</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukSteelPlate</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukArmoredPlate>7</SadjuukArmoredPlate>
+      <SadjuukArmoredPlate>7</SadjuukArmoredPlate>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>Plasteel</li>
-			<li>SadjuukSteelPlate</li>
-		</thingDefs>
+      <thingDefs>
+        <li>Plasteel</li>
+        <li>SadjuukSteelPlate</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-
-<!-- ============================================================================= -->
-<!-- Assembly Line -->
-<!-- ============================================================================= -->
-	<!-- Basic Component (10) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Assembly Line -->
+  <!-- ============================================================================= -->
+  <!-- Basic Component (10) -->
+  <RecipeDef>
     <defName>SadjuukBasicComponentRecipeB</defName>
     <label>Make 10 Basic Components.</label>
     <description>Produce various Components.</description>
     <jobString>Producing various Industrial Components.</jobString>
     <workAmount>500</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ComponentIndustrial</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukWire</li>
-				</thingDefs>
-			</filter>
-			<count>10</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukWire</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukBasicComponent>10</SadjuukBasicComponent>
+      <SadjuukBasicComponent>10</SadjuukBasicComponent>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ComponentIndustrial</li>
-			<li>SadjuukWire</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ComponentIndustrial</li>
+        <li>SadjuukWire</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-	<!-- Basic Component (60) -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Basic Component (60) -->
+  <RecipeDef>
     <defName>SadjuukBasicComponentRecipeC</defName>
     <label>Make 60 Basic Components.</label>
     <description>Produce various Components.</description>
     <jobString>Producing various Industrial Components.</jobString>
     <workAmount>3000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>ComponentIndustrial</li>
-				</thingDefs>
-			</filter>
-			<count>6</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukWire</li>
-				</thingDefs>
-			</filter>
-			<count>60</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>6</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukWire</li>
+          </thingDefs>
+        </filter>
+        <count>60</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukBasicComponent>60</SadjuukBasicComponent>
+      <SadjuukBasicComponent>60</SadjuukBasicComponent>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>ComponentIndustrial</li>
-			<li>SadjuukWire</li>
-		</thingDefs>
+      <thingDefs>
+        <li>ComponentIndustrial</li>
+        <li>SadjuukWire</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Solar Cell -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Solar Cell -->
+  <RecipeDef>
     <defName>SadjuukSolarCellRecipeA</defName>
     <label>Make 1 Solar Cell.</label>
     <description>Produce Solar Cell.</description>
     <jobString>Producing Solar Cell.</jobString>
     <workAmount>250</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukBasicComponent</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukGlass</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukBasicComponent</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukGlass</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSolarCell>1</SadjuukSolarCell>
+      <SadjuukSolarCell>1</SadjuukSolarCell>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukBasicComponent</li>
-			<li>SadjuukGlass</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukBasicComponent</li>
+        <li>SadjuukGlass</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-
-	<!-- Solar Cell -->
-    <RecipeDef>
+  </RecipeDef>
+  <!-- Solar Cell -->
+  <RecipeDef>
     <defName>SadjuukSolarCellRecipeB</defName>
     <label>Make 12 Solar Cell.</label>
     <description>Produce Solar Cell.</description>
     <jobString>Producing Solar Cell.</jobString>
     <workAmount>3000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<workSkill>Crafting</workSkill>
+    <workSkill>Crafting</workSkill>
     <effectWorking>Smelt</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukBasicComponent</li>
-				</thingDefs>
-			</filter>
-			<count>12</count>
-		</li>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukGlass</li>
-				</thingDefs>
-			</filter>
-			<count>12</count>
-		</li>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukBasicComponent</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukGlass</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
     </ingredients>
     <products>
-		<SadjuukSolarCell>12</SadjuukSolarCell>
+      <SadjuukSolarCell>12</SadjuukSolarCell>
     </products>
     <fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukBasicComponent</li>
-			<li>SadjuukGlass</li>
-		</thingDefs>
+      <thingDefs>
+        <li>SadjuukBasicComponent</li>
+        <li>SadjuukGlass</li>
+      </thingDefs>
     </fixedIngredientFilter>
-    </RecipeDef>
-	
-
-<!-- ============================================================================= -->
-<!-- Fuel Oil Refinery -->
-<!-- ============================================================================= -->
-	<!-- Chemfuel recipe WOOD -->
-	<RecipeDef>
-	<defName>SadjuukChemfuelRecipeA</defName>
-	<label>Make 40 chemfuel from wood</label>
-	<description>Extract biofuel from wood logs.</description>
-	<jobString>Refining chemfuel from wood.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Fuel Oil Refinery -->
+  <!-- ============================================================================= -->
+  <!-- Chemfuel recipe WOOD -->
+  <RecipeDef>
+    <defName>SadjuukChemfuelRecipeA</defName>
+    <label>Make 40 chemfuel from wood</label>
+    <description>Extract biofuel from wood logs.</description>
+    <jobString>Refining chemfuel from wood.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>WoodLog</li>
-				</thingDefs>
-			</filter>
-			<count>75</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>WoodLog</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<Chemfuel>40</Chemfuel>
-	</products>
-	</RecipeDef>
-
-	<!-- Chemfuel recipe HAY -->
-	<RecipeDef>
-	<defName>SadjuukChemfuelRecipeC</defName>
-	<label>Make 40 chemfuel from hay</label>
-	<description>Extract biofuel from hay.</description>
-	<jobString>Refining chemfuel hay.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>75</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WoodLog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Chemfuel>40</Chemfuel>
+    </products>
+  </RecipeDef>
+  <!-- Chemfuel recipe HAY -->
+  <RecipeDef>
+    <defName>SadjuukChemfuelRecipeC</defName>
+    <label>Make 40 chemfuel from hay</label>
+    <description>Extract biofuel from hay.</description>
+    <jobString>Refining chemfuel hay.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Hay</li>
-				</thingDefs>
-			</filter>
-			<count>200</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>Hay</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<Chemfuel>40</Chemfuel>
-	</products>
-	</RecipeDef>
-	
-	<!-- Fuel Oil from 150 chemfuel-->
-	<RecipeDef>
-	<defName>SadjuukFuelOilRecipeA</defName>
-	<label>Make Fuel Oil from chemfuel</label>
-	<description>Extract Fuel Oil from chemfuel.</description>
-	<jobString>Refining Fuel Oil from chemfuel.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hay</li>
+          </thingDefs>
+        </filter>
+        <count>200</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Hay</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Chemfuel>40</Chemfuel>
+    </products>
+  </RecipeDef>
+  <!-- Fuel Oil from 150 chemfuel-->
+  <RecipeDef>
+    <defName>SadjuukFuelOilRecipeA</defName>
+    <label>Make Fuel Oil from chemfuel</label>
+    <description>Extract Fuel Oil from chemfuel.</description>
+    <jobString>Refining Fuel Oil from chemfuel.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Chemfuel</li>
-				</thingDefs>
-			</filter>
-			<count>150</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>Chemfuel</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukFuelOil>1</SadjuukFuelOil>
-	</products>
-	</RecipeDef>
-	
-	<!-- Fuel Oil from 225 Wood -->
-	<RecipeDef>
-	<defName>SadjuukFuelOilRecipeB</defName>
-	<label>Make Fuel Oil from wood</label>
-	<description>Extract Fuel Oil from Wood.</description>
-	<jobString>Refining Fuel Oil from Wood.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>2000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukFuelOil>1</SadjuukFuelOil>
+    </products>
+  </RecipeDef>
+  <!-- Fuel Oil from 225 Wood -->
+  <RecipeDef>
+    <defName>SadjuukFuelOilRecipeB</defName>
+    <label>Make Fuel Oil from wood</label>
+    <description>Extract Fuel Oil from Wood.</description>
+    <jobString>Refining Fuel Oil from Wood.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>2000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>WoodLog</li>
-				</thingDefs>
-			</filter>
-			<count>225</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>WoodLog</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukFuelOil>1</SadjuukFuelOil>
-	</products>
-	</RecipeDef>
-	
-	<!-- Fuel Oil from 600 Hay -->
-	<RecipeDef>
-	<defName>SadjuukFuelOilRecipeC</defName>
-	<label>Make Fuel Oil from Hay</label>
-	<description>Extract Fuel Oil from Hay.</description>
-	<jobString>Refining Fuel Oil from Hay.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>2000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>225</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WoodLog</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukFuelOil>1</SadjuukFuelOil>
+    </products>
+  </RecipeDef>
+  <!-- Fuel Oil from 600 Hay -->
+  <RecipeDef>
+    <defName>SadjuukFuelOilRecipeC</defName>
+    <label>Make Fuel Oil from Hay</label>
+    <description>Extract Fuel Oil from Hay.</description>
+    <jobString>Refining Fuel Oil from Hay.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>2000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>Hay</li>
-				</thingDefs>
-			</filter>
-			<count>600</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>Hay</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukFuelOil>1</SadjuukFuelOil>
-	</products>
-	</RecipeDef>
-	
-
-<!-- ============================================================================= -->
-<!-- Diesel Refinery -->
-<!-- ============================================================================= -->
-	<!-- Diesel recipe Fuel Oil -->
-	<RecipeDef>
-	<defName>SadjuukDieselRecipeA</defName>
-	<label>Make 25 Diesel from Fuel Oil</label>
-	<description>Extract Diesel from Fuel Oil.</description>
-	<jobString>Refining Fuel Oil.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hay</li>
+          </thingDefs>
+        </filter>
+        <count>600</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Hay</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukFuelOil>1</SadjuukFuelOil>
+    </products>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Diesel Refinery -->
+  <!-- ============================================================================= -->
+  <!-- Diesel recipe Fuel Oil -->
+  <RecipeDef>
+    <defName>SadjuukDieselRecipeA</defName>
+    <label>Make 25 Diesel from Fuel Oil</label>
+    <description>Extract Diesel from Fuel Oil.</description>
+    <jobString>Refining Fuel Oil.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukFuelOil</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukFuelOil</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukDiesel>25</SadjuukDiesel>
-	</products>
-	</RecipeDef>
-	
-
-<!-- ============================================================================= -->
-<!-- Advanced Refinery -->
-<!-- ============================================================================= -->
-	<!-- Liquid Hydrogen Fuel Oil -->
-	<RecipeDef>
-	<defName>SadjuukHydrogenRecipeA</defName>
-	<label>Make 5 Hydrogen from Fuel Oil</label>
-	<description>Extract Hydrogen from Fuel Oil.</description>
-	<jobString>Refining Fuel Oil.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukFuelOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SadjuukFuelOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukDiesel>25</SadjuukDiesel>
+    </products>
+  </RecipeDef>
+  <!-- ============================================================================= -->
+  <!-- Advanced Refinery -->
+  <!-- ============================================================================= -->
+  <!-- Liquid Hydrogen Fuel Oil -->
+  <RecipeDef>
+    <defName>SadjuukHydrogenRecipeA</defName>
+    <label>Make 5 Hydrogen from Fuel Oil</label>
+    <description>Extract Hydrogen from Fuel Oil.</description>
+    <jobString>Refining Fuel Oil.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukFuelOil</li>
-				</thingDefs>
-			</filter>
-			<count>1</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukFuelOil</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukHydrogen>5</SadjuukHydrogen>
-	</products>
-	</RecipeDef>
-	
-	<!-- Liquid Hydrogen Diesel -->
-	<RecipeDef>
-	<defName>SadjuukHydrogenRecipeB</defName>
-	<label>Make 1 Hydrogen from Diesel</label>
-	<description>Extract Hydrogen from Diesel.</description>
-	<jobString>Refining Diesel.</jobString>
-	<effectWorking>Cremate</effectWorking>
-	<soundWorking>Recipe_Cremate</soundWorking>
-	<workAmount>1000</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukFuelOil</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SadjuukFuelOil</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukHydrogen>5</SadjuukHydrogen>
+    </products>
+  </RecipeDef>
+  <!-- Liquid Hydrogen Diesel -->
+  <RecipeDef>
+    <defName>SadjuukHydrogenRecipeB</defName>
+    <label>Make 1 Hydrogen from Diesel</label>
+    <description>Extract Hydrogen from Diesel.</description>
+    <jobString>Refining Diesel.</jobString>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <workAmount>1000</workAmount>
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-	<ingredients>
-		<li>
-			<filter>
-				<thingDefs>
-					<li>SadjuukDiesel</li>
-				</thingDefs>
-			</filter>
-			<count>5</count>
-		</li>
-	</ingredients>
-	<fixedIngredientFilter>
-		<thingDefs>
-			<li>SadjuukDiesel</li>
-		</thingDefs>
-	</fixedIngredientFilter>
-	<products>
-		<SadjuukHydrogen>1</SadjuukHydrogen>
-	</products>
-	</RecipeDef>
-	
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SadjuukDiesel</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SadjuukDiesel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SadjuukHydrogen>1</SadjuukHydrogen>
+    </products>
+  </RecipeDef>
 </Defs>

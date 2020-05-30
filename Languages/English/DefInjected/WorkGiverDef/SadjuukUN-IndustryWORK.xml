@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- REFINERY A -->
+
+  <DoBillsSadjuukRefineryA.verb>work</DoBillsSadjuukRefineryA.verb>
+  <DoBillsSadjuukRefineryA.gerund>working at</DoBillsSadjuukRefineryA.gerund>
+
+
+  <!-- REFINERY B -->
+
+  <DoBillsSadjuukRefineryB.verb>work</DoBillsSadjuukRefineryB.verb>
+  <DoBillsSadjuukRefineryB.gerund>working at</DoBillsSadjuukRefineryB.gerund>
+
+
+  <!-- REFINERY C -->
+
+  <DoBillsSadjuukRefineryC.verb>work</DoBillsSadjuukRefineryC.verb>
+  <DoBillsSadjuukRefineryC.gerund>working at</DoBillsSadjuukRefineryC.gerund>
+
+
+  <!-- Metalworking Bench -->
+
+  <DoBillsSadjuukMetalworkingBench.verb>work</DoBillsSadjuukMetalworkingBench.verb>
+  <DoBillsSadjuukMetalworkingBench.gerund>working at</DoBillsSadjuukMetalworkingBench.gerund>
+
+
+  <!-- Metalworking Line -->
+
+  <DoBillsSadjuukMetalworkingLineB.verb>work</DoBillsSadjuukMetalworkingLineB.verb>
+  <DoBillsSadjuukMetalworkingLineB.gerund>working at</DoBillsSadjuukMetalworkingLineB.gerund>
+
+
+  <!-- Assembly Line -->
+
+  <DoBillsSadjuukAssemblyLineB.verb>work</DoBillsSadjuukAssemblyLineB.verb>
+  <DoBillsSadjuukAssemblyLineB.gerund>working at</DoBillsSadjuukAssemblyLineB.gerund>
+
+
+  <!-- Bessemer Converter -->
+
+  <DoBillsSadjuukBessemerConverter.verb>work</DoBillsSadjuukBessemerConverter.verb>
+  <DoBillsSadjuukBessemerConverter.gerund>working at</DoBillsSadjuukBessemerConverter.gerund>
+
+
+  <!-- Open Hearth Furnace -->
+
+  <DoBillsSadjuukOpenHearthFurnace.verb>work</DoBillsSadjuukOpenHearthFurnace.verb>
+  <DoBillsSadjuukOpenHearthFurnace.gerund>working at</DoBillsSadjuukOpenHearthFurnace.gerund>
+
+
+  <!-- Electric Arc Furnace -->
+
+  <DoBillsSadjuukElectricArcFurnace.verb>work</DoBillsSadjuukElectricArcFurnace.verb>
+  <DoBillsSadjuukElectricArcFurnace.gerund>working at</DoBillsSadjuukElectricArcFurnace.gerund>
+
+
+</LanguageData>

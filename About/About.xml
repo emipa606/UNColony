@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>UN-Colony (Continued)</name>
-	<packageId>Mlie.UNColony</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/UNColony</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Sadjuuks mod for RimWorld 1.1
+  <name>UN-Colony (Continued)</name>
+  <packageId>Mlie.UNColony</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/UNColony</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Sadjuuks mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
 
 Support-chat:
@@ -25,40 +25,40 @@ This mod adds many things to build a new kind of colony.
 For the moment this mod adds :
 
 12 generators and 3 solar panels :
--> A rustic wood fired generator,
--> 3 Fuel Oil generators (Fuel Oil is made in the Fuel Oil refinery),
--> 4 Diesel generators (Diesel is made in the Diesel refinery),
--> 1 Hydrogen generator (Hydrogen is made in the Advanced refinery),
--> 3 solar panels of different sizes, 4X4, 5X3 and 2X7 (good sizes for wind turbines),
--> 3 portable generators (2 diesel, 1 Hydrogen).
+-&gt; A rustic wood fired generator,
+-&gt; 3 Fuel Oil generators (Fuel Oil is made in the Fuel Oil refinery),
+-&gt; 4 Diesel generators (Diesel is made in the Diesel refinery),
+-&gt; 1 Hydrogen generator (Hydrogen is made in the Advanced refinery),
+-&gt; 3 solar panels of different sizes, 4X4, 5X3 and 2X7 (good sizes for wind turbines),
+-&gt; 3 portable generators (2 diesel, 1 Hydrogen).
 
 Walls, fences, doors, floors and paint :
 Warning with the walls : They are higher than the vanilla ones, the texture is not sized the same.
 I advice to use the vanilla walls for double walls or walls merged to rocks and mountains.
--> Wooden fences, gate, doors, walls and embrasures,
--> Steel fences, gate, doors, walls and embrasures,
--> Concrete fences, walls and embrasures, cheap and fast to build,
--> Shielded doors, walls and embrasures, good for defencive positions,
--> Armored doors, walls and embrasures, good for advanced colony,
--> Floors with different colors, wooden, steel, concrete and asphal,
--> Glass fence and door,
--> Paint (Zebra, lines and double lines).
+-&gt; Wooden fences, gate, doors, walls and embrasures,
+-&gt; Steel fences, gate, doors, walls and embrasures,
+-&gt; Concrete fences, walls and embrasures, cheap and fast to build,
+-&gt; Shielded doors, walls and embrasures, good for defencive positions,
+-&gt; Armored doors, walls and embrasures, good for advanced colony,
+-&gt; Floors with different colors, wooden, steel, concrete and asphal,
+-&gt; Glass fence and door,
+-&gt; Paint (Zebra, lines and double lines).
 
 Item production :
 The Metalworking Bench will allow you to produce the most needed but slowly. For more efficiency you have :
--> Steel plates : Bessemer Converter, Open Hearth Furnace and Electric Arc Furnace,
--> Steel Grids : Metalworking Line
--> Steel Tubes : Metalworking Line
--> Armored Plates : Metalworking Line
--> Basic Components : Assembly Line
--> Solar Cells : Assembly Line
--> Concrete, paint, glass and asphalt : Construction Machinery
+-&gt; Steel plates : Bessemer Converter, Open Hearth Furnace and Electric Arc Furnace,
+-&gt; Steel Grids : Metalworking Line
+-&gt; Steel Tubes : Metalworking Line
+-&gt; Armored Plates : Metalworking Line
+-&gt; Basic Components : Assembly Line
+-&gt; Solar Cells : Assembly Line
+-&gt; Concrete, paint, glass and asphalt : Construction Machinery
 Note the mod will evolve, many things as shell will be produced by the Assembly Line.
 
 For maximum efficiency, you can improve your production lines with :
--> Metalworking Bench + 1 Shaper + 1 Metal Lathe
--> Metalworking Line + 1 Shaper + 1 Grinding Machine + 2 Welding Robots
--> Assembly Line + 1 Metal Lathe + 1 Milling Machine + 2 Assembly Robots
+-&gt; Metalworking Bench + 1 Shaper + 1 Metal Lathe
+-&gt; Metalworking Line + 1 Shaper + 1 Grinding Machine + 2 Welding Robots
+-&gt; Assembly Line + 1 Metal Lathe + 1 Milling Machine + 2 Assembly Robots
 
 
 Note for moders : I use custom8 for paint and custom7 for fences as linkFlags

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CONCRETE -->
+
+  <SadjuukConcrete.label>Concrete</SadjuukConcrete.label>
+  <SadjuukConcrete.description>A composite material, fine and coarse aggregate bonded together. Concrete makes a building fire-safe due to its noncombustible nature.</SadjuukConcrete.description>
+
+
+  <!-- Asphalt Concrete (1/15 Fuel Oil) -->
+
+  <SadjuukAsphaltConcrete.label>Asphalt Concrete</SadjuukAsphaltConcrete.label>
+  <SadjuukAsphaltConcrete.description>Asphalt mixed with aggregate particles to create Asphalt Concrete.</SadjuukAsphaltConcrete.description>
+
+
+  <!-- GLASS -->
+
+  <SadjuukGlass.label>Glass</SadjuukGlass.label>
+  <SadjuukGlass.description>Thin wafers of silicon interwoven.</SadjuukGlass.description>
+
+
+  <!-- PAINT (10 chemfuel) -->
+
+  <SadjuukSyntheticPaint.label>Synthetic Paint</SadjuukSyntheticPaint.label>
+  <SadjuukSyntheticPaint.description>An extremely tough and durable single-component synthetic resin based paint for interior use on highly trafficked floors. Fast drying, excellent covering properties.</SadjuukSyntheticPaint.description>
+
+
+</LanguageData>

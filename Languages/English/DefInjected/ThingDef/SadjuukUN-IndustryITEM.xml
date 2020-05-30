@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- STEEL PLATE -->
+
+  <SadjuukSteelPlate.label>Steel Plate</SadjuukSteelPlate.label>
+  <SadjuukSteelPlate.description>A basic structural component used in a wide variety of construction.</SadjuukSteelPlate.description>
+
+
+  <!-- METAL GRID -->
+
+  <SadjuukMetalGrid.label>Metal Grid</SadjuukMetalGrid.label>
+  <SadjuukMetalGrid.description>A variety of sturdy pieces of interwoven steel.</SadjuukMetalGrid.description>
+
+
+  <!-- STEEL TUBE -->
+
+  <SadjuukSteelTube.label>Steel Tube</SadjuukSteelTube.label>
+  <SadjuukSteelTube.description>A variety of sturdy hollow cylinder.</SadjuukSteelTube.description>
+
+
+  <!-- WIRE (0.1 steel) -->
+
+  <SadjuukWire.label>Wire</SadjuukWire.label>
+  <SadjuukWire.description>Various wire and cables.</SadjuukWire.description>
+
+
+  <!-- ARMORED PLATE -->
+
+  <SadjuukArmoredPlate.label>Armored Plate</SadjuukArmoredPlate.label>
+  <SadjuukArmoredPlate.description>A very high-density structural component used in a wide variety of advanced construction.</SadjuukArmoredPlate.description>
+
+
+  <!-- BASIC COMPONENT -->
+
+  <SadjuukBasicComponent.label>Basic Components</SadjuukBasicComponent.label>
+  <SadjuukBasicComponent.description>A collection of industrial components as electric motors, sensors, pneumatic actuators, fasteners and others.</SadjuukBasicComponent.description>
+
+
+  <!-- SOLAR CELL -->
+
+  <SadjuukSolarCell.label>Solar Cell</SadjuukSolarCell.label>
+  <SadjuukSolarCell.description>Photovoltaic component used in the construction of Solar Panels.</SadjuukSolarCell.description>
+
+
+  <!-- FUEL OIL (150 chemfuel) -->
+
+  <SadjuukFuelOil.label>Fuel oil</SadjuukFuelOil.label>
+  <SadjuukFuelOil.description>Low sulfur heavy fuel oil. Also known as marine fuel, it is used on rustic installations. Not explosive, it can only be ignited.</SadjuukFuelOil.description>
+
+
+  <!-- Diesel (6 chemfuel) -->
+
+  <SadjuukDiesel.label>Diesel</SadjuukDiesel.label>
+  <SadjuukDiesel.description>Fractional distillate of fuel oil. Very efficient fuel for generators, with an excellent energy-volume ratio.</SadjuukDiesel.description>
+
+
+  <!-- Liquid Hydrogen -->
+
+  <SadjuukHydrogen.label>Liquid Hydrogen</SadjuukHydrogen.label>
+  <SadjuukHydrogen.description>Liquid hydrogen is a common liquid rocket fuel but can also be used as fuel for fuel cell.</SadjuukHydrogen.description>
+
+
+</LanguageData>

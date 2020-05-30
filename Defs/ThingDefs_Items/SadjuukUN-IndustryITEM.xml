@@ -1,294 +1,278 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
-<!-- ============================================================================= -->
-<!-- STEEL MATERIALS -->
-<!-- ============================================================================= -->
-	<!-- STEEL PLATE -->
-	<ThingDef ParentName="ResourceBase">
+  <!-- ============================================================================= -->
+  <!-- STEEL MATERIALS -->
+  <!-- ============================================================================= -->
+  <!-- STEEL PLATE -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukSteelPlate</defName>
     <label>Steel Plate</label>
     <description>A basic structural component used in a wide variety of construction.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukSteelPlate</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
-	</graphicData>
+      <texPath>SadjuukUN-Industry/SadjuukSteelPlate</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
     <soundInteract>Metal_Drop</soundInteract>
     <soundDrop>Metal_Drop</soundDrop>
     <stackLimit>150</stackLimit>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<MarketValue>2</MarketValue>
-		<Mass>0.5</Mass>
-		<Flammability>0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>2</MarketValue>
+      <Mass>0.5</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-  
-	<!-- METAL GRID -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- METAL GRID -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukMetalGrid</defName>
     <label>Metal Grid</label>
     <description>A variety of sturdy pieces of interwoven steel.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukMetalGrid</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukMetalGrid</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <soundInteract>ChunkSlag_Drop</soundInteract>
     <soundDrop>ChunkSlag_Drop</soundDrop>
     <stackLimit>150</stackLimit>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<MarketValue>2.7</MarketValue>
-		<Mass>0.5</Mass>
-		<Flammability>0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>2.7</MarketValue>
+      <Mass>0.5</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-  
-	<!-- STEEL TUBE -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- STEEL TUBE -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukSteelTube</defName>
     <label>Steel Tube</label>
     <description>A variety of sturdy hollow cylinder.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukSteelTube</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukSteelTube</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <soundInteract>ChunkSlag_Drop</soundInteract>
     <soundDrop>ChunkSlag_Drop</soundDrop>
     <stackLimit>75</stackLimit>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<MarketValue>2.7</MarketValue>
-		<Mass>0.5</Mass>
-		<Flammability>0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>2.7</MarketValue>
+      <Mass>0.5</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-
-	<!-- WIRE (0.1 steel) -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- WIRE (0.1 steel) -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukWire</defName>
     <label>Wire</label>
     <description>Various wire and cables.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukWire</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukWire</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <soundInteract>ChunkSlag_Drop</soundInteract>
     <soundDrop>ChunkSlag_Drop</soundDrop>
     <stackLimit>360</stackLimit>
     <statBases>
-		<MaxHitPoints>150</MaxHitPoints>
-		<MarketValue>0.4</MarketValue>
-		<Mass>0.05</Mass>
-		<Flammability>0.2</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>0.4</MarketValue>
+      <Mass>0.05</Mass>
+      <Flammability>0.2</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
-    </ThingDef>
-	
-	<!-- ARMORED PLATE -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- ARMORED PLATE -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukArmoredPlate</defName>
     <label>Armored Plate</label>
     <description>A very high-density structural component used in a wide variety of advanced construction.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukArmoredPlate</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukArmoredPlate</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <soundInteract>Metal_Drop</soundInteract>
     <soundDrop>Metal_Drop</soundDrop>
     <stackLimit>75</stackLimit>
     <statBases>
-		<MaxHitPoints>300</MaxHitPoints>
-		<MarketValue>13.9</MarketValue>
-		<Mass>0.75</Mass>
-		<Flammability>0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>13.9</MarketValue>
+      <Mass>0.75</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-	
-	
-	
-<!-- ============================================================================= -->
-<!-- COMPLEX COMPONENTS -->
-<!-- ============================================================================= -->
-	<!-- BASIC COMPONENT -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- ============================================================================= -->
+  <!-- COMPLEX COMPONENTS -->
+  <!-- ============================================================================= -->
+  <!-- BASIC COMPONENT -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukBasicComponent</defName>
     <label>Basic Components</label>
     <description>A collection of industrial components as electric motors, sensors, pneumatic actuators, fasteners and others.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukBasicComponent</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukBasicComponent</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <stackLimit>225</stackLimit>
     <statBases>
-		<MaxHitPoints>85</MaxHitPoints>
-		<MarketValue>3.7</MarketValue>
-		<Mass>0.11</Mass>
-		<Flammability>1</Flammability>
-		<DeteriorationRate>1</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>85</MaxHitPoints>
+      <MarketValue>3.7</MarketValue>
+      <Mass>0.11</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>1</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-
-	<!-- SOLAR CELL -->
-    <ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- SOLAR CELL -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukSolarCell</defName>
     <label>Solar Cell</label>
     <description>Photovoltaic component used in the construction of Solar Panels.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukSolarCell</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukSolarCell</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <stackLimit>12</stackLimit>
     <statBases>
-		<MaxHitPoints>20</MaxHitPoints>
-		<MarketValue>7.1</MarketValue>
-		<Mass>3.11</Mass>
-		<Flammability>0.2</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+      <MaxHitPoints>20</MaxHitPoints>
+      <MarketValue>7.1</MarketValue>
+      <Mass>3.11</Mass>
+      <Flammability>0.2</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <intricate>true</intricate>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
     <slagDef>ChunkSlagSteel</slagDef>
-    </ThingDef>
-	
-	
-	
-<!-- ============================================================================= -->
-<!-- FUEL -->
-<!-- ============================================================================= --><!-- FUEL OIL (150 chemfuel) -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- ============================================================================= -->
+  <!-- FUEL -->
+  <!-- ============================================================================= -->
+  <!-- FUEL OIL (150 chemfuel) -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukFuelOil</defName>
     <label>Fuel oil</label>
     <description>Low sulfur heavy fuel oil. Also known as marine fuel, it is used on rustic installations. Not explosive, it can only be ignited.</description>
-	<tickerType>Normal</tickerType>
+    <tickerType>Normal</tickerType>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukFuelOil</texPath>
-		<graphicClass>Graphic_Random</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukFuelOil</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
     </graphicData>
     <stackLimit>1</stackLimit>
-	<statBases>
-		<MaxHitPoints>200</MaxHitPoints>
-		<MarketValue>273.6</MarketValue>
-		<Mass>90</Mass>
-		<Flammability>2.0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <MarketValue>273.6</MarketValue>
+      <Mass>90</Mass>
+      <Flammability>2.0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
-    </ThingDef>
-	
-	<!-- Diesel (6 chemfuel) -->
-	<ThingDef ParentName="ResourceBase">
+  </ThingDef>
+  <!-- Diesel (6 chemfuel) -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukDiesel</defName>
     <label>Diesel</label>
     <description>Fractional distillate of fuel oil. Very efficient fuel for generators, with an excellent energy-volume ratio.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukDiesel</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukDiesel</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <stackLimit>25</stackLimit>
-	<statBases>
-		<MaxHitPoints>50</MaxHitPoints>
-		<MarketValue>11.1</MarketValue>
-		<Mass>3.6</Mass>
-		<Flammability>2.0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>11.1</MarketValue>
+      <Mass>3.6</Mass>
+      <Flammability>2.0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
-	<tickerType>Normal</tickerType>
-	<comps>
-		<li Class="CompProperties_Explosive">
-			<explosiveRadius>1.1</explosiveRadius>
-			<explosiveDamageType>Flame</explosiveDamageType>
-			<explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
-			<startWickOnDamageTaken>Flame</startWickOnDamageTaken>
-			<startWickHitPointsPercent>0.333</startWickHitPointsPercent>
-			<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
-			<preExplosionSpawnChance>1</preExplosionSpawnChance>
-			<wickTicks>
-				<min>70</min>
-				<max>150</max>
-			</wickTicks>
-		</li>
-	</comps>
-    </ThingDef>
-	
-	<!-- Liquid Hydrogen -->
-	<ThingDef ParentName="ResourceBase">
+    <tickerType>Normal</tickerType>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>1.1</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
+        <startWickOnDamageTaken>Flame</startWickOnDamageTaken>
+        <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+        <preExplosionSpawnChance>1</preExplosionSpawnChance>
+        <wickTicks>
+          <min>70</min>
+          <max>150</max>
+        </wickTicks>
+      </li>
+    </comps>
+  </ThingDef>
+  <!-- Liquid Hydrogen -->
+  <ThingDef ParentName="ResourceBase">
     <defName>SadjuukHydrogen</defName>
     <label>Liquid Hydrogen</label>
     <description>Liquid hydrogen is a common liquid rocket fuel but can also be used as fuel for fuel cell.</description>
     <graphicData>
-		<texPath>SadjuukUN-Industry/SadjuukHydrogen</texPath>
-		<graphicClass>Graphic_StackCount</graphicClass>
+      <texPath>SadjuukUN-Industry/SadjuukHydrogen</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
     <stackLimit>5</stackLimit>
-	<statBases>
-		<MaxHitPoints>50</MaxHitPoints>
-		<MarketValue>55.4</MarketValue>
-		<Mass>18</Mass>
-		<Flammability>2.0</Flammability>
-		<DeteriorationRate>0</DeteriorationRate>
-	</statBases>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>55.4</MarketValue>
+      <Mass>18</Mass>
+      <Flammability>2.0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
     <thingCategories>
-		<li>Manufactured</li>
+      <li>Manufactured</li>
     </thingCategories>
-	<tickerType>Normal</tickerType>
-	<comps>
-		<li Class="CompProperties_Explosive">
-			<explosiveRadius>2</explosiveRadius>
-			<explosiveDamageType>Bomb</explosiveDamageType>
-			<explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
-			<startWickOnDamageTaken>Flame</startWickOnDamageTaken>
-			<startWickHitPointsPercent>0.333</startWickHitPointsPercent>
-			<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
-			<preExplosionSpawnChance>1</preExplosionSpawnChance>
-			<wickTicks>
-				<min>70</min>
-				<max>150</max>
-			</wickTicks>
-		</li>
-	</comps>
-	</ThingDef>
-	
-  
+    <tickerType>Normal</tickerType>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>2</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.037</explosiveExpandPerStackcount>
+        <startWickOnDamageTaken>Flame</startWickOnDamageTaken>
+        <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+        <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+        <preExplosionSpawnChance>1</preExplosionSpawnChance>
+        <wickTicks>
+          <min>70</min>
+          <max>150</max>
+        </wickTicks>
+      </li>
+    </comps>
+  </ThingDef>
 </Defs>

@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Pallet -->
+
+  <SadjuukWoodenPallet.label>Wooden Pallet</SadjuukWoodenPallet.label>
+  <SadjuukWoodenPallet.description>A Wooden Pallet, easy to build and allowing a standardized storage.</SadjuukWoodenPallet.description>
+
+
+  <!-- Power Conduit -->
+
+  <SadjuukPowerConduit.label>Power Conduit</SadjuukPowerConduit.label>
+  <SadjuukPowerConduit.description>High voltage power cable.</SadjuukPowerConduit.description>
+  <SadjuukPowerConduit_Blueprint.label>Power Conduit (blueprint)</SadjuukPowerConduit_Blueprint.label>
+  <SadjuukPowerConduit_Frame.label>Power Conduit (building)</SadjuukPowerConduit_Frame.label>
+  <SadjuukPowerConduit_Frame.description>High voltage power cable.</SadjuukPowerConduit_Frame.description>
+
+
+  <!-- Fire Foam Popper -->
+
+  <SadjuukFirefoamPopper.label>Wall firefoam popper</SadjuukFirefoamPopper.label>
+  <SadjuukFirefoamPopper.description>Safety device poping and spraying a fire-retardant foam around itself.</SadjuukFirefoamPopper.description>
+  <SadjuukFirefoamPopper.comps.1.useLabel>Trigger firefoam popper</SadjuukFirefoamPopper.comps.1.useLabel>
+
+
+  <!-- Wood Generator A -->
+
+  <SadjuukWoodGeneratorA.label>Wood Generator</SadjuukWoodGeneratorA.label>
+  <SadjuukWoodGeneratorA.description>P : 1500W
+A very rustic generator, using water steam as source of power.</SadjuukWoodGeneratorA.description>
+  <SadjuukWoodGeneratorA_Blueprint.label>Wood Generator (blueprint)</SadjuukWoodGeneratorA_Blueprint.label>
+  <SadjuukWoodGeneratorA_Frame.label>Wood Generator (building)</SadjuukWoodGeneratorA_Frame.label>
+  <SadjuukWoodGeneratorA_Frame.description>P : 1500W
+A very rustic generator, using water steam as source of power.</SadjuukWoodGeneratorA_Frame.description>
+
+
+  <!-- Generator D -->
+
+  <SadjuukGeneratorD.label>Fuel Oil Generator D</SadjuukGeneratorD.label>
+  <SadjuukGeneratorD.description>P : 2250W
+A rustic and simple fuel oil generator, using a reliable combustion engine coupled with an alternator to generate electricity.
+Fuel Oil power generation with this engine is 10% more efficient than Chemfuel. 
+Highly explosive if damaged.</SadjuukGeneratorD.description>
+  <SadjuukGeneratorD_Blueprint.label>Fuel Oil Generator D (blueprint)</SadjuukGeneratorD_Blueprint.label>
+  <SadjuukGeneratorD_Frame.label>Fuel Oil Generator D (building)</SadjuukGeneratorD_Frame.label>
+  <SadjuukGeneratorD_Frame.description>P : 2250W
+A rustic and simple fuel oil generator, using a reliable combustion engine coupled with an alternator to generate electricity.
+Fuel Oil power generation with this engine is 10% more efficient than Chemfuel. 
+Highly explosive if damaged.</SadjuukGeneratorD_Frame.description>
+
+
+  <!-- Generator A -->
+
+  <SadjuukGeneratorA.label>Fuel Oil Generator A</SadjuukGeneratorA.label>
+  <SadjuukGeneratorA.description>P : 12000W
+A rustic version of the standard UN Fuel Oil generator FGEN12K. Good production rate. 
+Fuel Oil power generation with this engine is 15% more efficient than Chemfuel. 
+Highly explosive if damaged.</SadjuukGeneratorA.description>
+  <SadjuukGeneratorA_Blueprint.label>Fuel Oil Generator A (blueprint)</SadjuukGeneratorA_Blueprint.label>
+  <SadjuukGeneratorA_Frame.label>Fuel Oil Generator A (building)</SadjuukGeneratorA_Frame.label>
+  <SadjuukGeneratorA_Frame.description>P : 12000W
+A rustic version of the standard UN Fuel Oil generator FGEN12K. Good production rate. 
+Fuel Oil power generation with this engine is 15% more efficient than Chemfuel. 
+Highly explosive if damaged.</SadjuukGeneratorA_Frame.description>
+
+
+  <!-- Generator B -->
+
+  <SadjuukGeneratorB.label>Fuel Oil Generator B</SadjuukGeneratorB.label>
+  <SadjuukGeneratorB.description>P : 12000W
+The industrial version of the UN Fuel Oil generator FGEN12K. Double injection system, double filtration system, High production rate. 
+Fuel Oil power generation with this engine is 20% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorB.description>
+  <SadjuukGeneratorB_Blueprint.label>Fuel Oil Generator B (blueprint)</SadjuukGeneratorB_Blueprint.label>
+  <SadjuukGeneratorB_Frame.label>Fuel Oil Generator B (building)</SadjuukGeneratorB_Frame.label>
+  <SadjuukGeneratorB_Frame.description>P : 12000W
+The industrial version of the UN Fuel Oil generator FGEN12K. Double injection system, double filtration system, High production rate. 
+Fuel Oil power generation with this engine is 20% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorB_Frame.description>
+
+
+  <!-- Generator F -->
+
+  <SadjuukGeneratorF.label>Armored Generator F</SadjuukGeneratorF.label>
+  <SadjuukGeneratorF.description>P : 2250W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 35% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorF.description>
+  <SadjuukGeneratorF_Blueprint.label>Armored Generator F (blueprint)</SadjuukGeneratorF_Blueprint.label>
+  <SadjuukGeneratorF_Frame.label>Armored Generator F (building)</SadjuukGeneratorF_Frame.label>
+  <SadjuukGeneratorF_Frame.description>P : 2250W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 35% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorF_Frame.description>
+
+
+  <!-- Generator G -->
+
+  <SadjuukGeneratorG.label>Armored Generator G</SadjuukGeneratorG.label>
+  <SadjuukGeneratorG.description>P : 6000W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorG.description>
+  <SadjuukGeneratorG_Blueprint.label>Armored Generator G (blueprint)</SadjuukGeneratorG_Blueprint.label>
+  <SadjuukGeneratorG_Frame.label>Armored Generator G (building)</SadjuukGeneratorG_Frame.label>
+  <SadjuukGeneratorG_Frame.description>P : 6000W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorG_Frame.description>
+
+
+  <!-- Generator N -->
+
+  <SadjuukGeneratorN.label>Armored Generator N</SadjuukGeneratorN.label>
+  <SadjuukGeneratorN.description>P : 3000W
+Military 3kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorN.description>
+  <SadjuukGeneratorN_Blueprint.label>Armored Generator N (blueprint)</SadjuukGeneratorN_Blueprint.label>
+  <SadjuukGeneratorN_Frame.label>Armored Generator N (building)</SadjuukGeneratorN_Frame.label>
+  <SadjuukGeneratorN_Frame.description>P : 3000W
+Military 3kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorN_Frame.description>
+
+
+  <!-- Generator M -->
+
+  <SadjuukGeneratorM.label>Armored Generator M</SadjuukGeneratorM.label>
+  <SadjuukGeneratorM.description>P : 6000W
+Military 6kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorM.description>
+  <SadjuukGeneratorM_Blueprint.label>Armored Generator M (blueprint)</SadjuukGeneratorM_Blueprint.label>
+  <SadjuukGeneratorM_Frame.label>Armored Generator M (building)</SadjuukGeneratorM_Frame.label>
+  <SadjuukGeneratorM_Frame.description>P : 6000W
+Military 6kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</SadjuukGeneratorM_Frame.description>
+
+
+  <!-- Generator Y -->
+
+  <SadjuukGeneratorY.label>Large Fuel Cell</SadjuukGeneratorY.label>
+  <SadjuukGeneratorY.description>P : 3200W
+Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</SadjuukGeneratorY.description>
+  <SadjuukGeneratorY_Blueprint.label>Large Fuel Cell (blueprint)</SadjuukGeneratorY_Blueprint.label>
+  <SadjuukGeneratorY_Frame.label>Large Fuel Cell (building)</SadjuukGeneratorY_Frame.label>
+  <SadjuukGeneratorY_Frame.description>P : 3200W
+Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</SadjuukGeneratorY_Frame.description>
+
+
+  <!-- Generator V -->
+
+  <SadjuukGeneratorV.label>Portable Generator V</SadjuukGeneratorV.label>
+  <SadjuukGeneratorV.description>P : 750W
+A Diesel portable generator. Low capacity tank, low power but sufficient for most nomadic situations.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</SadjuukGeneratorV.description>
+  <SadjuukGeneratorV_Blueprint.label>Portable Generator V (blueprint)</SadjuukGeneratorV_Blueprint.label>
+  <SadjuukGeneratorV_Blueprint_Install.label>Portable Generator V (blueprint)</SadjuukGeneratorV_Blueprint_Install.label>
+  <SadjuukGeneratorV_Frame.label>Portable Generator V (building)</SadjuukGeneratorV_Frame.label>
+  <SadjuukGeneratorV_Frame.description>P : 750W
+A Diesel portable generator. Low capacity tank, low power but sufficient for most nomadic situations.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</SadjuukGeneratorV_Frame.description>
+
+
+  <!-- Generator W -->
+
+  <SadjuukGeneratorW.label>Portable Generator W</SadjuukGeneratorW.label>
+  <SadjuukGeneratorW.description>P : 750W
+A military Diesel generator. UNSC standard, low capacity but portable, foolproof design, high production rate.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</SadjuukGeneratorW.description>
+  <SadjuukGeneratorW_Blueprint.label>Portable Generator W (blueprint)</SadjuukGeneratorW_Blueprint.label>
+  <SadjuukGeneratorW_Blueprint_Install.label>Portable Generator W (blueprint)</SadjuukGeneratorW_Blueprint_Install.label>
+  <SadjuukGeneratorW_Frame.label>Portable Generator W (building)</SadjuukGeneratorW_Frame.label>
+  <SadjuukGeneratorW_Frame.description>P : 750W
+A military Diesel generator. UNSC standard, low capacity but portable, foolproof design, high production rate.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</SadjuukGeneratorW_Frame.description>
+
+
+  <!-- Generator X -->
+
+  <SadjuukGeneratorX.label>Portable Fuel Cell X</SadjuukGeneratorX.label>
+  <SadjuukGeneratorX.description>P : 800W
+A Portable Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</SadjuukGeneratorX.description>
+  <SadjuukGeneratorX_Blueprint.label>Portable Fuel Cell X (blueprint)</SadjuukGeneratorX_Blueprint.label>
+  <SadjuukGeneratorX_Blueprint_Install.label>Portable Fuel Cell X (blueprint)</SadjuukGeneratorX_Blueprint_Install.label>
+  <SadjuukGeneratorX_Frame.label>Portable Fuel Cell X (building)</SadjuukGeneratorX_Frame.label>
+  <SadjuukGeneratorX_Frame.description>P : 800W
+A Portable Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</SadjuukGeneratorX_Frame.description>
+
+
+  <!-- Solar Panel A -->
+
+  <SadjuukSolarA.label>Solar Panel A</SadjuukSolarA.label>
+  <SadjuukSolarA.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 4X4.</SadjuukSolarA.description>
+  <SadjuukSolarA_Blueprint.label>Solar Panel A (blueprint)</SadjuukSolarA_Blueprint.label>
+  <SadjuukSolarA_Frame.label>Solar Panel A (building)</SadjuukSolarA_Frame.label>
+  <SadjuukSolarA_Frame.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 4X4.</SadjuukSolarA_Frame.description>
+
+
+  <!-- Solar Panel B -->
+
+  <SadjuukSolarB.label>Solar Panel B</SadjuukSolarB.label>
+  <SadjuukSolarB.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 5X3.</SadjuukSolarB.description>
+  <SadjuukSolarB_Blueprint.label>Solar Panel B (blueprint)</SadjuukSolarB_Blueprint.label>
+  <SadjuukSolarB_Frame.label>Solar Panel B (building)</SadjuukSolarB_Frame.label>
+  <SadjuukSolarB_Frame.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 5X3.</SadjuukSolarB_Frame.description>
+
+
+  <!-- Solar Panel C -->
+
+  <SadjuukSolarC.label>Solar Panel C</SadjuukSolarC.label>
+  <SadjuukSolarC.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 7X2.</SadjuukSolarC.description>
+  <SadjuukSolarC_Blueprint.label>Solar Panel C (blueprint)</SadjuukSolarC_Blueprint.label>
+  <SadjuukSolarC_Frame.label>Solar Panel C (building)</SadjuukSolarC_Frame.label>
+  <SadjuukSolarC_Frame.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 7X2.</SadjuukSolarC_Frame.description>
+
+
+  <!-- Metalworking Bench -->
+
+  <SadjuukMetalworkingBench.label>Metalworking Bench</SadjuukMetalworkingBench.label>
+  <SadjuukMetalworkingBench.description>Very basic Metalworking Bench.</SadjuukMetalworkingBench.description>
+  <SadjuukMetalworkingBench_Blueprint.label>Metalworking Bench (blueprint)</SadjuukMetalworkingBench_Blueprint.label>
+  <SadjuukMetalworkingBench_Frame.label>Metalworking Bench (building)</SadjuukMetalworkingBench_Frame.label>
+  <SadjuukMetalworkingBench_Frame.description>Very basic Metalworking Bench.</SadjuukMetalworkingBench_Frame.description>
+
+
+  <!-- Bessemer Converter -->
+
+  <SadjuukBessemerConverter.label>Bessemer Converter</SadjuukBessemerConverter.label>
+  <SadjuukBessemerConverter.description>First inexpensive industrial process for the mass production of steel. Obsolete since the development of the open hearth furnace.</SadjuukBessemerConverter.description>
+  <SadjuukBessemerConverter_Blueprint.label>Bessemer Converter (blueprint)</SadjuukBessemerConverter_Blueprint.label>
+  <SadjuukBessemerConverter_Frame.label>Bessemer Converter (building)</SadjuukBessemerConverter_Frame.label>
+  <SadjuukBessemerConverter_Frame.description>First inexpensive industrial process for the mass production of steel. Obsolete since the development of the open hearth furnace.</SadjuukBessemerConverter_Frame.description>
+
+
+  <!-- Open Hearth Furnace -->
+
+  <SadjuukOpenHearthFurnace.label>Open Hearth Furnace</SadjuukOpenHearthFurnace.label>
+  <SadjuukOpenHearthFurnace.description>Furnace where excess carbon and other impurities are burnt out of pig iron to produce steel.</SadjuukOpenHearthFurnace.description>
+  <SadjuukOpenHearthFurnace_Blueprint.label>Open Hearth Furnace (blueprint)</SadjuukOpenHearthFurnace_Blueprint.label>
+  <SadjuukOpenHearthFurnace_Frame.label>Open Hearth Furnace (building)</SadjuukOpenHearthFurnace_Frame.label>
+  <SadjuukOpenHearthFurnace_Frame.description>Furnace where excess carbon and other impurities are burnt out of pig iron to produce steel.</SadjuukOpenHearthFurnace_Frame.description>
+
+
+  <!-- Electric Arc Furnace -->
+
+  <SadjuukElectricArcFurnace.label>Electric Arc Furnace</SadjuukElectricArcFurnace.label>
+  <SadjuukElectricArcFurnace.description>Furnace that heats charged material by means of an electric arc. Very high production rate.</SadjuukElectricArcFurnace.description>
+  <SadjuukElectricArcFurnace_Blueprint.label>Electric Arc Furnace (blueprint)</SadjuukElectricArcFurnace_Blueprint.label>
+  <SadjuukElectricArcFurnace_Frame.label>Electric Arc Furnace (building)</SadjuukElectricArcFurnace_Frame.label>
+  <SadjuukElectricArcFurnace_Frame.description>Furnace that heats charged material by means of an electric arc. Very high production rate.</SadjuukElectricArcFurnace_Frame.description>
+
+
+  <!-- Metalworking Line -->
+
+  <SadjuukMetalworkingLineB.label>Metalworking Line</SadjuukMetalworkingLineB.label>
+  <SadjuukMetalworkingLineB.description>The Metalworking Line is a very versatile production line to work the metal.</SadjuukMetalworkingLineB.description>
+  <SadjuukMetalworkingLineB_Blueprint.label>Metalworking Line (blueprint)</SadjuukMetalworkingLineB_Blueprint.label>
+  <SadjuukMetalworkingLineB_Frame.label>Metalworking Line (building)</SadjuukMetalworkingLineB_Frame.label>
+  <SadjuukMetalworkingLineB_Frame.description>The Metalworking Line is a very versatile production line to work the metal.</SadjuukMetalworkingLineB_Frame.description>
+
+
+  <!-- A- Shaper -->
+
+  <SadjuukShaper.label>Shaper Tool</SadjuukShaper.label>
+  <SadjuukShaper.description>Metalworking Line Upgrade.
+A Shaper tool. Its most common use is to machine straight flat surfaces, but with ingenuity and some accessories a wide range of work can be done.
+Production Factor : 0.20, 1 per line max.</SadjuukShaper.description>
+
+
+  <!-- B- Grinding Machine -->
+
+  <SadjuukGrinding.label>Grinding Machine</SadjuukGrinding.label>
+  <SadjuukGrinding.description>Metalworking Line Upgrade.
+A Grinding Machine used to finish workpieces that must show high surface quality and high accuracy of shape and dimension.
+Production Factor : 0.40, 1 per line max.</SadjuukGrinding.description>
+
+
+  <!-- C- Welding Robot -->
+
+  <SadjuukWeldingRobot.label>Welding Robot</SadjuukWeldingRobot.label>
+  <SadjuukWeldingRobot.description>Metalworking Line Upgrade.
+A mechanized programmable tool, completely automating a welding process by both performing the weld and handling the part.
+Production Factor : 0.80, 2 per line max.</SadjuukWeldingRobot.description>
+
+
+  <!-- Assembly Line -->
+
+  <SadjuukAssemblyLineB.label>Assembly Line</SadjuukAssemblyLineB.label>
+  <SadjuukAssemblyLineB.description>The Assembly Line is a production line allowing to assemble a wide variety of components.</SadjuukAssemblyLineB.description>
+  <SadjuukAssemblyLineB_Blueprint.label>Assembly Line (blueprint)</SadjuukAssemblyLineB_Blueprint.label>
+  <SadjuukAssemblyLineB_Frame.label>Assembly Line (building)</SadjuukAssemblyLineB_Frame.label>
+  <SadjuukAssemblyLineB_Frame.description>The Assembly Line is a production line allowing to assemble a wide variety of components.</SadjuukAssemblyLineB_Frame.description>
+
+
+  <!-- A- Metal Lathe -->
+
+  <SadjuukLathe.label>Metal Lathe</SadjuukLathe.label>
+  <SadjuukLathe.description>Assembly Line Upgrade.
+Machine tool removing material from a rotating workpiece via the movements of various cutting tools.
+Production Factor : 0.20, 1 per line max.</SadjuukLathe.description>
+
+
+  <!-- B- Milling Machine -->
+
+  <SadjuukMilling.label>Milling Machine</SadjuukMilling.label>
+  <SadjuukMilling.description>Assembly Line Upgrade.
+A Milling Machine that removes material from a workpiece by advancing the cutter into the workpiece.
+Production Factor : 0.40, 1 per line max.</SadjuukMilling.description>
+
+
+  <!-- C- Assembly Robot -->
+
+  <SadjuukAssemblyRobot.label>Assembly Robot</SadjuukAssemblyRobot.label>
+  <SadjuukAssemblyRobot.description>Assembly Line Upgrade.
+A multi-role robot capable of assembling, picking, and packing with a high endurance, speed, and precision.
+Production Factor : 0.80, 2 per line max.</SadjuukAssemblyRobot.description>
+
+
+  <!-- Construction Machinery -->
+
+  <SadjuukConstructionMachinery.label>Construction Machinery</SadjuukConstructionMachinery.label>
+  <SadjuukConstructionMachinery.description>A very complex machinery capable of extracting silicon from the rock and coarsely refining organic elements to produce glass, concrete and asphalt.</SadjuukConstructionMachinery.description>
+  <SadjuukConstructionMachinery_Blueprint.label>Construction Machinery (blueprint)</SadjuukConstructionMachinery_Blueprint.label>
+  <SadjuukConstructionMachinery_Frame.label>Construction Machinery (building)</SadjuukConstructionMachinery_Frame.label>
+  <SadjuukConstructionMachinery_Frame.description>A very complex machinery capable of extracting silicon from the rock and coarsely refining organic elements to produce glass, concrete and asphalt.</SadjuukConstructionMachinery_Frame.description>
+
+
+  <!-- Fuel Oil Refinery -->
+
+  <SadjuukRefineryA.label>Fuel Oil Refinery</SadjuukRefineryA.label>
+  <SadjuukRefineryA.description>Medium capacity Fuel Oil Refinery. Good efficiency, far from conventional industrial capabilities but known as reliable and versatile.
+The Fuel Oil has a better calorific power than chemfuel, allowing the construction of 20% more efficient generators.</SadjuukRefineryA.description>
+  <SadjuukRefineryA_Blueprint.label>Fuel Oil Refinery (blueprint)</SadjuukRefineryA_Blueprint.label>
+  <SadjuukRefineryA_Frame.label>Fuel Oil Refinery (building)</SadjuukRefineryA_Frame.label>
+  <SadjuukRefineryA_Frame.description>Medium capacity Fuel Oil Refinery. Good efficiency, far from conventional industrial capabilities but known as reliable and versatile.
+The Fuel Oil has a better calorific power than chemfuel, allowing the construction of 20% more efficient generators.</SadjuukRefineryA_Frame.description>
+
+
+  <!-- Diesel Refinery -->
+
+  <SadjuukRefineryB.label>Diesel Refinery</SadjuukRefineryB.label>
+  <SadjuukRefineryB.description>Medium capacity Diesel Refinery.
+The Diesel has a better calorific power than chemfuel, allowing the construction of 50% more efficient generators.</SadjuukRefineryB.description>
+  <SadjuukRefineryB_Blueprint.label>Diesel Refinery (blueprint)</SadjuukRefineryB_Blueprint.label>
+  <SadjuukRefineryB_Frame.label>Diesel Refinery (building)</SadjuukRefineryB_Frame.label>
+  <SadjuukRefineryB_Frame.description>Medium capacity Diesel Refinery.
+The Diesel has a better calorific power than chemfuel, allowing the construction of 50% more efficient generators.</SadjuukRefineryB_Frame.description>
+
+
+  <!-- Advanced Refinery -->
+
+  <SadjuukRefineryC.label>Advanced Refinery</SadjuukRefineryC.label>
+  <SadjuukRefineryC.description>Advanced Refinery allowing the production of complex components like explosives or liquid hydrogen.
+The Liquid Hydrogen has a better calorific power than chemfuel, allowing the construction of 80% more efficient generators.</SadjuukRefineryC.description>
+  <SadjuukRefineryC_Blueprint.label>Advanced Refinery (blueprint)</SadjuukRefineryC_Blueprint.label>
+  <SadjuukRefineryC_Frame.label>Advanced Refinery (building)</SadjuukRefineryC_Frame.label>
+  <SadjuukRefineryC_Frame.description>Advanced Refinery allowing the production of complex components like explosives or liquid hydrogen.
+The Liquid Hydrogen has a better calorific power than chemfuel, allowing the construction of 80% more efficient generators.</SadjuukRefineryC_Frame.description>
+
+
+</LanguageData>
