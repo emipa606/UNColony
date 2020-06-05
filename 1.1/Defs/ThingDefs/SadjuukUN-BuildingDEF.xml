@@ -981,11 +981,19 @@ Heavy Armored door.</description>
   <ThingDef ParentName="BuildingBase" Name="SadjuukWallBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>CornerFiller</linkType>
+      <linkFlags>
+        <li>Wall</li>
+        <li>Rock</li>
+      </linkFlags>
+    </graphicData>
     <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
     <altitudeLayer>Building</altitudeLayer>
     <passability>Impassable</passability>
     <castEdgeShadows>true</castEdgeShadows>
-    <coversFloor>false</coversFloor>
+    <coversFloor>true</coversFloor>
     <placingDraggableDimensions>1</placingDraggableDimensions>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
@@ -1055,13 +1063,7 @@ Wooden Embrasure.</description>
     <defName>SadjuukWallAA</defName>
     <label>Wooden Wall A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallA/SadjuukWallAA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallA/SadjuukWallAAIcon</uiIconPath>
   </ThingDef>
@@ -1070,13 +1072,7 @@ Wooden Embrasure.</description>
     <defName>SadjuukEmbrasureAA</defName>
     <label>Wooden Embrasure A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureA/SadjuukEmbrasureAA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureA/SadjuukEmbrasureAAIcon</uiIconPath>
   </ThingDef>
@@ -1085,13 +1081,7 @@ Wooden Embrasure.</description>
     <defName>SadjuukWallAB</defName>
     <label>Wooden Wall B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallA/SadjuukWallAB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallA/SadjuukWallABIcon</uiIconPath>
   </ThingDef>
@@ -1100,13 +1090,7 @@ Wooden Embrasure.</description>
     <defName>SadjuukEmbrasureAB</defName>
     <label>Wooden Embrasure B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureA/SadjuukEmbrasureAB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureA/SadjuukEmbrasureABIcon</uiIconPath>
   </ThingDef>
@@ -1162,13 +1146,7 @@ Untreated steel recovery Embrasure.</description>
     <defName>SadjuukWallBA</defName>
     <label>Steel Wall A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallB/SadjuukWallBA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallB/SadjuukWallBAIcon</uiIconPath>
   </ThingDef>
@@ -1177,13 +1155,7 @@ Untreated steel recovery Embrasure.</description>
     <defName>SadjuukEmbrasureBA</defName>
     <label>Steel Embrasure A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureB/SadjuukEmbrasureBA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureB/SadjuukEmbrasureBAIcon</uiIconPath>
   </ThingDef>
@@ -1192,13 +1164,7 @@ Untreated steel recovery Embrasure.</description>
     <defName>SadjuukWallBB</defName>
     <label>Steel Wall B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallB/SadjuukWallBB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallB/SadjuukWallBBIcon</uiIconPath>
   </ThingDef>
@@ -1207,13 +1173,7 @@ Untreated steel recovery Embrasure.</description>
     <defName>SadjuukEmbrasureBB</defName>
     <label>Steel Embrasure B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureB/SadjuukEmbrasureBB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureB/SadjuukEmbrasureBBIcon</uiIconPath>
   </ThingDef>
@@ -1260,13 +1220,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukWallCA</defName>
     <label>Concrete Wall A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallC/SadjuukWallCA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1278,13 +1232,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukEmbrasureCA</defName>
     <label>Concrete Embrasure A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureC/SadjuukEmbrasureCA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1297,13 +1245,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukWallCB</defName>
     <label>Concrete Wall B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallC/SadjuukWallCB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1316,13 +1258,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukEmbrasureCB</defName>
     <label>Concrete Embrasure B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureC/SadjuukEmbrasureCB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1336,13 +1272,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukWallCC</defName>
     <label>Concrete Wall C</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallC/SadjuukWallCC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1355,13 +1285,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukEmbrasureCC</defName>
     <label>Concrete Embrasure C</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureC/SadjuukEmbrasureCC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1375,13 +1299,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukWallCD</defName>
     <label>Concrete Wall D</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallC/SadjuukWallCD</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1394,13 +1312,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukEmbrasureCD</defName>
     <label>Concrete Embrasure D</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureC/SadjuukEmbrasureCD</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1414,13 +1326,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukWallCE</defName>
     <label>Concrete Wall E</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallC/SadjuukWallCE</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1433,13 +1339,7 @@ Concrete Embrasure.</description>
     <defName>SadjuukEmbrasureCE</defName>
     <label>Concrete Embrasure E</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureC/SadjuukEmbrasureCE</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1491,13 +1391,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDA</defName>
     <label>Shielded Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1510,13 +1404,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDA</defName>
     <label>Shielded Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1530,13 +1418,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDB</defName>
     <label>Green Shielded Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1550,13 +1432,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDB</defName>
     <label>Green Shielded Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1571,13 +1447,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDC</defName>
     <label>Woodland Camo Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1591,13 +1461,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDC</defName>
     <label>Woodland Camo Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1612,13 +1476,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDD</defName>
     <label>Flecktarn Camo Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDD</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1632,13 +1490,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDD</defName>
     <label>Flecktarn Camo Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDD</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1653,13 +1505,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDE</defName>
     <label>Desert Camo Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDE</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1673,13 +1519,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDE</defName>
     <label>Desert Camo Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDE</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1694,13 +1534,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukWallDF</defName>
     <label>Ice Camo Wall</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallD/SadjuukWallDF</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1714,13 +1548,7 @@ Shielded concrete Embrasure.</description>
     <defName>SadjuukEmbrasureDF</defName>
     <label>Ice Camo Embrasure</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureD/SadjuukEmbrasureDF</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <costList>
       <SadjuukConcrete>6</SadjuukConcrete>
@@ -1788,13 +1616,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukWallEA</defName>
     <label>Armored Wall A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEAIcon</uiIconPath>
   </ThingDef>
@@ -1803,13 +1625,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukEmbrasureEA</defName>
     <label>Armored Embrasure A</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEA</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEAIcon</uiIconPath>
   </ThingDef>
@@ -1818,13 +1634,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukWallEB</defName>
     <label>Armored Wall B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEBIcon</uiIconPath>
   </ThingDef>
@@ -1833,13 +1643,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukEmbrasureEB</defName>
     <label>Armored Embrasure B</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEB</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEBIcon</uiIconPath>
   </ThingDef>
@@ -1848,13 +1652,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukWallEC</defName>
     <label>Armored Wall C</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallECIcon</uiIconPath>
   </ThingDef>
@@ -1863,13 +1661,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukEmbrasureEC</defName>
     <label>Armored Embrasure C</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEC</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureECIcon</uiIconPath>
   </ThingDef>
@@ -1878,13 +1670,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukWallED</defName>
     <label>Armored Wall D</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallED</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukWallE/SadjuukWallEDIcon</uiIconPath>
   </ThingDef>
@@ -1893,13 +1679,7 @@ Armored concrete Embrasure.</description>
     <defName>SadjuukEmbrasureED</defName>
     <label>Armored Embrasure D</label>
     <graphicData>
-      <graphicClass>Graphic_Single</graphicClass>
       <texPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureED</texPath>
-      <linkType>Basic</linkType>
-      <linkFlags>
-        <li>Wall</li>
-        <li>Rock</li>
-      </linkFlags>
     </graphicData>
     <uiIconPath>SadjuukUN-Building/SadjuukEmbrasureE/SadjuukEmbrasureEDIcon</uiIconPath>
   </ThingDef>
