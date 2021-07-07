@@ -1,312 +1,166 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Wood Floor AA -->
-
   <SadjuukWoodFloorAA.label>Wood Floor A</SadjuukWoodFloorAA.label>
   <SadjuukWoodFloorAA.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAA.description>
-
-
   <!-- Wood Floor AB -->
-
   <SadjuukWoodFloorAB.label>Wood Floor B</SadjuukWoodFloorAB.label>
   <SadjuukWoodFloorAB.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAB.description>
-
-
   <!-- Wood Floor AC -->
-
   <SadjuukWoodFloorAC.label>Wood Floor C</SadjuukWoodFloorAC.label>
   <SadjuukWoodFloorAC.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAC.description>
-
-
   <!-- Wood Floor AD -->
-
   <SadjuukWoodFloorAD.label>Wood Floor D</SadjuukWoodFloorAD.label>
   <SadjuukWoodFloorAD.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAD.description>
-
-
   <!-- Wood Floor AE -->
-
   <SadjuukWoodFloorAE.label>Wood Floor E</SadjuukWoodFloorAE.label>
   <SadjuukWoodFloorAE.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAE.description>
-
-
   <!-- Wood Floor AF -->
-
   <SadjuukWoodFloorAF.label>Wood Floor F</SadjuukWoodFloorAF.label>
   <SadjuukWoodFloorAF.description>Simple wooden flooring, made of wooden logs.</SadjuukWoodFloorAF.description>
-
-
   <!-- Wood Floor BA -->
-
   <SadjuukWoodFloorBA.label>Wood Floor A</SadjuukWoodFloorBA.label>
   <SadjuukWoodFloorBA.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBA.description>
-
-
   <!-- Wood Floor BB -->
-
   <SadjuukWoodFloorBB.label>Wood Floor B</SadjuukWoodFloorBB.label>
   <SadjuukWoodFloorBB.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBB.description>
-
-
   <!-- Wood Floor BC -->
-
   <SadjuukWoodFloorBC.label>Wood Floor C</SadjuukWoodFloorBC.label>
   <SadjuukWoodFloorBC.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBC.description>
-
-
   <!-- Wood Floor BD -->
-
   <SadjuukWoodFloorBD.label>Wood Floor D</SadjuukWoodFloorBD.label>
   <SadjuukWoodFloorBD.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBD.description>
-
-
   <!-- Wood Floor BE -->
-
   <SadjuukWoodFloorBE.label>Wood Floor E</SadjuukWoodFloorBE.label>
   <SadjuukWoodFloorBE.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBE.description>
-
-
   <!-- Wood Floor BF -->
-
   <SadjuukWoodFloorBF.label>Wood Floor F</SadjuukWoodFloorBF.label>
   <SadjuukWoodFloorBF.description>Simple wooden flooring, made of wood planks.</SadjuukWoodFloorBF.description>
-
-
   <!-- Steel Floor AA -->
-
   <SadjuukSteelFloorAA.label>Metal Grid Floor</SadjuukSteelFloorAA.label>
   <SadjuukSteelFloorAA.description>Raw Metal Floor, inexpensive and quick to build, but ugly.</SadjuukSteelFloorAA.description>
-
-
   <!-- Steel Floor AB -->
-
   <SadjuukSteelFloorAB.label>Metal Plate Floor</SadjuukSteelFloorAB.label>
   <SadjuukSteelFloorAB.description>Raw Metal Floor, inexpensive and quick to build, but ugly.</SadjuukSteelFloorAB.description>
-
-
   <!-- Steel Floor CA -->
-
   <SadjuukConcreteFloorCA.label>Painted Steel Floor A</SadjuukConcreteFloorCA.label>
   <SadjuukConcreteFloorCA.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCA.description>
-
-
   <!-- Steel Floor CB -->
-
   <SadjuukConcreteFloorCB.label>Painted Steel Floor B</SadjuukConcreteFloorCB.label>
   <SadjuukConcreteFloorCB.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCB.description>
-
-
   <!-- Steel Floor CC -->
-
   <SadjuukConcreteFloorCC.label>Painted Steel Floor C</SadjuukConcreteFloorCC.label>
   <SadjuukConcreteFloorCC.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCC.description>
-
-
   <!-- Steel Floor CD -->
-
   <SadjuukConcreteFloorCD.label>Painted Steel Floor D</SadjuukConcreteFloorCD.label>
   <SadjuukConcreteFloorCD.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCD.description>
-
-
   <!-- Steel Floor CE -->
-
   <SadjuukConcreteFloorCE.label>Painted Steel Floor E</SadjuukConcreteFloorCE.label>
   <SadjuukConcreteFloorCE.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCE.description>
-
-
   <!-- Steel Floor CF -->
-
   <SadjuukConcreteFloorCF.label>Painted Steel Floor F</SadjuukConcreteFloorCF.label>
   <SadjuukConcreteFloorCF.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCF.description>
-
-
   <!-- Steel Floor CG -->
-
   <SadjuukConcreteFloorCG.label>Painted Steel Floor G</SadjuukConcreteFloorCG.label>
   <SadjuukConcreteFloorCG.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCG.description>
-
-
   <!-- Steel Floor CH -->
-
   <SadjuukConcreteFloorCH.label>Painted Steel Floor H</SadjuukConcreteFloorCH.label>
   <SadjuukConcreteFloorCH.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCH.description>
-
-
   <!-- Steel Floor CI -->
-
   <SadjuukConcreteFloorCI.label>Painted Steel Floor I</SadjuukConcreteFloorCI.label>
   <SadjuukConcreteFloorCI.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCI.description>
-
-
   <!-- Steel Floor CJ -->
-
   <SadjuukConcreteFloorCJ.label>Painted Steel Floor J</SadjuukConcreteFloorCJ.label>
   <SadjuukConcreteFloorCJ.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCJ.description>
-
-
   <!-- Steel Floor CK -->
-
   <SadjuukConcreteFloorCK.label>Painted Steel Floor K</SadjuukConcreteFloorCK.label>
   <SadjuukConcreteFloorCK.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCK.description>
-
-
   <!-- Steel Floor CL -->
-
   <!--[Duplicated] <SadjuukConcreteFloorAL.label>Painted Steel Floor L</SadjuukConcreteFloorAL.label>-->
   <!--[Duplicated] <SadjuukConcreteFloorAL.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorAL.description>-->
-
-
   <!-- Steel Floor CM -->
-
   <SadjuukConcreteFloorCM.label>Painted Steel Floor M</SadjuukConcreteFloorCM.label>
   <SadjuukConcreteFloorCM.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCM.description>
-
-
   <!-- Steel Floor CN -->
-
   <SadjuukConcreteFloorCN.label>Painted Steel Floor N</SadjuukConcreteFloorCN.label>
   <SadjuukConcreteFloorCN.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCN.description>
-
-
   <!-- Steel Floor CO -->
-
   <SadjuukConcreteFloorCO.label>Painted Steel Floor O</SadjuukConcreteFloorCO.label>
   <SadjuukConcreteFloorCO.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCO.description>
-
-
   <!-- Steel Floor CP -->
-
   <SadjuukConcreteFloorCP.label>Painted Steel Floor P</SadjuukConcreteFloorCP.label>
   <SadjuukConcreteFloorCP.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCP.description>
-
-
   <!-- Steel Floor CQ -->
-
   <SadjuukConcreteFloorCQ.label>Painted Steel Floor Q</SadjuukConcreteFloorCQ.label>
   <SadjuukConcreteFloorCQ.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorCQ.description>
-
-
   <!-- Concrete Floor A -->
-
   <SadjuukConcreteFloorA.label>Concrete Floor</SadjuukConcreteFloorA.label>
   <SadjuukConcreteFloorA.description>Concrete Floor.</SadjuukConcreteFloorA.description>
-
-
   <!-- Concrete Floor AA -->
-
   <SadjuukConcreteFloorAA.label>Painted Concrete Floor A</SadjuukConcreteFloorAA.label>
   <SadjuukConcreteFloorAA.description>Painted concrete Floor.</SadjuukConcreteFloorAA.description>
-
-
   <!-- Concrete Floor AB -->
-
   <SadjuukConcreteFloorAB.label>Painted Concrete Floor B</SadjuukConcreteFloorAB.label>
   <SadjuukConcreteFloorAB.description>Painted concrete Floor.</SadjuukConcreteFloorAB.description>
-
-
   <!-- Concrete Floor AC -->
-
   <SadjuukConcreteFloorAC.label>Painted Concrete Floor C</SadjuukConcreteFloorAC.label>
   <SadjuukConcreteFloorAC.description>Painted concrete Floor.</SadjuukConcreteFloorAC.description>
-
-
   <!-- Concrete Floor AD -->
-
   <SadjuukConcreteFloorAD.label>Painted Concrete Floor D</SadjuukConcreteFloorAD.label>
   <SadjuukConcreteFloorAD.description>Painted concrete Floor.</SadjuukConcreteFloorAD.description>
-
-
   <!-- Concrete Floor AE -->
-
   <SadjuukConcreteFloorAE.label>Painted Concrete Floor E</SadjuukConcreteFloorAE.label>
   <SadjuukConcreteFloorAE.description>Painted concrete Floor.</SadjuukConcreteFloorAE.description>
-
-
   <!-- Concrete Floor AF -->
-
   <SadjuukConcreteFloorAF.label>Painted Concrete Floor F</SadjuukConcreteFloorAF.label>
   <SadjuukConcreteFloorAF.description>Painted concrete Floor.</SadjuukConcreteFloorAF.description>
-
-
   <!-- Concrete Floor AG -->
-
   <SadjuukConcreteFloorAG.label>Painted Concrete Floor G</SadjuukConcreteFloorAG.label>
   <SadjuukConcreteFloorAG.description>Painted concrete Floor.</SadjuukConcreteFloorAG.description>
-
-
   <!-- Concrete Floor AH -->
-
   <SadjuukConcreteFloorAH.label>Painted Concrete Floor H</SadjuukConcreteFloorAH.label>
   <SadjuukConcreteFloorAH.description>Painted concrete Floor.</SadjuukConcreteFloorAH.description>
-
-
   <!-- Concrete Floor AI -->
-
   <SadjuukConcreteFloorAI.label>Painted Concrete Floor I</SadjuukConcreteFloorAI.label>
   <SadjuukConcreteFloorAI.description>Painted concrete Floor.</SadjuukConcreteFloorAI.description>
-
-
   <!-- Concrete Floor AJ -->
-
   <SadjuukConcreteFloorAJ.label>Painted Concrete Floor J</SadjuukConcreteFloorAJ.label>
   <SadjuukConcreteFloorAJ.description>Painted concrete Floor.</SadjuukConcreteFloorAJ.description>
-
-
   <!-- Concrete Floor AK -->
-
   <SadjuukConcreteFloorAK.label>Painted Concrete Floor K</SadjuukConcreteFloorAK.label>
   <SadjuukConcreteFloorAK.description>Painted concrete Floor.</SadjuukConcreteFloorAK.description>
-
-
   <!-- Concrete Floor AL -->
-
   <SadjuukConcreteFloorAL.label>Painted Concrete Floor L</SadjuukConcreteFloorAL.label>
   <SadjuukConcreteFloorAL.description>Painted concrete Floor.</SadjuukConcreteFloorAL.description>
-
-
   <!-- Concrete Floor AM -->
-
   <SadjuukConcreteFloorAM.label>Painted Concrete Floor M</SadjuukConcreteFloorAM.label>
   <SadjuukConcreteFloorAM.description>Painted concrete Floor.</SadjuukConcreteFloorAM.description>
-
-
   <!-- Concrete Floor AN -->
-
   <SadjuukConcreteFloorAN.label>Painted Concrete Floor N</SadjuukConcreteFloorAN.label>
   <SadjuukConcreteFloorAN.description>Painted concrete Floor.</SadjuukConcreteFloorAN.description>
-
-
   <!-- Asphalt Floor AA -->
-
   <SadjuukAsphaltFloorAA.label>Asphalt</SadjuukAsphaltFloorAA.label>
   <SadjuukAsphaltFloorAA.description>Asphalt Floor, usually for roads or outdoor storage area.</SadjuukAsphaltFloorAA.description>
-
-
   <!-- Asphalt Floor AB -->
-
   <SadjuukAsphaltFloorAB.label>Dark Asphalt</SadjuukAsphaltFloorAB.label>
   <SadjuukAsphaltFloorAB.description>Asphalt Floor, usually for roads or outdoor storage area.</SadjuukAsphaltFloorAB.description>
-
-
   <!--[Duplicated] <SadjuukConcreteFloorAL.description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</SadjuukConcreteFloorAL.description>-->
-
 </LanguageData>

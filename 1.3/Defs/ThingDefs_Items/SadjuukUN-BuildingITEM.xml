@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================================================================= -->
+  <!-- CONSTRUCTION COMPONENTS -->
+  <!-- ============================================================================= -->
+  <!-- CONCRETE -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>SadjuukConcrete</defName>
+    <label>Concrete</label>
+    <description>A composite material, fine and coarse aggregate bonded together. Concrete makes a building fire-safe due to its noncombustible nature.</description>
+    <graphicData>
+      <texPath>SadjuukUN-Building/SadjuukConcrete</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <MarketValue>2.4</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Asphalt Concrete (1/15 Fuel Oil) -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>SadjuukAsphaltConcrete</defName>
+    <label>Asphalt Concrete</label>
+    <description>Asphalt mixed with aggregate particles to create Asphalt Concrete.</description>
+    <tickerType>Normal</tickerType>
+    <graphicData>
+      <texPath>SadjuukUN-Building/SadjuukAsphaltConcrete</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <MarketValue>4</MarketValue>
+      <Mass>1.2</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- GLASS -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>SadjuukGlass</defName>
+    <label>Glass</label>
+    <description>Thin wafers of silicon interwoven.</description>
+    <graphicData>
+      <texPath>SadjuukUN-Building/SadjuukGlass</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>12</stackLimit>
+    <statBases>
+      <MaxHitPoints>20</MaxHitPoints>
+      <MarketValue>2.5</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- PAINT (10 chemfuel) -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>SadjuukSyntheticPaint</defName>
+    <label>Synthetic Paint</label>
+    <description>An extremely tough and durable single-component synthetic resin based paint for interior use on highly trafficked floors. Fast drying, excellent covering properties.</description>
+    <graphicData>
+      <texPath>SadjuukUN-Building/SadjuukSyntheticPaint</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>3.7</MarketValue>
+      <Mass>1.2</Mass>
+      <Flammability>2</Flammability>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>

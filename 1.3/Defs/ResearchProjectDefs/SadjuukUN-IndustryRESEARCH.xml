@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================================================================= -->
+  <!-- UN Colonization Programm TAB -->
+  <!-- ============================================================================= -->
+  <ResearchTabDef>
+    <defName>SadjuukColonizationTab</defName>
+    <label>UN Colonization</label>
+  </ResearchTabDef>
+  <!-- ============================================================================= -->
+  <!-- #3 BASE : UN Colonization Programm -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukColonization</defName>
+    <label>UN Colonization Programm</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Opening of the United Nations Colonization Program's recommendations and technologies.</description>
+    <baseCost>200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>Electricity</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #1 Metallurgy -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukMetallurgyA</defName>
+    <label>Bessemer Converter</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>The Bessemer Converter will allow your colony to process industrially raw steel.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukMetallurgyB</defName>
+    <label>Open Hearth Furnace</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>The Open Hearth Furnace is the improvement of the Bessemer Converter.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukMetallurgyA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukMetallurgyC</defName>
+    <label>Electric Arc Furnace.</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Research how to process row steel with the powerful Electric Arc Furnace technology.</description>
+    <baseCost>4800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukMetallurgyB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #1.5 Production -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukProductionA</defName>
+    <label>Production Lines</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>This research allow your colony to build efficient Production Lines.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>1.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukProductionB</defName>
+    <label>Machine Tools</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Machine Tools using to improve your production lines.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukProductionA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>1.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukProductionC</defName>
+    <label>Industrial Robotics.</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Devlops Industrial Robotics that are more efficient than machine tools.</description>
+    <baseCost>4800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukProductionB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1.5</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #2 Fuel Oil -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukFuelOilA</defName>
+    <label>Fuel Oil Refining</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Fuel Oil Production and Generators.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukFuelOilB</defName>
+    <label>Fuel Oil Generator A</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>A large Fuel Oil Generator.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukFuelOilA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukFuelOilC</defName>
+    <label>Fuel Oil Generator B</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>An improvement of the generator A.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukFuelOilB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #2.5 Diesel -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukDieselA</defName>
+    <label>Diesel Refining</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Diesel Production and portable Generators.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukFuelOilA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>2.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukDieselB</defName>
+    <label>Diesel Generators F</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Industrial Generator F.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukDieselA</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>2.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukDieselC</defName>
+    <label>Diesel Generators G</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Industrial Diesel Generators G.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukDieselB</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>2.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukDieselD</defName>
+    <label>Diesel Generators N</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Armored Diesel Generator N.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukDieselC</li>
+    </prerequisites>
+    <researchViewX>5</researchViewX>
+    <researchViewY>2.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukDieselE</defName>
+    <label>Diesel Generators M</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Armored Diesel Generators M.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukDieselD</li>
+    </prerequisites>
+    <researchViewX>6</researchViewX>
+    <researchViewY>2.5</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #3 Hydrogen -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukHydrogenA</defName>
+    <label>Advanced Refining</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Allows the Hydrogen, explosives and chemicals Production in the Advanced Refining. A portable Hydrogen fuel cell is also available.</description>
+    <baseCost>4800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukDieselA</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukHydrogenB</defName>
+    <label>Armored Fuel cell</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Large Fuel cell.</description>
+    <baseCost>9600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukHydrogenA</li>
+    </prerequisites>
+    <researchViewX>4</researchViewX>
+    <researchViewY>3</researchViewY>
+  </ResearchProjectDef>
+</Defs>

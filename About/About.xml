@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>UN-Colony (Continued)</name>
   <packageId>Mlie.UNColony</packageId>
@@ -8,24 +8,40 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Sadjuuks mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
 
-Support-chat:
-https://discord.gg/SuhwVpM
+The old mod has an updated reworked version here:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
 
-Non-steam version:
-https://github.com/emipa606/UNColony
+If you want to use UN-Colony resources for core or other mods checkout the addon made by FantasyFan:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1869087753
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/UNColony][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 This mod adds many things to build a new kind of colony.
+
+[h1]2- UN-Furniture [1.0] : [/h1]https://steamcommunity.com/sharedfiles/filedetails/?id=2019774854
+[h1]3- UN-Defense [1.0] : [/h1]Defense and turrets =&gt; In progress..
+
 
 For the moment this mod adds :
 
-12 generators and 3 solar panels :
+[h1]12 generators and 3 solar panels :[/h1]
 -&gt; A rustic wood fired generator,
 -&gt; 3 Fuel Oil generators (Fuel Oil is made in the Fuel Oil refinery),
 -&gt; 4 Diesel generators (Diesel is made in the Diesel refinery),
@@ -33,7 +49,7 @@ For the moment this mod adds :
 -&gt; 3 solar panels of different sizes, 4X4, 5X3 and 2X7 (good sizes for wind turbines),
 -&gt; 3 portable generators (2 diesel, 1 Hydrogen).
 
-Walls, fences, doors, floors and paint :
+[h1]Walls, fences, doors, floors and paint :[/h1]
 Warning with the walls : They are higher than the vanilla ones, the texture is not sized the same.
 I advice to use the vanilla walls for double walls or walls merged to rocks and mountains.
 -&gt; Wooden fences, gate, doors, walls and embrasures,
@@ -45,7 +61,7 @@ I advice to use the vanilla walls for double walls or walls merged to rocks and 
 -&gt; Glass fence and door,
 -&gt; Paint (Zebra, lines and double lines).
 
-Item production :
+[h1]Item production :[/h1]
 The Metalworking Bench will allow you to produce the most needed but slowly. For more efficiency you have :
 -&gt; Steel plates : Bessemer Converter, Open Hearth Furnace and Electric Arc Furnace,
 -&gt; Steel Grids : Metalworking Line
@@ -56,7 +72,7 @@ The Metalworking Bench will allow you to produce the most needed but slowly. For
 -&gt; Concrete, paint, glass and asphalt : Construction Machinery
 Note the mod will evolve, many things as shell will be produced by the Assembly Line.
 
-For maximum efficiency, you can improve your production lines with :
+[h1]For maximum efficiency, you can improve your production lines with :[/h1]
 -&gt; Metalworking Bench + 1 Shaper + 1 Metal Lathe
 -&gt; Metalworking Line + 1 Shaper + 1 Grinding Machine + 2 Welding Robots
 -&gt; Assembly Line + 1 Metal Lathe + 1 Milling Machine + 2 Assembly Robots
@@ -66,5 +82,17 @@ Note for moders : I use custom8 for paint and custom7 for fences as linkFlags
 
 
 Hope you will enjoy !
-	</description>
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
