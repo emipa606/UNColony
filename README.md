@@ -11,6 +11,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
 If you want to use UN-Colony resources for core or other mods checkout the addon made by FantasyFan:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1869087753
 
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704]Simple FX: Smoke
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="UNColony_UpdateFeatureBase">
     <modNameReadable>UNColony</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="UNColony_UpdateFeatureBase">
     <defName>UNColony_1_0_3_0</defName>
     <assemblyVersion>1.0.3.0</assemblyVersion>
     <content>Walls and embrasures had some old definitions that made them behave different from other walls/embrasures. This would cause graphical issues when buildning next to rock-wall or if you built a double-wall. There were also some issues with floor-interaction. These issues should now be fixed.</content>
