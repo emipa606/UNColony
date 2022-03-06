@@ -3,17 +3,9 @@
   <!-- ============================================================================= -->
   <!-- BASE ALL FLOORS -->
   <!-- ============================================================================= -->
-  <TerrainDef Name="SadjuukFloorBase" Abstract="True">
-    <layerable>true</layerable>
-    <affordances>
-      <li>Light</li>
-      <li>Medium</li>
-      <li>Heavy</li>
-    </affordances>
+  <TerrainDef Name="SadjuukFloorBase" ParentName="FloorBase" Abstract="True">
     <designationCategory>SadjuukUN-Building</designationCategory>
-    <fertility>0</fertility>
     <filthAcceptanceMask>Terrain</filthAcceptanceMask>
-    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
   </TerrainDef>
   <!-- ============================================================================= -->
   <!-- BASE Wood Floor A (Wood log) -->
