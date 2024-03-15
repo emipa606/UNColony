@@ -1049,6 +1049,7 @@ Wooden wall.</description>
       <Flammability>0.7</Flammability>
     </statBases>
     <blockWind>false</blockWind>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
     <constructEffect>ConstructWood</constructEffect>
@@ -1131,6 +1132,7 @@ Untreated steel recovery wall.</description>
       <li>Electricity</li>
     </researchPrerequisites>
     <blockWind>false</blockWind>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
     <description>HP : 450
@@ -1210,6 +1212,7 @@ Concrete wall.</description>
       <li>SadjuukConstructionA</li>
     </researchPrerequisites>
     <blockWind>false</blockWind>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
     <description>HP : 775
@@ -1381,6 +1384,7 @@ Shielded concrete wall.</description>
       <li>SadjuukConstructionB</li>
     </researchPrerequisites>
     <blockWind>false</blockWind>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
     <description>HP : 1550
@@ -1606,6 +1610,7 @@ Armored concrete wall.</description>
       <SadjuukMetalGrid>1</SadjuukMetalGrid>
     </costList>
     <blockWind>false</blockWind>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <fillPercent>0.7</fillPercent>
     <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
     <description>HP : 3350
@@ -1744,6 +1749,7 @@ A rustic Wooden fence.</description>
     </costList>
     <blockLight>false</blockLight>
     <fillPercent>0.2</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <constructionSkillPrerequisite>2</constructionSkillPrerequisite>
     <constructEffect>ConstructWood</constructEffect>
   </ThingDef>
@@ -1780,6 +1786,7 @@ An industrial metal grid fence.</description>
     </costList>
     <blockLight>false</blockLight>
     <fillPercent>0.2</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <researchPrerequisites>
       <li>SadjuukConstructionA</li>
     </researchPrerequisites>
