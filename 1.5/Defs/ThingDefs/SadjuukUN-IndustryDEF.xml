@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ============================================================================= -->
   <!-- Wooden Pallet-->
@@ -33,6 +33,8 @@
     <building>
       <preventDeteriorationOnTop>false</preventDeteriorationOnTop>
       <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <maxItemsInCell>3</maxItemsInCell>
+      <paintable>true</paintable>
       <defaultStorageSettings>
         <priority>Important</priority>
         <filter>
@@ -52,6 +54,9 @@
     <researchPrerequisites>
       <li>Electricity</li>
     </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Styleable" />
+    </comps>
   </ThingDef>
   <!-- ============================================================================= -->
   <!-- Power Conduit -->
