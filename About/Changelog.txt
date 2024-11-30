@@ -1,5 +1,8 @@
 # Changelog for UNColony
 
+1.5.3 - Fixed wall-attachment support
+
+
 1.5.2 - Storage-buildings can now store 3 stacks and are paintable, same as vanilla
 
 
