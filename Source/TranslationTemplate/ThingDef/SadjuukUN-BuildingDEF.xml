@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Concrete Fence -->
+  <SadjuukConcreteFence.label>Concrete Fence</SadjuukConcreteFence.label>
+  <!-- EN: HP : 300\nAn industrial concrete fence. -->
+  <SadjuukConcreteFence.description>HP : 300
+An industrial concrete fence.</SadjuukConcreteFence.description>
+  <!-- EN: Wooden Gate (H) -->
+  <SadjuukDoorAA.label>Wooden Gate (H)</SadjuukDoorAA.label>
+  <!-- EN: HP : 80\nA rustic Wooden gate. -->
+  <SadjuukDoorAA.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAA.description>
+  <!-- EN: Wooden Gate (V) -->
+  <SadjuukDoorAB.label>Wooden Gate (V)</SadjuukDoorAB.label>
+  <!-- EN: HP : 80\nA rustic Wooden gate. -->
+  <SadjuukDoorAB.description>HP : 80
+A rustic Wooden gate.</SadjuukDoorAB.description>
+  <!-- EN: Grid Gate (H) -->
+  <SadjuukDoorBA.label>Grid Gate (H)</SadjuukDoorBA.label>
+  <!-- EN: HP : 250\nAn industrial metal grid gate. -->
+  <SadjuukDoorBA.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBA.description>
+  <!-- EN: Grid Gate (V) -->
+  <SadjuukDoorBB.label>Grid Gate (V)</SadjuukDoorBB.label>
+  <!-- EN: HP : 250\nAn industrial metal grid gate. -->
+  <SadjuukDoorBB.description>HP : 250
+An industrial metal grid gate.</SadjuukDoorBB.description>
+  <!-- EN: Glass Door (H) -->
+  <SadjuukDoorCA.label>Glass Door (H)</SadjuukDoorCA.label>
+  <!-- EN: HP : 50\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <SadjuukDoorCA.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCA.description>
+  <!-- EN: Glass Door (V) -->
+  <SadjuukDoorCB.label>Glass Door (V)</SadjuukDoorCB.label>
+  <!-- EN: HP : 50\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <SadjuukDoorCB.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukDoorCB.description>
+  <!-- EN: Wooden Door (H) -->
+  <SadjuukDoorDA.label>Wooden Door (H)</SadjuukDoorDA.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <SadjuukDoorDA.description>HP : 350
+Heavy Armored door.</SadjuukDoorDA.description>
+  <!-- EN: Wooden Door (V) -->
+  <SadjuukDoorDB.label>Wooden Door (V)</SadjuukDoorDB.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <SadjuukDoorDB.description>HP : 350
+Heavy Armored door.</SadjuukDoorDB.description>
+  <!-- EN: Steel Door (H) -->
+  <SadjuukDoorEA.label>Steel Door (H)</SadjuukDoorEA.label>
+  <!-- EN: HP : 450\nRustic Steel door. -->
+  <SadjuukDoorEA.description>HP : 450
+Rustic Steel door.</SadjuukDoorEA.description>
+  <!-- EN: Steel Door (V) -->
+  <SadjuukDoorEB.label>Steel Door (V)</SadjuukDoorEB.label>
+  <!-- EN: HP : 450\nRustic Steel door. -->
+  <SadjuukDoorEB.description>HP : 450
+Rustic Steel door.</SadjuukDoorEB.description>
+  <!-- EN: Steel Door (H) -->
+  <SadjuukDoorFA.label>Steel Door (H)</SadjuukDoorFA.label>
+  <!-- EN: HP : 600\nSteel door. -->
+  <SadjuukDoorFA.description>HP : 600
+Steel door.</SadjuukDoorFA.description>
+  <!-- EN: Steel Door (V) -->
+  <SadjuukDoorFB.label>Steel Door (V)</SadjuukDoorFB.label>
+  <!-- EN: HP : 600\nSteel door. -->
+  <SadjuukDoorFB.description>HP : 600
+Steel door.</SadjuukDoorFB.description>
+  <!-- EN: Steel Door (H) -->
+  <SadjuukDoorGA.label>Steel Door (H)</SadjuukDoorGA.label>
+  <!-- EN: HP : 600\nPainted Steel door. -->
+  <SadjuukDoorGA.description>HP : 600
+Painted Steel door.</SadjuukDoorGA.description>
+  <!-- EN: Steel Door (V) -->
+  <SadjuukDoorGB.label>Steel Door (V)</SadjuukDoorGB.label>
+  <!-- EN: HP : 600\nPainted Steel door. -->
+  <SadjuukDoorGB.description>HP : 600
+Painted Steel door.</SadjuukDoorGB.description>
+  <!-- EN: Shielded Door (H) -->
+  <SadjuukDoorHA.label>Shielded Door (H)</SadjuukDoorHA.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <SadjuukDoorHA.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHA.description>
+  <!-- EN: Shielded Door (V) -->
+  <SadjuukDoorHB.label>Shielded Door (V)</SadjuukDoorHB.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <SadjuukDoorHB.description>HP : 990
+Heavy Shielded door.</SadjuukDoorHB.description>
+  <!-- EN: Shielded Door (H) -->
+  <SadjuukDoorIA.label>Shielded Door (H)</SadjuukDoorIA.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <SadjuukDoorIA.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIA.description>
+  <!-- EN: Shielded Door (V) -->
+  <SadjuukDoorIB.label>Shielded Door (V)</SadjuukDoorIB.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <SadjuukDoorIB.description>HP : 990
+Heavy Shielded door.</SadjuukDoorIB.description>
+  <!-- EN: Armored Door (H) -->
+  <SadjuukDoorJA.label>Armored Door (H)</SadjuukDoorJA.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <SadjuukDoorJA.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJA.description>
+  <!-- EN: Armored Door (V) -->
+  <SadjuukDoorJB.label>Armored Door (V)</SadjuukDoorJB.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <SadjuukDoorJB.description>HP : 2100
+Heavy Armored door.</SadjuukDoorJB.description>
+  <!-- EN: Armored Door (H) -->
+  <SadjuukDoorKA.label>Armored Door (H)</SadjuukDoorKA.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <SadjuukDoorKA.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKA.description>
+  <!-- EN: Armored Door (V) -->
+  <SadjuukDoorKB.label>Armored Door (V)</SadjuukDoorKB.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <SadjuukDoorKB.description>HP : 2100
+Heavy Armored door.</SadjuukDoorKB.description>
+  <!-- EN: Wooden Door (H) -->
+  <SadjuukDoorLA.label>Wooden Door (H)</SadjuukDoorLA.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <SadjuukDoorLA.description>HP : 350
+Heavy Armored door.</SadjuukDoorLA.description>
+  <!-- EN: Wooden Door (V) -->
+  <SadjuukDoorLB.label>Wooden Door (V)</SadjuukDoorLB.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <SadjuukDoorLB.description>HP : 350
+Heavy Armored door.</SadjuukDoorLB.description>
+  <!-- EN: Wooden Embrasure A -->
+  <SadjuukEmbrasureAA.label>Wooden Embrasure A</SadjuukEmbrasureAA.label>
+  <!-- EN: HP : 350\nWooden Embrasure. -->
+  <SadjuukEmbrasureAA.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAA.description>
+  <!-- EN: Wooden Embrasure B -->
+  <SadjuukEmbrasureAB.label>Wooden Embrasure B</SadjuukEmbrasureAB.label>
+  <!-- EN: HP : 350\nWooden Embrasure. -->
+  <SadjuukEmbrasureAB.description>HP : 350
+Wooden Embrasure.</SadjuukEmbrasureAB.description>
+  <!-- EN: Steel Embrasure A -->
+  <SadjuukEmbrasureBA.label>Steel Embrasure A</SadjuukEmbrasureBA.label>
+  <!-- EN: HP : 450\nUntreated steel recovery Embrasure. -->
+  <SadjuukEmbrasureBA.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBA.description>
+  <!-- EN: Steel Embrasure B -->
+  <SadjuukEmbrasureBB.label>Steel Embrasure B</SadjuukEmbrasureBB.label>
+  <!-- EN: HP : 450\nUntreated steel recovery Embrasure. -->
+  <SadjuukEmbrasureBB.description>HP : 450
+Untreated steel recovery Embrasure.</SadjuukEmbrasureBB.description>
+  <!-- EN: Concrete Embrasure A -->
+  <SadjuukEmbrasureCA.label>Concrete Embrasure A</SadjuukEmbrasureCA.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <SadjuukEmbrasureCA.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCA.description>
+  <!-- EN: Concrete Embrasure B -->
+  <SadjuukEmbrasureCB.label>Concrete Embrasure B</SadjuukEmbrasureCB.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <SadjuukEmbrasureCB.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCB.description>
+  <!-- EN: Concrete Embrasure C -->
+  <SadjuukEmbrasureCC.label>Concrete Embrasure C</SadjuukEmbrasureCC.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <SadjuukEmbrasureCC.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCC.description>
+  <!-- EN: Concrete Embrasure D -->
+  <SadjuukEmbrasureCD.label>Concrete Embrasure D</SadjuukEmbrasureCD.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <SadjuukEmbrasureCD.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCD.description>
+  <!-- EN: Concrete Embrasure E -->
+  <SadjuukEmbrasureCE.label>Concrete Embrasure E</SadjuukEmbrasureCE.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <SadjuukEmbrasureCE.description>HP : 775
+Concrete Embrasure.</SadjuukEmbrasureCE.description>
+  <!-- EN: Shielded Embrasure -->
+  <SadjuukEmbrasureDA.label>Shielded Embrasure</SadjuukEmbrasureDA.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDA.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDA.description>
+  <!-- EN: Green Shielded Embrasure -->
+  <SadjuukEmbrasureDB.label>Green Shielded Embrasure</SadjuukEmbrasureDB.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDB.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDB.description>
+  <!-- EN: Woodland Camo Embrasure -->
+  <SadjuukEmbrasureDC.label>Woodland Camo Embrasure</SadjuukEmbrasureDC.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDC.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDC.description>
+  <!-- EN: Flecktarn Camo Embrasure -->
+  <SadjuukEmbrasureDD.label>Flecktarn Camo Embrasure</SadjuukEmbrasureDD.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDD.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDD.description>
+  <!-- EN: Desert Camo Embrasure -->
+  <SadjuukEmbrasureDE.label>Desert Camo Embrasure</SadjuukEmbrasureDE.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDE.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDE.description>
+  <!-- EN: Ice Camo Embrasure -->
+  <SadjuukEmbrasureDF.label>Ice Camo Embrasure</SadjuukEmbrasureDF.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <SadjuukEmbrasureDF.description>HP : 1550
+Shielded concrete Embrasure.</SadjuukEmbrasureDF.description>
+  <!-- EN: Armored Embrasure A -->
+  <SadjuukEmbrasureEA.label>Armored Embrasure A</SadjuukEmbrasureEA.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <SadjuukEmbrasureEA.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEA.description>
+  <!-- EN: Armored Embrasure B -->
+  <SadjuukEmbrasureEB.label>Armored Embrasure B</SadjuukEmbrasureEB.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <SadjuukEmbrasureEB.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEB.description>
+  <!-- EN: Armored Embrasure C -->
+  <SadjuukEmbrasureEC.label>Armored Embrasure C</SadjuukEmbrasureEC.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <SadjuukEmbrasureEC.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureEC.description>
+  <!-- EN: Armored Embrasure D -->
+  <SadjuukEmbrasureED.label>Armored Embrasure D</SadjuukEmbrasureED.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <SadjuukEmbrasureED.description>HP : 3350
+Armored concrete Embrasure.</SadjuukEmbrasureED.description>
+  <!-- EN: Glass Partition -->
+  <SadjuukGlassFenceA.label>Glass Partition</SadjuukGlassFenceA.label>
+  <!-- EN: HP : 70\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <SadjuukGlassFenceA.description>HP : 70
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</SadjuukGlassFenceA.description>
+  <!-- EN: Grid Fence -->
+  <SadjuukGridFence.label>Grid Fence</SadjuukGridFence.label>
+  <!-- EN: HP : 250\nAn industrial metal grid fence. -->
+  <SadjuukGridFence.description>HP : 250
+An industrial metal grid fence.</SadjuukGridFence.description>
+  <!-- EN: Yellow Double lines -->
+  <SadjuukPaintAA.label>Yellow Double lines</SadjuukPaintAA.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAA.description>Painted lines.</SadjuukPaintAA.description>
+  <!-- EN: White Double lines -->
+  <SadjuukPaintAB.label>White Double lines</SadjuukPaintAB.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAB.description>Painted lines.</SadjuukPaintAB.description>
+  <!-- EN: Blue Double lines -->
+  <SadjuukPaintAC.label>Blue Double lines</SadjuukPaintAC.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAC.description>Painted lines.</SadjuukPaintAC.description>
+  <!-- EN: Red Double lines -->
+  <SadjuukPaintAD.label>Red Double lines</SadjuukPaintAD.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAD.description>Painted lines.</SadjuukPaintAD.description>
+  <!-- EN: Yellow Simple lines -->
+  <SadjuukPaintAE.label>Yellow Simple lines</SadjuukPaintAE.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAE.description>Painted lines.</SadjuukPaintAE.description>
+  <!-- EN: White Simple line -->
+  <SadjuukPaintAF.label>White Simple line</SadjuukPaintAF.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAF.description>Painted lines.</SadjuukPaintAF.description>
+  <!-- EN: Blue Simple line -->
+  <SadjuukPaintAG.label>Blue Simple line</SadjuukPaintAG.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAG.description>Painted lines.</SadjuukPaintAG.description>
+  <!-- EN: Red Simple line -->
+  <SadjuukPaintAH.label>Red Simple line</SadjuukPaintAH.label>
+  <!-- EN: Painted lines. -->
+  <SadjuukPaintAH.description>Painted lines.</SadjuukPaintAH.description>
+  <!-- EN: Yellow Painted arrow -->
+  <SadjuukPaintBA.label>Yellow Painted arrow</SadjuukPaintBA.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBA.description>Painted arrow.</SadjuukPaintBA.description>
+  <!-- EN: White Painted arrow -->
+  <SadjuukPaintBB.label>White Painted arrow</SadjuukPaintBB.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBB.description>Painted arrow.</SadjuukPaintBB.description>
+  <!-- EN: Blue Painted arrow -->
+  <SadjuukPaintBC.label>Blue Painted arrow</SadjuukPaintBC.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBC.description>Painted arrow.</SadjuukPaintBC.description>
+  <!-- EN: Red Painted arrow -->
+  <SadjuukPaintBD.label>Red Painted arrow</SadjuukPaintBD.label>
+  <!-- EN: Painted arrow. -->
+  <SadjuukPaintBD.description>Painted arrow.</SadjuukPaintBD.description>
+  <!-- EN: Red Zebra (L) -->
+  <SadjuukPaintCA.label>Red Zebra (L)</SadjuukPaintCA.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCA.description>Painted Zebra.</SadjuukPaintCA.description>
+  <!-- EN: Red Zebra (R) -->
+  <SadjuukPaintCB.label>Red Zebra (R)</SadjuukPaintCB.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCB.description>Painted Zebra.</SadjuukPaintCB.description>
+  <!-- EN: Yellow Zebra (L) -->
+  <SadjuukPaintCC.label>Yellow Zebra (L)</SadjuukPaintCC.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCC.description>Painted Zebra.</SadjuukPaintCC.description>
+  <!-- EN: Yellow Zebra (R) -->
+  <SadjuukPaintCD.label>Yellow Zebra (R)</SadjuukPaintCD.label>
+  <!-- EN: Painted Zebra. -->
+  <SadjuukPaintCD.description>Painted Zebra.</SadjuukPaintCD.description>
+  <!-- EN: Wooden Wall A -->
+  <SadjuukWallAA.label>Wooden Wall A</SadjuukWallAA.label>
+  <!-- EN: HP : 350\nWooden wall. -->
+  <SadjuukWallAA.description>HP : 350
+Wooden wall.</SadjuukWallAA.description>
+  <!-- EN: Wooden Wall B -->
+  <SadjuukWallAB.label>Wooden Wall B</SadjuukWallAB.label>
+  <!-- EN: HP : 350\nWooden wall. -->
+  <SadjuukWallAB.description>HP : 350
+Wooden wall.</SadjuukWallAB.description>
+  <!-- EN: Steel Wall A -->
+  <SadjuukWallBA.label>Steel Wall A</SadjuukWallBA.label>
+  <!-- EN: HP : 450\nUntreated steel recovery wall. -->
+  <SadjuukWallBA.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBA.description>
+  <!-- EN: Steel Wall B -->
+  <SadjuukWallBB.label>Steel Wall B</SadjuukWallBB.label>
+  <!-- EN: HP : 450\nUntreated steel recovery wall. -->
+  <SadjuukWallBB.description>HP : 450
+Untreated steel recovery wall.</SadjuukWallBB.description>
+  <!-- EN: Concrete Wall A -->
+  <SadjuukWallCA.label>Concrete Wall A</SadjuukWallCA.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <SadjuukWallCA.description>HP : 775
+Concrete wall.</SadjuukWallCA.description>
+  <!-- EN: Concrete Wall B -->
+  <SadjuukWallCB.label>Concrete Wall B</SadjuukWallCB.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <SadjuukWallCB.description>HP : 775
+Concrete wall.</SadjuukWallCB.description>
+  <!-- EN: Concrete Wall C -->
+  <SadjuukWallCC.label>Concrete Wall C</SadjuukWallCC.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <SadjuukWallCC.description>HP : 775
+Concrete wall.</SadjuukWallCC.description>
+  <!-- EN: Concrete Wall D -->
+  <SadjuukWallCD.label>Concrete Wall D</SadjuukWallCD.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <SadjuukWallCD.description>HP : 775
+Concrete wall.</SadjuukWallCD.description>
+  <!-- EN: Concrete Wall E -->
+  <SadjuukWallCE.label>Concrete Wall E</SadjuukWallCE.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <SadjuukWallCE.description>HP : 775
+Concrete wall.</SadjuukWallCE.description>
+  <!-- EN: Shielded Wall -->
+  <SadjuukWallDA.label>Shielded Wall</SadjuukWallDA.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDA.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDA.description>
+  <!-- EN: Green Shielded Wall -->
+  <SadjuukWallDB.label>Green Shielded Wall</SadjuukWallDB.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDB.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDB.description>
+  <!-- EN: Woodland Camo Wall -->
+  <SadjuukWallDC.label>Woodland Camo Wall</SadjuukWallDC.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDC.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDC.description>
+  <!-- EN: Flecktarn Camo Wall -->
+  <SadjuukWallDD.label>Flecktarn Camo Wall</SadjuukWallDD.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDD.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDD.description>
+  <!-- EN: Desert Camo Wall -->
+  <SadjuukWallDE.label>Desert Camo Wall</SadjuukWallDE.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDE.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDE.description>
+  <!-- EN: Ice Camo Wall -->
+  <SadjuukWallDF.label>Ice Camo Wall</SadjuukWallDF.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <SadjuukWallDF.description>HP : 1550
+Shielded concrete wall.</SadjuukWallDF.description>
+  <!-- EN: Armored Wall A -->
+  <SadjuukWallEA.label>Armored Wall A</SadjuukWallEA.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <SadjuukWallEA.description>HP : 3350
+Armored concrete wall.</SadjuukWallEA.description>
+  <!-- EN: Armored Wall B -->
+  <SadjuukWallEB.label>Armored Wall B</SadjuukWallEB.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <SadjuukWallEB.description>HP : 3350
+Armored concrete wall.</SadjuukWallEB.description>
+  <!-- EN: Armored Wall C -->
+  <SadjuukWallEC.label>Armored Wall C</SadjuukWallEC.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <SadjuukWallEC.description>HP : 3350
+Armored concrete wall.</SadjuukWallEC.description>
+  <!-- EN: Armored Wall D -->
+  <SadjuukWallED.label>Armored Wall D</SadjuukWallED.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <SadjuukWallED.description>HP : 3350
+Armored concrete wall.</SadjuukWallED.description>
+  <!-- EN: Wood Fence -->
+  <SadjuukWoodFence.label>Wood Fence</SadjuukWoodFence.label>
+  <!-- EN: HP : 80\nA rustic Wooden fence. -->
+  <SadjuukWoodFence.description>HP : 80
+A rustic Wooden fence.</SadjuukWoodFence.description>
+</LanguageData>

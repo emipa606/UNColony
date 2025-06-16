@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UN Colonization Programm -->
+  <SadjuukColonization.label>UN Colonization Programm</SadjuukColonization.label>
+  <!-- EN: Opening of the United Nations Colonization Program's recommendations and technologies. -->
+  <SadjuukColonization.description>Opening of the United Nations Colonization Program's recommendations and technologies.</SadjuukColonization.description>
+  <!-- EN: Diesel Refining -->
+  <SadjuukDieselA.label>Diesel Refining</SadjuukDieselA.label>
+  <!-- EN: Diesel Production and portable Generators. -->
+  <SadjuukDieselA.description>Diesel Production and portable Generators.</SadjuukDieselA.description>
+  <!-- EN: Diesel Generators F -->
+  <SadjuukDieselB.label>Diesel Generators F</SadjuukDieselB.label>
+  <!-- EN: Industrial Generator F. -->
+  <SadjuukDieselB.description>Industrial Generator F.</SadjuukDieselB.description>
+  <!-- EN: Diesel Generators G -->
+  <SadjuukDieselC.label>Diesel Generators G</SadjuukDieselC.label>
+  <!-- EN: Industrial Diesel Generators G. -->
+  <SadjuukDieselC.description>Industrial Diesel Generators G.</SadjuukDieselC.description>
+  <!-- EN: Diesel Generators N -->
+  <SadjuukDieselD.label>Diesel Generators N</SadjuukDieselD.label>
+  <!-- EN: Armored Diesel Generator N. -->
+  <SadjuukDieselD.description>Armored Diesel Generator N.</SadjuukDieselD.description>
+  <!-- EN: Diesel Generators M -->
+  <SadjuukDieselE.label>Diesel Generators M</SadjuukDieselE.label>
+  <!-- EN: Armored Diesel Generators M. -->
+  <SadjuukDieselE.description>Armored Diesel Generators M.</SadjuukDieselE.description>
+  <!-- EN: Fuel Oil Refining -->
+  <SadjuukFuelOilA.label>Fuel Oil Refining</SadjuukFuelOilA.label>
+  <!-- EN: Fuel Oil Production and Generators. -->
+  <SadjuukFuelOilA.description>Fuel Oil Production and Generators.</SadjuukFuelOilA.description>
+  <!-- EN: Fuel Oil Generator A -->
+  <SadjuukFuelOilB.label>Fuel Oil Generator A</SadjuukFuelOilB.label>
+  <!-- EN: A large Fuel Oil Generator. -->
+  <SadjuukFuelOilB.description>A large Fuel Oil Generator.</SadjuukFuelOilB.description>
+  <!-- EN: Fuel Oil Generator B -->
+  <SadjuukFuelOilC.label>Fuel Oil Generator B</SadjuukFuelOilC.label>
+  <!-- EN: An improvement of the generator A. -->
+  <SadjuukFuelOilC.description>An improvement of the generator A.</SadjuukFuelOilC.description>
+  <!-- EN: Advanced Refining -->
+  <SadjuukHydrogenA.label>Advanced Refining</SadjuukHydrogenA.label>
+  <!-- EN: Allows the Hydrogen, explosives and chemicals Production in the Advanced Refining. A portable Hydrogen fuel cell is also available. -->
+  <SadjuukHydrogenA.description>Allows the Hydrogen, explosives and chemicals Production in the Advanced Refining. A portable Hydrogen fuel cell is also available.</SadjuukHydrogenA.description>
+  <!-- EN: Armored Fuel cell -->
+  <SadjuukHydrogenB.label>Armored Fuel cell</SadjuukHydrogenB.label>
+  <!-- EN: Large Fuel cell. -->
+  <SadjuukHydrogenB.description>Large Fuel cell.</SadjuukHydrogenB.description>
+  <!-- EN: Bessemer Converter -->
+  <SadjuukMetallurgyA.label>Bessemer Converter</SadjuukMetallurgyA.label>
+  <!-- EN: The Bessemer Converter will allow your colony to process industrially raw steel. -->
+  <SadjuukMetallurgyA.description>The Bessemer Converter will allow your colony to process industrially raw steel.</SadjuukMetallurgyA.description>
+  <!-- EN: Open Hearth Furnace -->
+  <SadjuukMetallurgyB.label>Open Hearth Furnace</SadjuukMetallurgyB.label>
+  <!-- EN: The Open Hearth Furnace is the improvement of the Bessemer Converter. -->
+  <SadjuukMetallurgyB.description>The Open Hearth Furnace is the improvement of the Bessemer Converter.</SadjuukMetallurgyB.description>
+  <!-- EN: Electric Arc Furnace. -->
+  <SadjuukMetallurgyC.label>Electric Arc Furnace.</SadjuukMetallurgyC.label>
+  <!-- EN: Research how to process row steel with the powerful Electric Arc Furnace technology. -->
+  <SadjuukMetallurgyC.description>Research how to process row steel with the powerful Electric Arc Furnace technology.</SadjuukMetallurgyC.description>
+  <!-- EN: Production Lines -->
+  <SadjuukProductionA.label>Production Lines</SadjuukProductionA.label>
+  <!-- EN: This research allow your colony to build efficient Production Lines. -->
+  <SadjuukProductionA.description>This research allow your colony to build efficient Production Lines.</SadjuukProductionA.description>
+  <!-- EN: Machine Tools -->
+  <SadjuukProductionB.label>Machine Tools</SadjuukProductionB.label>
+  <!-- EN: Machine Tools using to improve your production lines. -->
+  <SadjuukProductionB.description>Machine Tools using to improve your production lines.</SadjuukProductionB.description>
+  <!-- EN: Industrial Robotics. -->
+  <SadjuukProductionC.label>Industrial Robotics.</SadjuukProductionC.label>
+  <!-- EN: Devlops Industrial Robotics that are more efficient than machine tools. -->
+  <SadjuukProductionC.description>Devlops Industrial Robotics that are more efficient than machine tools.</SadjuukProductionC.description>
+</LanguageData>

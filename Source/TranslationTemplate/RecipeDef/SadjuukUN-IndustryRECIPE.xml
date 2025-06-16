@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make 1 Armored Plate. -->
+  <SadjuukArmoredPlateRecipeB.label>Make 1 Armored Plate.</SadjuukArmoredPlateRecipeB.label>
+  <!-- EN: Produce Armored Plate. -->
+  <SadjuukArmoredPlateRecipeB.description>Produce Armored Plate.</SadjuukArmoredPlateRecipeB.description>
+  <!-- EN: Producing Armored Plate. -->
+  <SadjuukArmoredPlateRecipeB.jobString>Producing Armored Plate.</SadjuukArmoredPlateRecipeB.jobString>
+  <!-- EN: Make 7 Armored Plate. -->
+  <SadjuukArmoredPlateRecipeC.label>Make 7 Armored Plate.</SadjuukArmoredPlateRecipeC.label>
+  <!-- EN: Produce Armored Plate. -->
+  <SadjuukArmoredPlateRecipeC.description>Produce Armored Plate.</SadjuukArmoredPlateRecipeC.description>
+  <!-- EN: Producing Armored Plate. -->
+  <SadjuukArmoredPlateRecipeC.jobString>Producing Armored Plate.</SadjuukArmoredPlateRecipeC.jobString>
+  <!-- EN: Make 10 Basic Components. -->
+  <SadjuukBasicComponentRecipeA.label>Make 10 Basic Components.</SadjuukBasicComponentRecipeA.label>
+  <!-- EN: Produce various Components. -->
+  <SadjuukBasicComponentRecipeA.description>Produce various Components.</SadjuukBasicComponentRecipeA.description>
+  <!-- EN: Producing various Industrial Components. -->
+  <SadjuukBasicComponentRecipeA.jobString>Producing various Industrial Components.</SadjuukBasicComponentRecipeA.jobString>
+  <!-- EN: Make 10 Basic Components. -->
+  <SadjuukBasicComponentRecipeB.label>Make 10 Basic Components.</SadjuukBasicComponentRecipeB.label>
+  <!-- EN: Produce various Components. -->
+  <SadjuukBasicComponentRecipeB.description>Produce various Components.</SadjuukBasicComponentRecipeB.description>
+  <!-- EN: Producing various Industrial Components. -->
+  <SadjuukBasicComponentRecipeB.jobString>Producing various Industrial Components.</SadjuukBasicComponentRecipeB.jobString>
+  <!-- EN: Make 60 Basic Components. -->
+  <SadjuukBasicComponentRecipeC.label>Make 60 Basic Components.</SadjuukBasicComponentRecipeC.label>
+  <!-- EN: Produce various Components. -->
+  <SadjuukBasicComponentRecipeC.description>Produce various Components.</SadjuukBasicComponentRecipeC.description>
+  <!-- EN: Producing various Industrial Components. -->
+  <SadjuukBasicComponentRecipeC.jobString>Producing various Industrial Components.</SadjuukBasicComponentRecipeC.jobString>
+  <!-- EN: Make 40 chemfuel from wood -->
+  <SadjuukChemfuelRecipeA.label>Make 40 chemfuel from wood</SadjuukChemfuelRecipeA.label>
+  <!-- EN: Extract biofuel from wood logs. -->
+  <SadjuukChemfuelRecipeA.description>Extract biofuel from wood logs.</SadjuukChemfuelRecipeA.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <SadjuukChemfuelRecipeA.jobString>Refining chemfuel from wood.</SadjuukChemfuelRecipeA.jobString>
+  <!-- EN: Make 40 chemfuel from hay -->
+  <SadjuukChemfuelRecipeC.label>Make 40 chemfuel from hay</SadjuukChemfuelRecipeC.label>
+  <!-- EN: Extract biofuel from hay. -->
+  <SadjuukChemfuelRecipeC.description>Extract biofuel from hay.</SadjuukChemfuelRecipeC.description>
+  <!-- EN: Refining chemfuel hay. -->
+  <SadjuukChemfuelRecipeC.jobString>Refining chemfuel hay.</SadjuukChemfuelRecipeC.jobString>
+  <!-- EN: Make 25 Diesel from Fuel Oil -->
+  <SadjuukDieselRecipeA.label>Make 25 Diesel from Fuel Oil</SadjuukDieselRecipeA.label>
+  <!-- EN: Extract Diesel from Fuel Oil. -->
+  <SadjuukDieselRecipeA.description>Extract Diesel from Fuel Oil.</SadjuukDieselRecipeA.description>
+  <!-- EN: Refining Fuel Oil. -->
+  <SadjuukDieselRecipeA.jobString>Refining Fuel Oil.</SadjuukDieselRecipeA.jobString>
+  <!-- EN: Make Fuel Oil from chemfuel -->
+  <SadjuukFuelOilRecipeA.label>Make Fuel Oil from chemfuel</SadjuukFuelOilRecipeA.label>
+  <!-- EN: Extract Fuel Oil from chemfuel. -->
+  <SadjuukFuelOilRecipeA.description>Extract Fuel Oil from chemfuel.</SadjuukFuelOilRecipeA.description>
+  <!-- EN: Refining Fuel Oil from chemfuel. -->
+  <SadjuukFuelOilRecipeA.jobString>Refining Fuel Oil from chemfuel.</SadjuukFuelOilRecipeA.jobString>
+  <!-- EN: Make Fuel Oil from wood -->
+  <SadjuukFuelOilRecipeB.label>Make Fuel Oil from wood</SadjuukFuelOilRecipeB.label>
+  <!-- EN: Extract Fuel Oil from Wood. -->
+  <SadjuukFuelOilRecipeB.description>Extract Fuel Oil from Wood.</SadjuukFuelOilRecipeB.description>
+  <!-- EN: Refining Fuel Oil from Wood. -->
+  <SadjuukFuelOilRecipeB.jobString>Refining Fuel Oil from Wood.</SadjuukFuelOilRecipeB.jobString>
+  <!-- EN: Make Fuel Oil from Hay -->
+  <SadjuukFuelOilRecipeC.label>Make Fuel Oil from Hay</SadjuukFuelOilRecipeC.label>
+  <!-- EN: Extract Fuel Oil from Hay. -->
+  <SadjuukFuelOilRecipeC.description>Extract Fuel Oil from Hay.</SadjuukFuelOilRecipeC.description>
+  <!-- EN: Refining Fuel Oil from Hay. -->
+  <SadjuukFuelOilRecipeC.jobString>Refining Fuel Oil from Hay.</SadjuukFuelOilRecipeC.jobString>
+  <!-- EN: Make 5 Hydrogen from Fuel Oil -->
+  <SadjuukHydrogenRecipeA.label>Make 5 Hydrogen from Fuel Oil</SadjuukHydrogenRecipeA.label>
+  <!-- EN: Extract Hydrogen from Fuel Oil. -->
+  <SadjuukHydrogenRecipeA.description>Extract Hydrogen from Fuel Oil.</SadjuukHydrogenRecipeA.description>
+  <!-- EN: Refining Fuel Oil. -->
+  <SadjuukHydrogenRecipeA.jobString>Refining Fuel Oil.</SadjuukHydrogenRecipeA.jobString>
+  <!-- EN: Make 1 Hydrogen from Diesel -->
+  <SadjuukHydrogenRecipeB.label>Make 1 Hydrogen from Diesel</SadjuukHydrogenRecipeB.label>
+  <!-- EN: Extract Hydrogen from Diesel. -->
+  <SadjuukHydrogenRecipeB.description>Extract Hydrogen from Diesel.</SadjuukHydrogenRecipeB.description>
+  <!-- EN: Refining Diesel. -->
+  <SadjuukHydrogenRecipeB.jobString>Refining Diesel.</SadjuukHydrogenRecipeB.jobString>
+  <!-- EN: Produce 1 metal grid. -->
+  <SadjuukMetalGridRecipeA.label>Produce 1 metal grid.</SadjuukMetalGridRecipeA.label>
+  <!-- EN: Produce various metal grids. -->
+  <SadjuukMetalGridRecipeA.description>Produce various metal grids.</SadjuukMetalGridRecipeA.description>
+  <!-- EN: Producing metal grids. -->
+  <SadjuukMetalGridRecipeA.jobString>Producing metal grids.</SadjuukMetalGridRecipeA.jobString>
+  <!-- EN: Produce 15 metal grid. -->
+  <SadjuukMetalGridRecipeAB.label>Produce 15 metal grid.</SadjuukMetalGridRecipeAB.label>
+  <!-- EN: Produce various metal grids. -->
+  <SadjuukMetalGridRecipeAB.description>Produce various metal grids.</SadjuukMetalGridRecipeAB.description>
+  <!-- EN: Producing metal grids. -->
+  <SadjuukMetalGridRecipeAB.jobString>Producing metal grids.</SadjuukMetalGridRecipeAB.jobString>
+  <!-- EN: Produce 1 metal grid. -->
+  <SadjuukMetalGridRecipeB.label>Produce 1 metal grid.</SadjuukMetalGridRecipeB.label>
+  <!-- EN: Produce various metal grids. -->
+  <SadjuukMetalGridRecipeB.description>Produce various metal grids.</SadjuukMetalGridRecipeB.description>
+  <!-- EN: Producing metal grids. -->
+  <SadjuukMetalGridRecipeB.jobString>Producing metal grids.</SadjuukMetalGridRecipeB.jobString>
+  <!-- EN: Produce 25 metal grid. -->
+  <SadjuukMetalGridRecipeC.label>Produce 25 metal grid.</SadjuukMetalGridRecipeC.label>
+  <!-- EN: Produce various metal grids. -->
+  <SadjuukMetalGridRecipeC.description>Produce various metal grids.</SadjuukMetalGridRecipeC.description>
+  <!-- EN: Producing metal grids. -->
+  <SadjuukMetalGridRecipeC.jobString>Producing metal grids.</SadjuukMetalGridRecipeC.jobString>
+  <!-- EN: Make 1 Solar Cell. -->
+  <SadjuukSolarCellRecipeA.label>Make 1 Solar Cell.</SadjuukSolarCellRecipeA.label>
+  <!-- EN: Produce Solar Cell. -->
+  <SadjuukSolarCellRecipeA.description>Produce Solar Cell.</SadjuukSolarCellRecipeA.description>
+  <!-- EN: Producing Solar Cell. -->
+  <SadjuukSolarCellRecipeA.jobString>Producing Solar Cell.</SadjuukSolarCellRecipeA.jobString>
+  <!-- EN: Make 12 Solar Cell. -->
+  <SadjuukSolarCellRecipeB.label>Make 12 Solar Cell.</SadjuukSolarCellRecipeB.label>
+  <!-- EN: Produce Solar Cell. -->
+  <SadjuukSolarCellRecipeB.description>Produce Solar Cell.</SadjuukSolarCellRecipeB.description>
+  <!-- EN: Producing Solar Cell. -->
+  <SadjuukSolarCellRecipeB.jobString>Producing Solar Cell.</SadjuukSolarCellRecipeB.jobString>
+  <!-- EN: Produce 1 steel plate. -->
+  <SadjuukSteelPlateRecipe2A.label>Produce 1 steel plate.</SadjuukSteelPlateRecipe2A.label>
+  <!-- EN: Manually treat raw steel to produce steel plates. -->
+  <SadjuukSteelPlateRecipe2A.description>Manually treat raw steel to produce steel plates.</SadjuukSteelPlateRecipe2A.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelPlateRecipe2A.jobString>Producing steel plates.</SadjuukSteelPlateRecipe2A.jobString>
+  <!-- EN: Produce 15 steel plates. -->
+  <SadjuukSteelPlateRecipeA.label>Produce 15 steel plates.</SadjuukSteelPlateRecipeA.label>
+  <!-- EN: Manually treat raw steel to produce steel plates. -->
+  <SadjuukSteelPlateRecipeA.description>Manually treat raw steel to produce steel plates.</SadjuukSteelPlateRecipeA.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelPlateRecipeA.jobString>Producing steel plates.</SadjuukSteelPlateRecipeA.jobString>
+  <!-- EN: Produce 75 steel plates. -->
+  <SadjuukSteelSlabRecipeA.label>Produce 75 steel plates.</SadjuukSteelSlabRecipeA.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeA.description>Produce steel plates.</SadjuukSteelSlabRecipeA.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeA.jobString>Producing steel plates.</SadjuukSteelSlabRecipeA.jobString>
+  <!-- EN: Produce 150 steel plates. -->
+  <SadjuukSteelSlabRecipeB.label>Produce 150 steel plates.</SadjuukSteelSlabRecipeB.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeB.description>Produce steel plates.</SadjuukSteelSlabRecipeB.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeB.jobString>Producing steel plates.</SadjuukSteelSlabRecipeB.jobString>
+  <!-- EN: Produce 225 steel plates. -->
+  <SadjuukSteelSlabRecipeC.label>Produce 225 steel plates.</SadjuukSteelSlabRecipeC.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeC.description>Produce steel plates.</SadjuukSteelSlabRecipeC.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeC.jobString>Producing steel plates.</SadjuukSteelSlabRecipeC.jobString>
+  <!-- EN: Produce steel plates from chunks. -->
+  <SadjuukSteelSlabRecipeCA.label>Produce steel plates from chunks.</SadjuukSteelSlabRecipeCA.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeCA.description>Produce steel plates.</SadjuukSteelSlabRecipeCA.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeCA.jobString>Producing steel plates.</SadjuukSteelSlabRecipeCA.jobString>
+  <!-- EN: Produce steel plates from chunks. -->
+  <SadjuukSteelSlabRecipeCB.label>Produce steel plates from chunks.</SadjuukSteelSlabRecipeCB.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeCB.description>Produce steel plates.</SadjuukSteelSlabRecipeCB.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeCB.jobString>Producing steel plates.</SadjuukSteelSlabRecipeCB.jobString>
+  <!-- EN: Produce steel plates from chunks. -->
+  <SadjuukSteelSlabRecipeCC.label>Produce steel plates from chunks.</SadjuukSteelSlabRecipeCC.label>
+  <!-- EN: Produce steel plates. -->
+  <SadjuukSteelSlabRecipeCC.description>Produce steel plates.</SadjuukSteelSlabRecipeCC.description>
+  <!-- EN: Producing steel plates. -->
+  <SadjuukSteelSlabRecipeCC.jobString>Producing steel plates.</SadjuukSteelSlabRecipeCC.jobString>
+  <!-- EN: Produce 1 steel tube. -->
+  <SadjuukSteelTubeRecipeA.label>Produce 1 steel tube.</SadjuukSteelTubeRecipeA.label>
+  <!-- EN: Produce various steel tubes. -->
+  <SadjuukSteelTubeRecipeA.description>Produce various steel tubes.</SadjuukSteelTubeRecipeA.description>
+  <!-- EN: Producing steel tubes. -->
+  <SadjuukSteelTubeRecipeA.jobString>Producing steel tubes.</SadjuukSteelTubeRecipeA.jobString>
+  <!-- EN: Produce 15 steel tube. -->
+  <SadjuukSteelTubeRecipeAB.label>Produce 15 steel tube.</SadjuukSteelTubeRecipeAB.label>
+  <!-- EN: Produce various steel tubes. -->
+  <SadjuukSteelTubeRecipeAB.description>Produce various steel tubes.</SadjuukSteelTubeRecipeAB.description>
+  <!-- EN: Producing steel tubes. -->
+  <SadjuukSteelTubeRecipeAB.jobString>Producing steel tubes.</SadjuukSteelTubeRecipeAB.jobString>
+  <!-- EN: Produce 1 steel tube. -->
+  <SadjuukSteelTubeRecipeB.label>Produce 1 steel tube.</SadjuukSteelTubeRecipeB.label>
+  <!-- EN: Produce various steel tubes. -->
+  <SadjuukSteelTubeRecipeB.description>Produce various steel tubes.</SadjuukSteelTubeRecipeB.description>
+  <!-- EN: Producing steel tubes. -->
+  <SadjuukSteelTubeRecipeB.jobString>Producing steel tubes.</SadjuukSteelTubeRecipeB.jobString>
+  <!-- EN: Produce 25 steel tube. -->
+  <SadjuukSteelTubeRecipeC.label>Produce 25 steel tube.</SadjuukSteelTubeRecipeC.label>
+  <!-- EN: Produce various steel tubes. -->
+  <SadjuukSteelTubeRecipeC.description>Produce various steel tubes.</SadjuukSteelTubeRecipeC.description>
+  <!-- EN: Producing steel tubes. -->
+  <SadjuukSteelTubeRecipeC.jobString>Producing steel tubes.</SadjuukSteelTubeRecipeC.jobString>
+  <!-- EN: Make 10 wire and cable sets. -->
+  <SadjuukWireRecipeA.label>Make 10 wire and cable sets.</SadjuukWireRecipeA.label>
+  <!-- EN: Produce wires and cable sets. -->
+  <SadjuukWireRecipeA.description>Produce wires and cable sets.</SadjuukWireRecipeA.description>
+  <!-- EN: Producing wires and cable sets. -->
+  <SadjuukWireRecipeA.jobString>Producing wires and cable sets.</SadjuukWireRecipeA.jobString>
+  <!-- EN: Make 10 wires and cable sets. -->
+  <SadjuukWireRecipeB.label>Make 10 wires and cable sets.</SadjuukWireRecipeB.label>
+  <!-- EN: Produce wires and cable sets. -->
+  <SadjuukWireRecipeB.description>Produce wires and cable sets.</SadjuukWireRecipeB.description>
+  <!-- EN: Producing wires and cable sets. -->
+  <SadjuukWireRecipeB.jobString>Producing wires and cable sets.</SadjuukWireRecipeB.jobString>
+  <!-- EN: Make 120 wires and cable sets. -->
+  <SadjuukWireRecipeC.label>Make 120 wires and cable sets.</SadjuukWireRecipeC.label>
+  <!-- EN: Produce wires and cable sets. -->
+  <SadjuukWireRecipeC.description>Produce wires and cable sets.</SadjuukWireRecipeC.description>
+  <!-- EN: Producing wires and cable sets. -->
+  <SadjuukWireRecipeC.jobString>Producing wires and cable sets.</SadjuukWireRecipeC.jobString>
+</LanguageData>

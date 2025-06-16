@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Portable Generator V (blueprint) -->
+  <Blueprint_Install_SadjuukGeneratorV.label>Portable Generator V (blueprint)</Blueprint_Install_SadjuukGeneratorV.label>
+  <!-- EN: Portable Generator W (blueprint) -->
+  <Blueprint_Install_SadjuukGeneratorW.label>Portable Generator W (blueprint)</Blueprint_Install_SadjuukGeneratorW.label>
+  <!-- EN: Portable Fuel Cell X (blueprint) -->
+  <Blueprint_Install_SadjuukGeneratorX.label>Portable Fuel Cell X (blueprint)</Blueprint_Install_SadjuukGeneratorX.label>
+  <!-- EN: Asphalt (blueprint) -->
+  <Blueprint_SadjuukAsphaltFloorAA.label>Asphalt (blueprint)</Blueprint_SadjuukAsphaltFloorAA.label>
+  <!-- EN: Dark Asphalt (blueprint) -->
+  <Blueprint_SadjuukAsphaltFloorAB.label>Dark Asphalt (blueprint)</Blueprint_SadjuukAsphaltFloorAB.label>
+  <!-- EN: Assembly Line (blueprint) -->
+  <Blueprint_SadjuukAssemblyLineB.label>Assembly Line (blueprint)</Blueprint_SadjuukAssemblyLineB.label>
+  <!-- EN: Bessemer Converter (blueprint) -->
+  <Blueprint_SadjuukBessemerConverter.label>Bessemer Converter (blueprint)</Blueprint_SadjuukBessemerConverter.label>
+  <!-- EN: Concrete Fence (blueprint) -->
+  <Blueprint_SadjuukConcreteFence.label>Concrete Fence (blueprint)</Blueprint_SadjuukConcreteFence.label>
+  <!-- EN: Concrete Floor (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorA.label>Concrete Floor (blueprint)</Blueprint_SadjuukConcreteFloorA.label>
+  <!-- EN: Painted Concrete Floor A (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAA.label>Painted Concrete Floor A (blueprint)</Blueprint_SadjuukConcreteFloorAA.label>
+  <!-- EN: Painted Concrete Floor B (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAB.label>Painted Concrete Floor B (blueprint)</Blueprint_SadjuukConcreteFloorAB.label>
+  <!-- EN: Painted Concrete Floor C (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAC.label>Painted Concrete Floor C (blueprint)</Blueprint_SadjuukConcreteFloorAC.label>
+  <!-- EN: Painted Concrete Floor D (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAD.label>Painted Concrete Floor D (blueprint)</Blueprint_SadjuukConcreteFloorAD.label>
+  <!-- EN: Painted Concrete Floor E (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAE.label>Painted Concrete Floor E (blueprint)</Blueprint_SadjuukConcreteFloorAE.label>
+  <!-- EN: Painted Concrete Floor F (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAF.label>Painted Concrete Floor F (blueprint)</Blueprint_SadjuukConcreteFloorAF.label>
+  <!-- EN: Painted Concrete Floor G (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAG.label>Painted Concrete Floor G (blueprint)</Blueprint_SadjuukConcreteFloorAG.label>
+  <!-- EN: Painted Concrete Floor H (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAH.label>Painted Concrete Floor H (blueprint)</Blueprint_SadjuukConcreteFloorAH.label>
+  <!-- EN: Painted Concrete Floor I (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAI.label>Painted Concrete Floor I (blueprint)</Blueprint_SadjuukConcreteFloorAI.label>
+  <!-- EN: Painted Concrete Floor J (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAJ.label>Painted Concrete Floor J (blueprint)</Blueprint_SadjuukConcreteFloorAJ.label>
+  <!-- EN: Painted Concrete Floor K (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAK.label>Painted Concrete Floor K (blueprint)</Blueprint_SadjuukConcreteFloorAK.label>
+  <!-- EN: Painted Concrete Floor L (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAL.label>Painted Concrete Floor L (blueprint)</Blueprint_SadjuukConcreteFloorAL.label>
+  <!-- EN: Painted Concrete Floor M (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAM.label>Painted Concrete Floor M (blueprint)</Blueprint_SadjuukConcreteFloorAM.label>
+  <!-- EN: Painted Concrete Floor N (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorAN.label>Painted Concrete Floor N (blueprint)</Blueprint_SadjuukConcreteFloorAN.label>
+  <!-- EN: Painted Steel Floor A (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCA.label>Painted Steel Floor A (blueprint)</Blueprint_SadjuukConcreteFloorCA.label>
+  <!-- EN: Painted Steel Floor B (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCB.label>Painted Steel Floor B (blueprint)</Blueprint_SadjuukConcreteFloorCB.label>
+  <!-- EN: Painted Steel Floor C (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCC.label>Painted Steel Floor C (blueprint)</Blueprint_SadjuukConcreteFloorCC.label>
+  <!-- EN: Painted Steel Floor D (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCD.label>Painted Steel Floor D (blueprint)</Blueprint_SadjuukConcreteFloorCD.label>
+  <!-- EN: Painted Steel Floor E (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCE.label>Painted Steel Floor E (blueprint)</Blueprint_SadjuukConcreteFloorCE.label>
+  <!-- EN: Painted Steel Floor F (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCF.label>Painted Steel Floor F (blueprint)</Blueprint_SadjuukConcreteFloorCF.label>
+  <!-- EN: Painted Steel Floor G (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCG.label>Painted Steel Floor G (blueprint)</Blueprint_SadjuukConcreteFloorCG.label>
+  <!-- EN: Painted Steel Floor H (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCH.label>Painted Steel Floor H (blueprint)</Blueprint_SadjuukConcreteFloorCH.label>
+  <!-- EN: Painted Steel Floor I (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCI.label>Painted Steel Floor I (blueprint)</Blueprint_SadjuukConcreteFloorCI.label>
+  <!-- EN: Painted Steel Floor J (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCJ.label>Painted Steel Floor J (blueprint)</Blueprint_SadjuukConcreteFloorCJ.label>
+  <!-- EN: Painted Steel Floor K (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCK.label>Painted Steel Floor K (blueprint)</Blueprint_SadjuukConcreteFloorCK.label>
+  <!-- EN: Painted Steel Floor M (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCM.label>Painted Steel Floor M (blueprint)</Blueprint_SadjuukConcreteFloorCM.label>
+  <!-- EN: Painted Steel Floor N (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCN.label>Painted Steel Floor N (blueprint)</Blueprint_SadjuukConcreteFloorCN.label>
+  <!-- EN: Painted Steel Floor O (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCO.label>Painted Steel Floor O (blueprint)</Blueprint_SadjuukConcreteFloorCO.label>
+  <!-- EN: Painted Steel Floor P (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCP.label>Painted Steel Floor P (blueprint)</Blueprint_SadjuukConcreteFloorCP.label>
+  <!-- EN: Painted Steel Floor Q (blueprint) -->
+  <Blueprint_SadjuukConcreteFloorCQ.label>Painted Steel Floor Q (blueprint)</Blueprint_SadjuukConcreteFloorCQ.label>
+  <!-- EN: Construction Machinery (blueprint) -->
+  <Blueprint_SadjuukConstructionMachinery.label>Construction Machinery (blueprint)</Blueprint_SadjuukConstructionMachinery.label>
+  <!-- EN: Wooden Gate (H) (blueprint) -->
+  <Blueprint_SadjuukDoorAA.label>Wooden Gate (H) (blueprint)</Blueprint_SadjuukDoorAA.label>
+  <!-- EN: Wooden Gate (V) (blueprint) -->
+  <Blueprint_SadjuukDoorAB.label>Wooden Gate (V) (blueprint)</Blueprint_SadjuukDoorAB.label>
+  <!-- EN: Grid Gate (H) (blueprint) -->
+  <Blueprint_SadjuukDoorBA.label>Grid Gate (H) (blueprint)</Blueprint_SadjuukDoorBA.label>
+  <!-- EN: Grid Gate (V) (blueprint) -->
+  <Blueprint_SadjuukDoorBB.label>Grid Gate (V) (blueprint)</Blueprint_SadjuukDoorBB.label>
+  <!-- EN: Glass Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorCA.label>Glass Door (H) (blueprint)</Blueprint_SadjuukDoorCA.label>
+  <!-- EN: Glass Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorCB.label>Glass Door (V) (blueprint)</Blueprint_SadjuukDoorCB.label>
+  <!-- EN: Wooden Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorDA.label>Wooden Door (H) (blueprint)</Blueprint_SadjuukDoorDA.label>
+  <!-- EN: Wooden Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorDB.label>Wooden Door (V) (blueprint)</Blueprint_SadjuukDoorDB.label>
+  <!-- EN: Steel Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorEA.label>Steel Door (H) (blueprint)</Blueprint_SadjuukDoorEA.label>
+  <!-- EN: Steel Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorEB.label>Steel Door (V) (blueprint)</Blueprint_SadjuukDoorEB.label>
+  <!-- EN: Steel Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorFA.label>Steel Door (H) (blueprint)</Blueprint_SadjuukDoorFA.label>
+  <!-- EN: Steel Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorFB.label>Steel Door (V) (blueprint)</Blueprint_SadjuukDoorFB.label>
+  <!-- EN: Steel Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorGA.label>Steel Door (H) (blueprint)</Blueprint_SadjuukDoorGA.label>
+  <!-- EN: Steel Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorGB.label>Steel Door (V) (blueprint)</Blueprint_SadjuukDoorGB.label>
+  <!-- EN: Shielded Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorHA.label>Shielded Door (H) (blueprint)</Blueprint_SadjuukDoorHA.label>
+  <!-- EN: Shielded Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorHB.label>Shielded Door (V) (blueprint)</Blueprint_SadjuukDoorHB.label>
+  <!-- EN: Shielded Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorIA.label>Shielded Door (H) (blueprint)</Blueprint_SadjuukDoorIA.label>
+  <!-- EN: Shielded Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorIB.label>Shielded Door (V) (blueprint)</Blueprint_SadjuukDoorIB.label>
+  <!-- EN: Armored Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorJA.label>Armored Door (H) (blueprint)</Blueprint_SadjuukDoorJA.label>
+  <!-- EN: Armored Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorJB.label>Armored Door (V) (blueprint)</Blueprint_SadjuukDoorJB.label>
+  <!-- EN: Armored Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorKA.label>Armored Door (H) (blueprint)</Blueprint_SadjuukDoorKA.label>
+  <!-- EN: Armored Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorKB.label>Armored Door (V) (blueprint)</Blueprint_SadjuukDoorKB.label>
+  <!-- EN: Wooden Door (H) (blueprint) -->
+  <Blueprint_SadjuukDoorLA.label>Wooden Door (H) (blueprint)</Blueprint_SadjuukDoorLA.label>
+  <!-- EN: Wooden Door (V) (blueprint) -->
+  <Blueprint_SadjuukDoorLB.label>Wooden Door (V) (blueprint)</Blueprint_SadjuukDoorLB.label>
+  <!-- EN: Electric Arc Furnace (blueprint) -->
+  <Blueprint_SadjuukElectricArcFurnace.label>Electric Arc Furnace (blueprint)</Blueprint_SadjuukElectricArcFurnace.label>
+  <!-- EN: Wooden Embrasure A (blueprint) -->
+  <Blueprint_SadjuukEmbrasureAA.label>Wooden Embrasure A (blueprint)</Blueprint_SadjuukEmbrasureAA.label>
+  <!-- EN: Wooden Embrasure B (blueprint) -->
+  <Blueprint_SadjuukEmbrasureAB.label>Wooden Embrasure B (blueprint)</Blueprint_SadjuukEmbrasureAB.label>
+  <!-- EN: Steel Embrasure A (blueprint) -->
+  <Blueprint_SadjuukEmbrasureBA.label>Steel Embrasure A (blueprint)</Blueprint_SadjuukEmbrasureBA.label>
+  <!-- EN: Steel Embrasure B (blueprint) -->
+  <Blueprint_SadjuukEmbrasureBB.label>Steel Embrasure B (blueprint)</Blueprint_SadjuukEmbrasureBB.label>
+  <!-- EN: Concrete Embrasure A (blueprint) -->
+  <Blueprint_SadjuukEmbrasureCA.label>Concrete Embrasure A (blueprint)</Blueprint_SadjuukEmbrasureCA.label>
+  <!-- EN: Concrete Embrasure B (blueprint) -->
+  <Blueprint_SadjuukEmbrasureCB.label>Concrete Embrasure B (blueprint)</Blueprint_SadjuukEmbrasureCB.label>
+  <!-- EN: Concrete Embrasure C (blueprint) -->
+  <Blueprint_SadjuukEmbrasureCC.label>Concrete Embrasure C (blueprint)</Blueprint_SadjuukEmbrasureCC.label>
+  <!-- EN: Concrete Embrasure D (blueprint) -->
+  <Blueprint_SadjuukEmbrasureCD.label>Concrete Embrasure D (blueprint)</Blueprint_SadjuukEmbrasureCD.label>
+  <!-- EN: Concrete Embrasure E (blueprint) -->
+  <Blueprint_SadjuukEmbrasureCE.label>Concrete Embrasure E (blueprint)</Blueprint_SadjuukEmbrasureCE.label>
+  <!-- EN: Shielded Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDA.label>Shielded Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDA.label>
+  <!-- EN: Green Shielded Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDB.label>Green Shielded Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDB.label>
+  <!-- EN: Woodland Camo Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDC.label>Woodland Camo Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDC.label>
+  <!-- EN: Flecktarn Camo Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDD.label>Flecktarn Camo Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDD.label>
+  <!-- EN: Desert Camo Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDE.label>Desert Camo Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDE.label>
+  <!-- EN: Ice Camo Embrasure (blueprint) -->
+  <Blueprint_SadjuukEmbrasureDF.label>Ice Camo Embrasure (blueprint)</Blueprint_SadjuukEmbrasureDF.label>
+  <!-- EN: Armored Embrasure A (blueprint) -->
+  <Blueprint_SadjuukEmbrasureEA.label>Armored Embrasure A (blueprint)</Blueprint_SadjuukEmbrasureEA.label>
+  <!-- EN: Armored Embrasure B (blueprint) -->
+  <Blueprint_SadjuukEmbrasureEB.label>Armored Embrasure B (blueprint)</Blueprint_SadjuukEmbrasureEB.label>
+  <!-- EN: Armored Embrasure C (blueprint) -->
+  <Blueprint_SadjuukEmbrasureEC.label>Armored Embrasure C (blueprint)</Blueprint_SadjuukEmbrasureEC.label>
+  <!-- EN: Armored Embrasure D (blueprint) -->
+  <Blueprint_SadjuukEmbrasureED.label>Armored Embrasure D (blueprint)</Blueprint_SadjuukEmbrasureED.label>
+  <!-- EN: Fuel Oil Generator A (blueprint) -->
+  <Blueprint_SadjuukGeneratorA.label>Fuel Oil Generator A (blueprint)</Blueprint_SadjuukGeneratorA.label>
+  <!-- EN: Fuel Oil Generator B (blueprint) -->
+  <Blueprint_SadjuukGeneratorB.label>Fuel Oil Generator B (blueprint)</Blueprint_SadjuukGeneratorB.label>
+  <!-- EN: Fuel Oil Generator D (blueprint) -->
+  <Blueprint_SadjuukGeneratorD.label>Fuel Oil Generator D (blueprint)</Blueprint_SadjuukGeneratorD.label>
+  <!-- EN: Armored Generator F (blueprint) -->
+  <Blueprint_SadjuukGeneratorF.label>Armored Generator F (blueprint)</Blueprint_SadjuukGeneratorF.label>
+  <!-- EN: Armored Generator G (blueprint) -->
+  <Blueprint_SadjuukGeneratorG.label>Armored Generator G (blueprint)</Blueprint_SadjuukGeneratorG.label>
+  <!-- EN: Armored Generator M (blueprint) -->
+  <Blueprint_SadjuukGeneratorM.label>Armored Generator M (blueprint)</Blueprint_SadjuukGeneratorM.label>
+  <!-- EN: Armored Generator N (blueprint) -->
+  <Blueprint_SadjuukGeneratorN.label>Armored Generator N (blueprint)</Blueprint_SadjuukGeneratorN.label>
+  <!-- EN: Portable Generator V (blueprint) -->
+  <Blueprint_SadjuukGeneratorV.label>Portable Generator V (blueprint)</Blueprint_SadjuukGeneratorV.label>
+  <!-- EN: Portable Generator W (blueprint) -->
+  <Blueprint_SadjuukGeneratorW.label>Portable Generator W (blueprint)</Blueprint_SadjuukGeneratorW.label>
+  <!-- EN: Portable Fuel Cell X (blueprint) -->
+  <Blueprint_SadjuukGeneratorX.label>Portable Fuel Cell X (blueprint)</Blueprint_SadjuukGeneratorX.label>
+  <!-- EN: Large Fuel Cell (blueprint) -->
+  <Blueprint_SadjuukGeneratorY.label>Large Fuel Cell (blueprint)</Blueprint_SadjuukGeneratorY.label>
+  <!-- EN: Glass Partition (blueprint) -->
+  <Blueprint_SadjuukGlassFenceA.label>Glass Partition (blueprint)</Blueprint_SadjuukGlassFenceA.label>
+  <!-- EN: Grid Fence (blueprint) -->
+  <Blueprint_SadjuukGridFence.label>Grid Fence (blueprint)</Blueprint_SadjuukGridFence.label>
+  <!-- EN: Metalworking Bench (blueprint) -->
+  <Blueprint_SadjuukMetalworkingBench.label>Metalworking Bench (blueprint)</Blueprint_SadjuukMetalworkingBench.label>
+  <!-- EN: Metalworking Line (blueprint) -->
+  <Blueprint_SadjuukMetalworkingLineB.label>Metalworking Line (blueprint)</Blueprint_SadjuukMetalworkingLineB.label>
+  <!-- EN: Open Hearth Furnace (blueprint) -->
+  <Blueprint_SadjuukOpenHearthFurnace.label>Open Hearth Furnace (blueprint)</Blueprint_SadjuukOpenHearthFurnace.label>
+  <!-- EN: Yellow Double lines (blueprint) -->
+  <Blueprint_SadjuukPaintAA.label>Yellow Double lines (blueprint)</Blueprint_SadjuukPaintAA.label>
+  <!-- EN: White Double lines (blueprint) -->
+  <Blueprint_SadjuukPaintAB.label>White Double lines (blueprint)</Blueprint_SadjuukPaintAB.label>
+  <!-- EN: Blue Double lines (blueprint) -->
+  <Blueprint_SadjuukPaintAC.label>Blue Double lines (blueprint)</Blueprint_SadjuukPaintAC.label>
+  <!-- EN: Red Double lines (blueprint) -->
+  <Blueprint_SadjuukPaintAD.label>Red Double lines (blueprint)</Blueprint_SadjuukPaintAD.label>
+  <!-- EN: Yellow Simple lines (blueprint) -->
+  <Blueprint_SadjuukPaintAE.label>Yellow Simple lines (blueprint)</Blueprint_SadjuukPaintAE.label>
+  <!-- EN: White Simple line (blueprint) -->
+  <Blueprint_SadjuukPaintAF.label>White Simple line (blueprint)</Blueprint_SadjuukPaintAF.label>
+  <!-- EN: Blue Simple line (blueprint) -->
+  <Blueprint_SadjuukPaintAG.label>Blue Simple line (blueprint)</Blueprint_SadjuukPaintAG.label>
+  <!-- EN: Red Simple line (blueprint) -->
+  <Blueprint_SadjuukPaintAH.label>Red Simple line (blueprint)</Blueprint_SadjuukPaintAH.label>
+  <!-- EN: Yellow Painted arrow (blueprint) -->
+  <Blueprint_SadjuukPaintBA.label>Yellow Painted arrow (blueprint)</Blueprint_SadjuukPaintBA.label>
+  <!-- EN: White Painted arrow (blueprint) -->
+  <Blueprint_SadjuukPaintBB.label>White Painted arrow (blueprint)</Blueprint_SadjuukPaintBB.label>
+  <!-- EN: Blue Painted arrow (blueprint) -->
+  <Blueprint_SadjuukPaintBC.label>Blue Painted arrow (blueprint)</Blueprint_SadjuukPaintBC.label>
+  <!-- EN: Red Painted arrow (blueprint) -->
+  <Blueprint_SadjuukPaintBD.label>Red Painted arrow (blueprint)</Blueprint_SadjuukPaintBD.label>
+  <!-- EN: Red Zebra (L) (blueprint) -->
+  <Blueprint_SadjuukPaintCA.label>Red Zebra (L) (blueprint)</Blueprint_SadjuukPaintCA.label>
+  <!-- EN: Red Zebra (R) (blueprint) -->
+  <Blueprint_SadjuukPaintCB.label>Red Zebra (R) (blueprint)</Blueprint_SadjuukPaintCB.label>
+  <!-- EN: Yellow Zebra (L) (blueprint) -->
+  <Blueprint_SadjuukPaintCC.label>Yellow Zebra (L) (blueprint)</Blueprint_SadjuukPaintCC.label>
+  <!-- EN: Yellow Zebra (R) (blueprint) -->
+  <Blueprint_SadjuukPaintCD.label>Yellow Zebra (R) (blueprint)</Blueprint_SadjuukPaintCD.label>
+  <!-- EN: Power Conduit (blueprint) -->
+  <Blueprint_SadjuukPowerConduit.label>Power Conduit (blueprint)</Blueprint_SadjuukPowerConduit.label>
+  <!-- EN: Fuel Oil Refinery (blueprint) -->
+  <Blueprint_SadjuukRefineryA.label>Fuel Oil Refinery (blueprint)</Blueprint_SadjuukRefineryA.label>
+  <!-- EN: Diesel Refinery (blueprint) -->
+  <Blueprint_SadjuukRefineryB.label>Diesel Refinery (blueprint)</Blueprint_SadjuukRefineryB.label>
+  <!-- EN: Advanced Refinery (blueprint) -->
+  <Blueprint_SadjuukRefineryC.label>Advanced Refinery (blueprint)</Blueprint_SadjuukRefineryC.label>
+  <!-- EN: Solar Panel A (blueprint) -->
+  <Blueprint_SadjuukSolarA.label>Solar Panel A (blueprint)</Blueprint_SadjuukSolarA.label>
+  <!-- EN: Solar Panel B (blueprint) -->
+  <Blueprint_SadjuukSolarB.label>Solar Panel B (blueprint)</Blueprint_SadjuukSolarB.label>
+  <!-- EN: Solar Panel C (blueprint) -->
+  <Blueprint_SadjuukSolarC.label>Solar Panel C (blueprint)</Blueprint_SadjuukSolarC.label>
+  <!-- EN: Metal Grid Floor (blueprint) -->
+  <Blueprint_SadjuukSteelFloorAA.label>Metal Grid Floor (blueprint)</Blueprint_SadjuukSteelFloorAA.label>
+  <!-- EN: Metal Plate Floor (blueprint) -->
+  <Blueprint_SadjuukSteelFloorAB.label>Metal Plate Floor (blueprint)</Blueprint_SadjuukSteelFloorAB.label>
+  <!-- EN: Wooden Wall A (blueprint) -->
+  <Blueprint_SadjuukWallAA.label>Wooden Wall A (blueprint)</Blueprint_SadjuukWallAA.label>
+  <!-- EN: Wooden Wall B (blueprint) -->
+  <Blueprint_SadjuukWallAB.label>Wooden Wall B (blueprint)</Blueprint_SadjuukWallAB.label>
+  <!-- EN: Steel Wall A (blueprint) -->
+  <Blueprint_SadjuukWallBA.label>Steel Wall A (blueprint)</Blueprint_SadjuukWallBA.label>
+  <!-- EN: Steel Wall B (blueprint) -->
+  <Blueprint_SadjuukWallBB.label>Steel Wall B (blueprint)</Blueprint_SadjuukWallBB.label>
+  <!-- EN: Concrete Wall A (blueprint) -->
+  <Blueprint_SadjuukWallCA.label>Concrete Wall A (blueprint)</Blueprint_SadjuukWallCA.label>
+  <!-- EN: Concrete Wall B (blueprint) -->
+  <Blueprint_SadjuukWallCB.label>Concrete Wall B (blueprint)</Blueprint_SadjuukWallCB.label>
+  <!-- EN: Concrete Wall C (blueprint) -->
+  <Blueprint_SadjuukWallCC.label>Concrete Wall C (blueprint)</Blueprint_SadjuukWallCC.label>
+  <!-- EN: Concrete Wall D (blueprint) -->
+  <Blueprint_SadjuukWallCD.label>Concrete Wall D (blueprint)</Blueprint_SadjuukWallCD.label>
+  <!-- EN: Concrete Wall E (blueprint) -->
+  <Blueprint_SadjuukWallCE.label>Concrete Wall E (blueprint)</Blueprint_SadjuukWallCE.label>
+  <!-- EN: Shielded Wall (blueprint) -->
+  <Blueprint_SadjuukWallDA.label>Shielded Wall (blueprint)</Blueprint_SadjuukWallDA.label>
+  <!-- EN: Green Shielded Wall (blueprint) -->
+  <Blueprint_SadjuukWallDB.label>Green Shielded Wall (blueprint)</Blueprint_SadjuukWallDB.label>
+  <!-- EN: Woodland Camo Wall (blueprint) -->
+  <Blueprint_SadjuukWallDC.label>Woodland Camo Wall (blueprint)</Blueprint_SadjuukWallDC.label>
+  <!-- EN: Flecktarn Camo Wall (blueprint) -->
+  <Blueprint_SadjuukWallDD.label>Flecktarn Camo Wall (blueprint)</Blueprint_SadjuukWallDD.label>
+  <!-- EN: Desert Camo Wall (blueprint) -->
+  <Blueprint_SadjuukWallDE.label>Desert Camo Wall (blueprint)</Blueprint_SadjuukWallDE.label>
+  <!-- EN: Ice Camo Wall (blueprint) -->
+  <Blueprint_SadjuukWallDF.label>Ice Camo Wall (blueprint)</Blueprint_SadjuukWallDF.label>
+  <!-- EN: Armored Wall A (blueprint) -->
+  <Blueprint_SadjuukWallEA.label>Armored Wall A (blueprint)</Blueprint_SadjuukWallEA.label>
+  <!-- EN: Armored Wall B (blueprint) -->
+  <Blueprint_SadjuukWallEB.label>Armored Wall B (blueprint)</Blueprint_SadjuukWallEB.label>
+  <!-- EN: Armored Wall C (blueprint) -->
+  <Blueprint_SadjuukWallEC.label>Armored Wall C (blueprint)</Blueprint_SadjuukWallEC.label>
+  <!-- EN: Armored Wall D (blueprint) -->
+  <Blueprint_SadjuukWallED.label>Armored Wall D (blueprint)</Blueprint_SadjuukWallED.label>
+  <!-- EN: Wood Fence (blueprint) -->
+  <Blueprint_SadjuukWoodFence.label>Wood Fence (blueprint)</Blueprint_SadjuukWoodFence.label>
+  <!-- EN: Wood Floor A (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAA.label>Wood Floor A (blueprint)</Blueprint_SadjuukWoodFloorAA.label>
+  <!-- EN: Wood Floor B (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAB.label>Wood Floor B (blueprint)</Blueprint_SadjuukWoodFloorAB.label>
+  <!-- EN: Wood Floor C (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAC.label>Wood Floor C (blueprint)</Blueprint_SadjuukWoodFloorAC.label>
+  <!-- EN: Wood Floor D (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAD.label>Wood Floor D (blueprint)</Blueprint_SadjuukWoodFloorAD.label>
+  <!-- EN: Wood Floor E (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAE.label>Wood Floor E (blueprint)</Blueprint_SadjuukWoodFloorAE.label>
+  <!-- EN: Wood Floor F (blueprint) -->
+  <Blueprint_SadjuukWoodFloorAF.label>Wood Floor F (blueprint)</Blueprint_SadjuukWoodFloorAF.label>
+  <!-- EN: Wood Floor A (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBA.label>Wood Floor A (blueprint)</Blueprint_SadjuukWoodFloorBA.label>
+  <!-- EN: Wood Floor B (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBB.label>Wood Floor B (blueprint)</Blueprint_SadjuukWoodFloorBB.label>
+  <!-- EN: Wood Floor C (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBC.label>Wood Floor C (blueprint)</Blueprint_SadjuukWoodFloorBC.label>
+  <!-- EN: Wood Floor D (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBD.label>Wood Floor D (blueprint)</Blueprint_SadjuukWoodFloorBD.label>
+  <!-- EN: Wood Floor E (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBE.label>Wood Floor E (blueprint)</Blueprint_SadjuukWoodFloorBE.label>
+  <!-- EN: Wood Floor F (blueprint) -->
+  <Blueprint_SadjuukWoodFloorBF.label>Wood Floor F (blueprint)</Blueprint_SadjuukWoodFloorBF.label>
+  <!-- EN: Wood Generator (blueprint) -->
+  <Blueprint_SadjuukWoodGeneratorA.label>Wood Generator (blueprint)</Blueprint_SadjuukWoodGeneratorA.label>
+  <!-- EN: Asphalt (building) -->
+  <Frame_SadjuukAsphaltFloorAA.label>Asphalt (building)</Frame_SadjuukAsphaltFloorAA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukAsphaltFloorAA.description>Terrain building in progress.</Frame_SadjuukAsphaltFloorAA.description>
+  <!-- EN: Dark Asphalt (building) -->
+  <Frame_SadjuukAsphaltFloorAB.label>Dark Asphalt (building)</Frame_SadjuukAsphaltFloorAB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukAsphaltFloorAB.description>Terrain building in progress.</Frame_SadjuukAsphaltFloorAB.description>
+  <!-- EN: Assembly Line (building) -->
+  <Frame_SadjuukAssemblyLineB.label>Assembly Line (building)</Frame_SadjuukAssemblyLineB.label>
+  <!-- EN: The Assembly Line is a production line allowing to assemble a wide variety of components. -->
+  <Frame_SadjuukAssemblyLineB.description>The Assembly Line is a production line allowing to assemble a wide variety of components.</Frame_SadjuukAssemblyLineB.description>
+  <!-- EN: Bessemer Converter (building) -->
+  <Frame_SadjuukBessemerConverter.label>Bessemer Converter (building)</Frame_SadjuukBessemerConverter.label>
+  <!-- EN: First inexpensive industrial process for the mass production of steel. Obsolete since the development of the open hearth furnace. -->
+  <Frame_SadjuukBessemerConverter.description>First inexpensive industrial process for the mass production of steel. Obsolete since the development of the open hearth furnace.</Frame_SadjuukBessemerConverter.description>
+  <!-- EN: Concrete Fence (building) -->
+  <Frame_SadjuukConcreteFence.label>Concrete Fence (building)</Frame_SadjuukConcreteFence.label>
+  <!-- EN: HP : 300\nAn industrial concrete fence. -->
+  <Frame_SadjuukConcreteFence.description>HP : 300
+An industrial concrete fence.</Frame_SadjuukConcreteFence.description>
+  <!-- EN: Concrete Floor (building) -->
+  <Frame_SadjuukConcreteFloorA.label>Concrete Floor (building)</Frame_SadjuukConcreteFloorA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorA.description>Terrain building in progress.</Frame_SadjuukConcreteFloorA.description>
+  <!-- EN: Painted Concrete Floor A (building) -->
+  <Frame_SadjuukConcreteFloorAA.label>Painted Concrete Floor A (building)</Frame_SadjuukConcreteFloorAA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAA.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAA.description>
+  <!-- EN: Painted Concrete Floor B (building) -->
+  <Frame_SadjuukConcreteFloorAB.label>Painted Concrete Floor B (building)</Frame_SadjuukConcreteFloorAB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAB.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAB.description>
+  <!-- EN: Painted Concrete Floor C (building) -->
+  <Frame_SadjuukConcreteFloorAC.label>Painted Concrete Floor C (building)</Frame_SadjuukConcreteFloorAC.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAC.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAC.description>
+  <!-- EN: Painted Concrete Floor D (building) -->
+  <Frame_SadjuukConcreteFloorAD.label>Painted Concrete Floor D (building)</Frame_SadjuukConcreteFloorAD.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAD.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAD.description>
+  <!-- EN: Painted Concrete Floor E (building) -->
+  <Frame_SadjuukConcreteFloorAE.label>Painted Concrete Floor E (building)</Frame_SadjuukConcreteFloorAE.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAE.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAE.description>
+  <!-- EN: Painted Concrete Floor F (building) -->
+  <Frame_SadjuukConcreteFloorAF.label>Painted Concrete Floor F (building)</Frame_SadjuukConcreteFloorAF.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAF.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAF.description>
+  <!-- EN: Painted Concrete Floor G (building) -->
+  <Frame_SadjuukConcreteFloorAG.label>Painted Concrete Floor G (building)</Frame_SadjuukConcreteFloorAG.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAG.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAG.description>
+  <!-- EN: Painted Concrete Floor H (building) -->
+  <Frame_SadjuukConcreteFloorAH.label>Painted Concrete Floor H (building)</Frame_SadjuukConcreteFloorAH.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAH.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAH.description>
+  <!-- EN: Painted Concrete Floor I (building) -->
+  <Frame_SadjuukConcreteFloorAI.label>Painted Concrete Floor I (building)</Frame_SadjuukConcreteFloorAI.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAI.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAI.description>
+  <!-- EN: Painted Concrete Floor J (building) -->
+  <Frame_SadjuukConcreteFloorAJ.label>Painted Concrete Floor J (building)</Frame_SadjuukConcreteFloorAJ.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAJ.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAJ.description>
+  <!-- EN: Painted Concrete Floor K (building) -->
+  <Frame_SadjuukConcreteFloorAK.label>Painted Concrete Floor K (building)</Frame_SadjuukConcreteFloorAK.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAK.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAK.description>
+  <!-- EN: Painted Concrete Floor L (building) -->
+  <Frame_SadjuukConcreteFloorAL.label>Painted Concrete Floor L (building)</Frame_SadjuukConcreteFloorAL.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAL.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAL.description>
+  <!-- EN: Painted Concrete Floor M (building) -->
+  <Frame_SadjuukConcreteFloorAM.label>Painted Concrete Floor M (building)</Frame_SadjuukConcreteFloorAM.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAM.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAM.description>
+  <!-- EN: Painted Concrete Floor N (building) -->
+  <Frame_SadjuukConcreteFloorAN.label>Painted Concrete Floor N (building)</Frame_SadjuukConcreteFloorAN.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorAN.description>Terrain building in progress.</Frame_SadjuukConcreteFloorAN.description>
+  <!-- EN: Painted Steel Floor A (building) -->
+  <Frame_SadjuukConcreteFloorCA.label>Painted Steel Floor A (building)</Frame_SadjuukConcreteFloorCA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCA.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCA.description>
+  <!-- EN: Painted Steel Floor B (building) -->
+  <Frame_SadjuukConcreteFloorCB.label>Painted Steel Floor B (building)</Frame_SadjuukConcreteFloorCB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCB.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCB.description>
+  <!-- EN: Painted Steel Floor C (building) -->
+  <Frame_SadjuukConcreteFloorCC.label>Painted Steel Floor C (building)</Frame_SadjuukConcreteFloorCC.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCC.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCC.description>
+  <!-- EN: Painted Steel Floor D (building) -->
+  <Frame_SadjuukConcreteFloorCD.label>Painted Steel Floor D (building)</Frame_SadjuukConcreteFloorCD.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCD.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCD.description>
+  <!-- EN: Painted Steel Floor E (building) -->
+  <Frame_SadjuukConcreteFloorCE.label>Painted Steel Floor E (building)</Frame_SadjuukConcreteFloorCE.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCE.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCE.description>
+  <!-- EN: Painted Steel Floor F (building) -->
+  <Frame_SadjuukConcreteFloorCF.label>Painted Steel Floor F (building)</Frame_SadjuukConcreteFloorCF.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCF.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCF.description>
+  <!-- EN: Painted Steel Floor G (building) -->
+  <Frame_SadjuukConcreteFloorCG.label>Painted Steel Floor G (building)</Frame_SadjuukConcreteFloorCG.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCG.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCG.description>
+  <!-- EN: Painted Steel Floor H (building) -->
+  <Frame_SadjuukConcreteFloorCH.label>Painted Steel Floor H (building)</Frame_SadjuukConcreteFloorCH.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCH.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCH.description>
+  <!-- EN: Painted Steel Floor I (building) -->
+  <Frame_SadjuukConcreteFloorCI.label>Painted Steel Floor I (building)</Frame_SadjuukConcreteFloorCI.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCI.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCI.description>
+  <!-- EN: Painted Steel Floor J (building) -->
+  <Frame_SadjuukConcreteFloorCJ.label>Painted Steel Floor J (building)</Frame_SadjuukConcreteFloorCJ.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCJ.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCJ.description>
+  <!-- EN: Painted Steel Floor K (building) -->
+  <Frame_SadjuukConcreteFloorCK.label>Painted Steel Floor K (building)</Frame_SadjuukConcreteFloorCK.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCK.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCK.description>
+  <!-- EN: Painted Steel Floor M (building) -->
+  <Frame_SadjuukConcreteFloorCM.label>Painted Steel Floor M (building)</Frame_SadjuukConcreteFloorCM.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCM.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCM.description>
+  <!-- EN: Painted Steel Floor N (building) -->
+  <Frame_SadjuukConcreteFloorCN.label>Painted Steel Floor N (building)</Frame_SadjuukConcreteFloorCN.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCN.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCN.description>
+  <!-- EN: Painted Steel Floor O (building) -->
+  <Frame_SadjuukConcreteFloorCO.label>Painted Steel Floor O (building)</Frame_SadjuukConcreteFloorCO.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCO.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCO.description>
+  <!-- EN: Painted Steel Floor P (building) -->
+  <Frame_SadjuukConcreteFloorCP.label>Painted Steel Floor P (building)</Frame_SadjuukConcreteFloorCP.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCP.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCP.description>
+  <!-- EN: Painted Steel Floor Q (building) -->
+  <Frame_SadjuukConcreteFloorCQ.label>Painted Steel Floor Q (building)</Frame_SadjuukConcreteFloorCQ.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukConcreteFloorCQ.description>Terrain building in progress.</Frame_SadjuukConcreteFloorCQ.description>
+  <!-- EN: Construction Machinery (building) -->
+  <Frame_SadjuukConstructionMachinery.label>Construction Machinery (building)</Frame_SadjuukConstructionMachinery.label>
+  <!-- EN: A very complex machinery capable of extracting silicon from the rock and coarsely refining organic elements to produce glass, concrete and asphalt. -->
+  <Frame_SadjuukConstructionMachinery.description>A very complex machinery capable of extracting silicon from the rock and coarsely refining organic elements to produce glass, concrete and asphalt.</Frame_SadjuukConstructionMachinery.description>
+  <!-- EN: Wooden Gate (H) (building) -->
+  <Frame_SadjuukDoorAA.label>Wooden Gate (H) (building)</Frame_SadjuukDoorAA.label>
+  <!-- EN: HP : 80\nA rustic Wooden gate. -->
+  <Frame_SadjuukDoorAA.description>HP : 80
+A rustic Wooden gate.</Frame_SadjuukDoorAA.description>
+  <!-- EN: Wooden Gate (V) (building) -->
+  <Frame_SadjuukDoorAB.label>Wooden Gate (V) (building)</Frame_SadjuukDoorAB.label>
+  <!-- EN: HP : 80\nA rustic Wooden gate. -->
+  <Frame_SadjuukDoorAB.description>HP : 80
+A rustic Wooden gate.</Frame_SadjuukDoorAB.description>
+  <!-- EN: Grid Gate (H) (building) -->
+  <Frame_SadjuukDoorBA.label>Grid Gate (H) (building)</Frame_SadjuukDoorBA.label>
+  <!-- EN: HP : 250\nAn industrial metal grid gate. -->
+  <Frame_SadjuukDoorBA.description>HP : 250
+An industrial metal grid gate.</Frame_SadjuukDoorBA.description>
+  <!-- EN: Grid Gate (V) (building) -->
+  <Frame_SadjuukDoorBB.label>Grid Gate (V) (building)</Frame_SadjuukDoorBB.label>
+  <!-- EN: HP : 250\nAn industrial metal grid gate. -->
+  <Frame_SadjuukDoorBB.description>HP : 250
+An industrial metal grid gate.</Frame_SadjuukDoorBB.description>
+  <!-- EN: Glass Door (H) (building) -->
+  <Frame_SadjuukDoorCA.label>Glass Door (H) (building)</Frame_SadjuukDoorCA.label>
+  <!-- EN: HP : 50\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <Frame_SadjuukDoorCA.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</Frame_SadjuukDoorCA.description>
+  <!-- EN: Glass Door (V) (building) -->
+  <Frame_SadjuukDoorCB.label>Glass Door (V) (building)</Frame_SadjuukDoorCB.label>
+  <!-- EN: HP : 50\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <Frame_SadjuukDoorCB.description>HP : 50
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</Frame_SadjuukDoorCB.description>
+  <!-- EN: Wooden Door (H) (building) -->
+  <Frame_SadjuukDoorDA.label>Wooden Door (H) (building)</Frame_SadjuukDoorDA.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <Frame_SadjuukDoorDA.description>HP : 350
+Heavy Armored door.</Frame_SadjuukDoorDA.description>
+  <!-- EN: Wooden Door (V) (building) -->
+  <Frame_SadjuukDoorDB.label>Wooden Door (V) (building)</Frame_SadjuukDoorDB.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <Frame_SadjuukDoorDB.description>HP : 350
+Heavy Armored door.</Frame_SadjuukDoorDB.description>
+  <!-- EN: Steel Door (H) (building) -->
+  <Frame_SadjuukDoorEA.label>Steel Door (H) (building)</Frame_SadjuukDoorEA.label>
+  <!-- EN: HP : 450\nRustic Steel door. -->
+  <Frame_SadjuukDoorEA.description>HP : 450
+Rustic Steel door.</Frame_SadjuukDoorEA.description>
+  <!-- EN: Steel Door (V) (building) -->
+  <Frame_SadjuukDoorEB.label>Steel Door (V) (building)</Frame_SadjuukDoorEB.label>
+  <!-- EN: HP : 450\nRustic Steel door. -->
+  <Frame_SadjuukDoorEB.description>HP : 450
+Rustic Steel door.</Frame_SadjuukDoorEB.description>
+  <!-- EN: Steel Door (H) (building) -->
+  <Frame_SadjuukDoorFA.label>Steel Door (H) (building)</Frame_SadjuukDoorFA.label>
+  <!-- EN: HP : 600\nSteel door. -->
+  <Frame_SadjuukDoorFA.description>HP : 600
+Steel door.</Frame_SadjuukDoorFA.description>
+  <!-- EN: Steel Door (V) (building) -->
+  <Frame_SadjuukDoorFB.label>Steel Door (V) (building)</Frame_SadjuukDoorFB.label>
+  <!-- EN: HP : 600\nSteel door. -->
+  <Frame_SadjuukDoorFB.description>HP : 600
+Steel door.</Frame_SadjuukDoorFB.description>
+  <!-- EN: Steel Door (H) (building) -->
+  <Frame_SadjuukDoorGA.label>Steel Door (H) (building)</Frame_SadjuukDoorGA.label>
+  <!-- EN: HP : 600\nPainted Steel door. -->
+  <Frame_SadjuukDoorGA.description>HP : 600
+Painted Steel door.</Frame_SadjuukDoorGA.description>
+  <!-- EN: Steel Door (V) (building) -->
+  <Frame_SadjuukDoorGB.label>Steel Door (V) (building)</Frame_SadjuukDoorGB.label>
+  <!-- EN: HP : 600\nPainted Steel door. -->
+  <Frame_SadjuukDoorGB.description>HP : 600
+Painted Steel door.</Frame_SadjuukDoorGB.description>
+  <!-- EN: Shielded Door (H) (building) -->
+  <Frame_SadjuukDoorHA.label>Shielded Door (H) (building)</Frame_SadjuukDoorHA.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <Frame_SadjuukDoorHA.description>HP : 990
+Heavy Shielded door.</Frame_SadjuukDoorHA.description>
+  <!-- EN: Shielded Door (V) (building) -->
+  <Frame_SadjuukDoorHB.label>Shielded Door (V) (building)</Frame_SadjuukDoorHB.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <Frame_SadjuukDoorHB.description>HP : 990
+Heavy Shielded door.</Frame_SadjuukDoorHB.description>
+  <!-- EN: Shielded Door (H) (building) -->
+  <Frame_SadjuukDoorIA.label>Shielded Door (H) (building)</Frame_SadjuukDoorIA.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <Frame_SadjuukDoorIA.description>HP : 990
+Heavy Shielded door.</Frame_SadjuukDoorIA.description>
+  <!-- EN: Shielded Door (V) (building) -->
+  <Frame_SadjuukDoorIB.label>Shielded Door (V) (building)</Frame_SadjuukDoorIB.label>
+  <!-- EN: HP : 990\nHeavy Shielded door. -->
+  <Frame_SadjuukDoorIB.description>HP : 990
+Heavy Shielded door.</Frame_SadjuukDoorIB.description>
+  <!-- EN: Armored Door (H) (building) -->
+  <Frame_SadjuukDoorJA.label>Armored Door (H) (building)</Frame_SadjuukDoorJA.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <Frame_SadjuukDoorJA.description>HP : 2100
+Heavy Armored door.</Frame_SadjuukDoorJA.description>
+  <!-- EN: Armored Door (V) (building) -->
+  <Frame_SadjuukDoorJB.label>Armored Door (V) (building)</Frame_SadjuukDoorJB.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <Frame_SadjuukDoorJB.description>HP : 2100
+Heavy Armored door.</Frame_SadjuukDoorJB.description>
+  <!-- EN: Armored Door (H) (building) -->
+  <Frame_SadjuukDoorKA.label>Armored Door (H) (building)</Frame_SadjuukDoorKA.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <Frame_SadjuukDoorKA.description>HP : 2100
+Heavy Armored door.</Frame_SadjuukDoorKA.description>
+  <!-- EN: Armored Door (V) (building) -->
+  <Frame_SadjuukDoorKB.label>Armored Door (V) (building)</Frame_SadjuukDoorKB.label>
+  <!-- EN: HP : 2100\nHeavy Armored door. -->
+  <Frame_SadjuukDoorKB.description>HP : 2100
+Heavy Armored door.</Frame_SadjuukDoorKB.description>
+  <!-- EN: Wooden Door (H) (building) -->
+  <Frame_SadjuukDoorLA.label>Wooden Door (H) (building)</Frame_SadjuukDoorLA.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <Frame_SadjuukDoorLA.description>HP : 350
+Heavy Armored door.</Frame_SadjuukDoorLA.description>
+  <!-- EN: Wooden Door (V) (building) -->
+  <Frame_SadjuukDoorLB.label>Wooden Door (V) (building)</Frame_SadjuukDoorLB.label>
+  <!-- EN: HP : 350\nHeavy Armored door. -->
+  <Frame_SadjuukDoorLB.description>HP : 350
+Heavy Armored door.</Frame_SadjuukDoorLB.description>
+  <!-- EN: Electric Arc Furnace (building) -->
+  <Frame_SadjuukElectricArcFurnace.label>Electric Arc Furnace (building)</Frame_SadjuukElectricArcFurnace.label>
+  <!-- EN: Furnace that heats charged material by means of an electric arc. Very high production rate. -->
+  <Frame_SadjuukElectricArcFurnace.description>Furnace that heats charged material by means of an electric arc. Very high production rate.</Frame_SadjuukElectricArcFurnace.description>
+  <!-- EN: Wooden Embrasure A (building) -->
+  <Frame_SadjuukEmbrasureAA.label>Wooden Embrasure A (building)</Frame_SadjuukEmbrasureAA.label>
+  <!-- EN: HP : 350\nWooden Embrasure. -->
+  <Frame_SadjuukEmbrasureAA.description>HP : 350
+Wooden Embrasure.</Frame_SadjuukEmbrasureAA.description>
+  <!-- EN: Wooden Embrasure B (building) -->
+  <Frame_SadjuukEmbrasureAB.label>Wooden Embrasure B (building)</Frame_SadjuukEmbrasureAB.label>
+  <!-- EN: HP : 350\nWooden Embrasure. -->
+  <Frame_SadjuukEmbrasureAB.description>HP : 350
+Wooden Embrasure.</Frame_SadjuukEmbrasureAB.description>
+  <!-- EN: Steel Embrasure A (building) -->
+  <Frame_SadjuukEmbrasureBA.label>Steel Embrasure A (building)</Frame_SadjuukEmbrasureBA.label>
+  <!-- EN: HP : 450\nUntreated steel recovery Embrasure. -->
+  <Frame_SadjuukEmbrasureBA.description>HP : 450
+Untreated steel recovery Embrasure.</Frame_SadjuukEmbrasureBA.description>
+  <!-- EN: Steel Embrasure B (building) -->
+  <Frame_SadjuukEmbrasureBB.label>Steel Embrasure B (building)</Frame_SadjuukEmbrasureBB.label>
+  <!-- EN: HP : 450\nUntreated steel recovery Embrasure. -->
+  <Frame_SadjuukEmbrasureBB.description>HP : 450
+Untreated steel recovery Embrasure.</Frame_SadjuukEmbrasureBB.description>
+  <!-- EN: Concrete Embrasure A (building) -->
+  <Frame_SadjuukEmbrasureCA.label>Concrete Embrasure A (building)</Frame_SadjuukEmbrasureCA.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <Frame_SadjuukEmbrasureCA.description>HP : 775
+Concrete Embrasure.</Frame_SadjuukEmbrasureCA.description>
+  <!-- EN: Concrete Embrasure B (building) -->
+  <Frame_SadjuukEmbrasureCB.label>Concrete Embrasure B (building)</Frame_SadjuukEmbrasureCB.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <Frame_SadjuukEmbrasureCB.description>HP : 775
+Concrete Embrasure.</Frame_SadjuukEmbrasureCB.description>
+  <!-- EN: Concrete Embrasure C (building) -->
+  <Frame_SadjuukEmbrasureCC.label>Concrete Embrasure C (building)</Frame_SadjuukEmbrasureCC.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <Frame_SadjuukEmbrasureCC.description>HP : 775
+Concrete Embrasure.</Frame_SadjuukEmbrasureCC.description>
+  <!-- EN: Concrete Embrasure D (building) -->
+  <Frame_SadjuukEmbrasureCD.label>Concrete Embrasure D (building)</Frame_SadjuukEmbrasureCD.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <Frame_SadjuukEmbrasureCD.description>HP : 775
+Concrete Embrasure.</Frame_SadjuukEmbrasureCD.description>
+  <!-- EN: Concrete Embrasure E (building) -->
+  <Frame_SadjuukEmbrasureCE.label>Concrete Embrasure E (building)</Frame_SadjuukEmbrasureCE.label>
+  <!-- EN: HP : 775\nConcrete Embrasure. -->
+  <Frame_SadjuukEmbrasureCE.description>HP : 775
+Concrete Embrasure.</Frame_SadjuukEmbrasureCE.description>
+  <!-- EN: Shielded Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDA.label>Shielded Embrasure (building)</Frame_SadjuukEmbrasureDA.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDA.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDA.description>
+  <!-- EN: Green Shielded Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDB.label>Green Shielded Embrasure (building)</Frame_SadjuukEmbrasureDB.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDB.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDB.description>
+  <!-- EN: Woodland Camo Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDC.label>Woodland Camo Embrasure (building)</Frame_SadjuukEmbrasureDC.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDC.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDC.description>
+  <!-- EN: Flecktarn Camo Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDD.label>Flecktarn Camo Embrasure (building)</Frame_SadjuukEmbrasureDD.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDD.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDD.description>
+  <!-- EN: Desert Camo Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDE.label>Desert Camo Embrasure (building)</Frame_SadjuukEmbrasureDE.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDE.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDE.description>
+  <!-- EN: Ice Camo Embrasure (building) -->
+  <Frame_SadjuukEmbrasureDF.label>Ice Camo Embrasure (building)</Frame_SadjuukEmbrasureDF.label>
+  <!-- EN: HP : 1550\nShielded concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureDF.description>HP : 1550
+Shielded concrete Embrasure.</Frame_SadjuukEmbrasureDF.description>
+  <!-- EN: Armored Embrasure A (building) -->
+  <Frame_SadjuukEmbrasureEA.label>Armored Embrasure A (building)</Frame_SadjuukEmbrasureEA.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureEA.description>HP : 3350
+Armored concrete Embrasure.</Frame_SadjuukEmbrasureEA.description>
+  <!-- EN: Armored Embrasure B (building) -->
+  <Frame_SadjuukEmbrasureEB.label>Armored Embrasure B (building)</Frame_SadjuukEmbrasureEB.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureEB.description>HP : 3350
+Armored concrete Embrasure.</Frame_SadjuukEmbrasureEB.description>
+  <!-- EN: Armored Embrasure C (building) -->
+  <Frame_SadjuukEmbrasureEC.label>Armored Embrasure C (building)</Frame_SadjuukEmbrasureEC.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureEC.description>HP : 3350
+Armored concrete Embrasure.</Frame_SadjuukEmbrasureEC.description>
+  <!-- EN: Armored Embrasure D (building) -->
+  <Frame_SadjuukEmbrasureED.label>Armored Embrasure D (building)</Frame_SadjuukEmbrasureED.label>
+  <!-- EN: HP : 3350\nArmored concrete Embrasure. -->
+  <Frame_SadjuukEmbrasureED.description>HP : 3350
+Armored concrete Embrasure.</Frame_SadjuukEmbrasureED.description>
+  <!-- EN: Fuel Oil Generator A (building) -->
+  <Frame_SadjuukGeneratorA.label>Fuel Oil Generator A (building)</Frame_SadjuukGeneratorA.label>
+  <!-- EN: P : 12000W\nA rustic version of the standard UN Fuel Oil generator FGEN12K. Good production rate. \nFuel Oil power generation with this engine is 15% more efficient than Chemfuel. \nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorA.description>P : 12000W
+A rustic version of the standard UN Fuel Oil generator FGEN12K. Good production rate. 
+Fuel Oil power generation with this engine is 15% more efficient than Chemfuel. 
+Highly explosive if damaged.</Frame_SadjuukGeneratorA.description>
+  <!-- EN: Fuel Oil Generator B (building) -->
+  <Frame_SadjuukGeneratorB.label>Fuel Oil Generator B (building)</Frame_SadjuukGeneratorB.label>
+  <!-- EN: P : 12000W\nThe industrial version of the UN Fuel Oil generator FGEN12K. Double injection system, double filtration system, High production rate. \nFuel Oil power generation with this engine is 20% more efficient than Chemfuel.\nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorB.description>P : 12000W
+The industrial version of the UN Fuel Oil generator FGEN12K. Double injection system, double filtration system, High production rate. 
+Fuel Oil power generation with this engine is 20% more efficient than Chemfuel.
+Highly explosive if damaged.</Frame_SadjuukGeneratorB.description>
+  <!-- EN: Fuel Oil Generator D (building) -->
+  <Frame_SadjuukGeneratorD.label>Fuel Oil Generator D (building)</Frame_SadjuukGeneratorD.label>
+  <!-- EN: P : 2250W\nA rustic and simple fuel oil generator, using a reliable combustion engine coupled with an alternator to generate electricity.\nFuel Oil power generation with this engine is 10% more efficient than Chemfuel. \nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorD.description>P : 2250W
+A rustic and simple fuel oil generator, using a reliable combustion engine coupled with an alternator to generate electricity.
+Fuel Oil power generation with this engine is 10% more efficient than Chemfuel. 
+Highly explosive if damaged.</Frame_SadjuukGeneratorD.description>
+  <!-- EN: Armored Generator F (building) -->
+  <Frame_SadjuukGeneratorF.label>Armored Generator F (building)</Frame_SadjuukGeneratorF.label>
+  <!-- EN: P : 2250W\nAn industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.\nDiesel power generation with this engine is 35% more efficient than Chemfuel.\nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorF.description>P : 2250W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 35% more efficient than Chemfuel.
+Highly explosive if damaged.</Frame_SadjuukGeneratorF.description>
+  <!-- EN: Armored Generator G (building) -->
+  <Frame_SadjuukGeneratorG.label>Armored Generator G (building)</Frame_SadjuukGeneratorG.label>
+  <!-- EN: P : 6000W\nAn industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.\nDiesel power generation with this engine is 40% more efficient than Chemfuel.\nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorG.description>P : 6000W
+An industrial Diesel generator, using a reliable combustion engine coupled with an alternator to generate electricity. Very good production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</Frame_SadjuukGeneratorG.description>
+  <!-- EN: Armored Generator M (building) -->
+  <Frame_SadjuukGeneratorM.label>Armored Generator M (building)</Frame_SadjuukGeneratorM.label>
+  <!-- EN: P : 6000W\nMilitary 6kW armored Diesel generator. UNSC standard, foolproof design, high production rate.\nDiesel power generation with this engine is 40% more efficient than Chemfuel.\nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorM.description>P : 6000W
+Military 6kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</Frame_SadjuukGeneratorM.description>
+  <!-- EN: Armored Generator N (building) -->
+  <Frame_SadjuukGeneratorN.label>Armored Generator N (building)</Frame_SadjuukGeneratorN.label>
+  <!-- EN: P : 3000W\nMilitary 3kW armored Diesel generator. UNSC standard, foolproof design, high production rate.\nDiesel power generation with this engine is 40% more efficient than Chemfuel.\nHighly explosive if damaged. -->
+  <Frame_SadjuukGeneratorN.description>P : 3000W
+Military 3kW armored Diesel generator. UNSC standard, foolproof design, high production rate.
+Diesel power generation with this engine is 40% more efficient than Chemfuel.
+Highly explosive if damaged.</Frame_SadjuukGeneratorN.description>
+  <!-- EN: Portable Generator V (building) -->
+  <Frame_SadjuukGeneratorV.label>Portable Generator V (building)</Frame_SadjuukGeneratorV.label>
+  <!-- EN: P : 750W\nA Diesel portable generator. Low capacity tank, low power but sufficient for most nomadic situations.\nDiesel power generation with this engine is 10% more efficient than Chemfuel. -->
+  <Frame_SadjuukGeneratorV.description>P : 750W
+A Diesel portable generator. Low capacity tank, low power but sufficient for most nomadic situations.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</Frame_SadjuukGeneratorV.description>
+  <!-- EN: Portable Generator W (building) -->
+  <Frame_SadjuukGeneratorW.label>Portable Generator W (building)</Frame_SadjuukGeneratorW.label>
+  <!-- EN: P : 750W\nA military Diesel generator. UNSC standard, low capacity but portable, foolproof design, high production rate.\nDiesel power generation with this engine is 10% more efficient than Chemfuel. -->
+  <Frame_SadjuukGeneratorW.description>P : 750W
+A military Diesel generator. UNSC standard, low capacity but portable, foolproof design, high production rate.
+Diesel power generation with this engine is 10% more efficient than Chemfuel.</Frame_SadjuukGeneratorW.description>
+  <!-- EN: Portable Fuel Cell X (building) -->
+  <Frame_SadjuukGeneratorX.label>Portable Fuel Cell X (building)</Frame_SadjuukGeneratorX.label>
+  <!-- EN: P : 800W\nA Portable Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.\nHydrogen Fuel cell power generation is 67% more efficient than Chemfuel. -->
+  <Frame_SadjuukGeneratorX.description>P : 800W
+A Portable Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</Frame_SadjuukGeneratorX.description>
+  <!-- EN: Large Fuel Cell (building) -->
+  <Frame_SadjuukGeneratorY.label>Large Fuel Cell (building)</Frame_SadjuukGeneratorY.label>
+  <!-- EN: P : 3200W\nFuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.\nHydrogen Fuel cell power generation is 67% more efficient than Chemfuel. -->
+  <Frame_SadjuukGeneratorY.description>P : 3200W
+Fuel Cell that converts the chemical energy into electricity through an electrochemical reaction of hydrogen fuel with oxygen.
+Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</Frame_SadjuukGeneratorY.description>
+  <!-- EN: Glass Partition (building) -->
+  <Frame_SadjuukGlassFenceA.label>Glass Partition (building)</Frame_SadjuukGlassFenceA.label>
+  <!-- EN: HP : 70\nAs safe as aesthetically pleasing, glass partitions are an easy way to transform your space. -->
+  <Frame_SadjuukGlassFenceA.description>HP : 70
+As safe as aesthetically pleasing, glass partitions are an easy way to transform your space.</Frame_SadjuukGlassFenceA.description>
+  <!-- EN: Grid Fence (building) -->
+  <Frame_SadjuukGridFence.label>Grid Fence (building)</Frame_SadjuukGridFence.label>
+  <!-- EN: HP : 250\nAn industrial metal grid fence. -->
+  <Frame_SadjuukGridFence.description>HP : 250
+An industrial metal grid fence.</Frame_SadjuukGridFence.description>
+  <!-- EN: Metalworking Bench (building) -->
+  <Frame_SadjuukMetalworkingBench.label>Metalworking Bench (building)</Frame_SadjuukMetalworkingBench.label>
+  <!-- EN: Very basic Metalworking Bench. -->
+  <Frame_SadjuukMetalworkingBench.description>Very basic Metalworking Bench.</Frame_SadjuukMetalworkingBench.description>
+  <!-- EN: Metalworking Line (building) -->
+  <Frame_SadjuukMetalworkingLineB.label>Metalworking Line (building)</Frame_SadjuukMetalworkingLineB.label>
+  <!-- EN: The Metalworking Line is a very versatile production line to work the metal. -->
+  <Frame_SadjuukMetalworkingLineB.description>The Metalworking Line is a very versatile production line to work the metal.</Frame_SadjuukMetalworkingLineB.description>
+  <!-- EN: Open Hearth Furnace (building) -->
+  <Frame_SadjuukOpenHearthFurnace.label>Open Hearth Furnace (building)</Frame_SadjuukOpenHearthFurnace.label>
+  <!-- EN: Furnace where excess carbon and other impurities are burnt out of pig iron to produce steel. -->
+  <Frame_SadjuukOpenHearthFurnace.description>Furnace where excess carbon and other impurities are burnt out of pig iron to produce steel.</Frame_SadjuukOpenHearthFurnace.description>
+  <!-- EN: Yellow Double lines (building) -->
+  <Frame_SadjuukPaintAA.label>Yellow Double lines (building)</Frame_SadjuukPaintAA.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAA.description>Painted lines.</Frame_SadjuukPaintAA.description>
+  <!-- EN: White Double lines (building) -->
+  <Frame_SadjuukPaintAB.label>White Double lines (building)</Frame_SadjuukPaintAB.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAB.description>Painted lines.</Frame_SadjuukPaintAB.description>
+  <!-- EN: Blue Double lines (building) -->
+  <Frame_SadjuukPaintAC.label>Blue Double lines (building)</Frame_SadjuukPaintAC.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAC.description>Painted lines.</Frame_SadjuukPaintAC.description>
+  <!-- EN: Red Double lines (building) -->
+  <Frame_SadjuukPaintAD.label>Red Double lines (building)</Frame_SadjuukPaintAD.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAD.description>Painted lines.</Frame_SadjuukPaintAD.description>
+  <!-- EN: Yellow Simple lines (building) -->
+  <Frame_SadjuukPaintAE.label>Yellow Simple lines (building)</Frame_SadjuukPaintAE.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAE.description>Painted lines.</Frame_SadjuukPaintAE.description>
+  <!-- EN: White Simple line (building) -->
+  <Frame_SadjuukPaintAF.label>White Simple line (building)</Frame_SadjuukPaintAF.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAF.description>Painted lines.</Frame_SadjuukPaintAF.description>
+  <!-- EN: Blue Simple line (building) -->
+  <Frame_SadjuukPaintAG.label>Blue Simple line (building)</Frame_SadjuukPaintAG.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAG.description>Painted lines.</Frame_SadjuukPaintAG.description>
+  <!-- EN: Red Simple line (building) -->
+  <Frame_SadjuukPaintAH.label>Red Simple line (building)</Frame_SadjuukPaintAH.label>
+  <!-- EN: Painted lines. -->
+  <Frame_SadjuukPaintAH.description>Painted lines.</Frame_SadjuukPaintAH.description>
+  <!-- EN: Yellow Painted arrow (building) -->
+  <Frame_SadjuukPaintBA.label>Yellow Painted arrow (building)</Frame_SadjuukPaintBA.label>
+  <!-- EN: Painted arrow. -->
+  <Frame_SadjuukPaintBA.description>Painted arrow.</Frame_SadjuukPaintBA.description>
+  <!-- EN: White Painted arrow (building) -->
+  <Frame_SadjuukPaintBB.label>White Painted arrow (building)</Frame_SadjuukPaintBB.label>
+  <!-- EN: Painted arrow. -->
+  <Frame_SadjuukPaintBB.description>Painted arrow.</Frame_SadjuukPaintBB.description>
+  <!-- EN: Blue Painted arrow (building) -->
+  <Frame_SadjuukPaintBC.label>Blue Painted arrow (building)</Frame_SadjuukPaintBC.label>
+  <!-- EN: Painted arrow. -->
+  <Frame_SadjuukPaintBC.description>Painted arrow.</Frame_SadjuukPaintBC.description>
+  <!-- EN: Red Painted arrow (building) -->
+  <Frame_SadjuukPaintBD.label>Red Painted arrow (building)</Frame_SadjuukPaintBD.label>
+  <!-- EN: Painted arrow. -->
+  <Frame_SadjuukPaintBD.description>Painted arrow.</Frame_SadjuukPaintBD.description>
+  <!-- EN: Red Zebra (L) (building) -->
+  <Frame_SadjuukPaintCA.label>Red Zebra (L) (building)</Frame_SadjuukPaintCA.label>
+  <!-- EN: Painted Zebra. -->
+  <Frame_SadjuukPaintCA.description>Painted Zebra.</Frame_SadjuukPaintCA.description>
+  <!-- EN: Red Zebra (R) (building) -->
+  <Frame_SadjuukPaintCB.label>Red Zebra (R) (building)</Frame_SadjuukPaintCB.label>
+  <!-- EN: Painted Zebra. -->
+  <Frame_SadjuukPaintCB.description>Painted Zebra.</Frame_SadjuukPaintCB.description>
+  <!-- EN: Yellow Zebra (L) (building) -->
+  <Frame_SadjuukPaintCC.label>Yellow Zebra (L) (building)</Frame_SadjuukPaintCC.label>
+  <!-- EN: Painted Zebra. -->
+  <Frame_SadjuukPaintCC.description>Painted Zebra.</Frame_SadjuukPaintCC.description>
+  <!-- EN: Yellow Zebra (R) (building) -->
+  <Frame_SadjuukPaintCD.label>Yellow Zebra (R) (building)</Frame_SadjuukPaintCD.label>
+  <!-- EN: Painted Zebra. -->
+  <Frame_SadjuukPaintCD.description>Painted Zebra.</Frame_SadjuukPaintCD.description>
+  <!-- EN: Power Conduit (building) -->
+  <Frame_SadjuukPowerConduit.label>Power Conduit (building)</Frame_SadjuukPowerConduit.label>
+  <!-- EN: High voltage power cable. -->
+  <Frame_SadjuukPowerConduit.description>High voltage power cable.</Frame_SadjuukPowerConduit.description>
+  <!-- EN: Fuel Oil Refinery (building) -->
+  <Frame_SadjuukRefineryA.label>Fuel Oil Refinery (building)</Frame_SadjuukRefineryA.label>
+  <!-- EN: Medium capacity Fuel Oil Refinery. Good efficiency, far from conventional industrial capabilities but known as reliable and versatile.\nThe Fuel Oil has a better calorific power than chemfuel, allowing the construction of 20% more efficient generators. -->
+  <Frame_SadjuukRefineryA.description>Medium capacity Fuel Oil Refinery. Good efficiency, far from conventional industrial capabilities but known as reliable and versatile.
+The Fuel Oil has a better calorific power than chemfuel, allowing the construction of 20% more efficient generators.</Frame_SadjuukRefineryA.description>
+  <!-- EN: Diesel Refinery (building) -->
+  <Frame_SadjuukRefineryB.label>Diesel Refinery (building)</Frame_SadjuukRefineryB.label>
+  <!-- EN: Medium capacity Diesel Refinery.\nThe Diesel has a better calorific power than chemfuel, allowing the construction of 50% more efficient generators. -->
+  <Frame_SadjuukRefineryB.description>Medium capacity Diesel Refinery.
+The Diesel has a better calorific power than chemfuel, allowing the construction of 50% more efficient generators.</Frame_SadjuukRefineryB.description>
+  <!-- EN: Advanced Refinery (building) -->
+  <Frame_SadjuukRefineryC.label>Advanced Refinery (building)</Frame_SadjuukRefineryC.label>
+  <!-- EN: Advanced Refinery allowing the production of complex components like explosives or liquid hydrogen.\nThe Liquid Hydrogen has a better calorific power than chemfuel, allowing the construction of 80% more efficient generators. -->
+  <Frame_SadjuukRefineryC.description>Advanced Refinery allowing the production of complex components like explosives or liquid hydrogen.
+The Liquid Hydrogen has a better calorific power than chemfuel, allowing the construction of 80% more efficient generators.</Frame_SadjuukRefineryC.description>
+  <!-- EN: Solar Panel A (building) -->
+  <Frame_SadjuukSolarA.label>Solar Panel A (building)</Frame_SadjuukSolarA.label>
+  <!-- EN: Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 4X4. -->
+  <Frame_SadjuukSolarA.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 4X4.</Frame_SadjuukSolarA.description>
+  <!-- EN: Solar Panel B (building) -->
+  <Frame_SadjuukSolarB.label>Solar Panel B (building)</Frame_SadjuukSolarB.label>
+  <!-- EN: Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 5X3. -->
+  <Frame_SadjuukSolarB.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 5X3.</Frame_SadjuukSolarB.description>
+  <!-- EN: Solar Panel C (building) -->
+  <Frame_SadjuukSolarC.label>Solar Panel C (building)</Frame_SadjuukSolarC.label>
+  <!-- EN: Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 7X2. -->
+  <Frame_SadjuukSolarC.description>Photovoltaic solar panels absorbing sunlight as a source of energy to generate electricity. Size of the installation : 7X2.</Frame_SadjuukSolarC.description>
+  <!-- EN: Metal Grid Floor (building) -->
+  <Frame_SadjuukSteelFloorAA.label>Metal Grid Floor (building)</Frame_SadjuukSteelFloorAA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukSteelFloorAA.description>Terrain building in progress.</Frame_SadjuukSteelFloorAA.description>
+  <!-- EN: Metal Plate Floor (building) -->
+  <Frame_SadjuukSteelFloorAB.label>Metal Plate Floor (building)</Frame_SadjuukSteelFloorAB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukSteelFloorAB.description>Terrain building in progress.</Frame_SadjuukSteelFloorAB.description>
+  <!-- EN: Wooden Wall A (building) -->
+  <Frame_SadjuukWallAA.label>Wooden Wall A (building)</Frame_SadjuukWallAA.label>
+  <!-- EN: HP : 350\nWooden wall. -->
+  <Frame_SadjuukWallAA.description>HP : 350
+Wooden wall.</Frame_SadjuukWallAA.description>
+  <!-- EN: Wooden Wall B (building) -->
+  <Frame_SadjuukWallAB.label>Wooden Wall B (building)</Frame_SadjuukWallAB.label>
+  <!-- EN: HP : 350\nWooden wall. -->
+  <Frame_SadjuukWallAB.description>HP : 350
+Wooden wall.</Frame_SadjuukWallAB.description>
+  <!-- EN: Steel Wall A (building) -->
+  <Frame_SadjuukWallBA.label>Steel Wall A (building)</Frame_SadjuukWallBA.label>
+  <!-- EN: HP : 450\nUntreated steel recovery wall. -->
+  <Frame_SadjuukWallBA.description>HP : 450
+Untreated steel recovery wall.</Frame_SadjuukWallBA.description>
+  <!-- EN: Steel Wall B (building) -->
+  <Frame_SadjuukWallBB.label>Steel Wall B (building)</Frame_SadjuukWallBB.label>
+  <!-- EN: HP : 450\nUntreated steel recovery wall. -->
+  <Frame_SadjuukWallBB.description>HP : 450
+Untreated steel recovery wall.</Frame_SadjuukWallBB.description>
+  <!-- EN: Concrete Wall A (building) -->
+  <Frame_SadjuukWallCA.label>Concrete Wall A (building)</Frame_SadjuukWallCA.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <Frame_SadjuukWallCA.description>HP : 775
+Concrete wall.</Frame_SadjuukWallCA.description>
+  <!-- EN: Concrete Wall B (building) -->
+  <Frame_SadjuukWallCB.label>Concrete Wall B (building)</Frame_SadjuukWallCB.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <Frame_SadjuukWallCB.description>HP : 775
+Concrete wall.</Frame_SadjuukWallCB.description>
+  <!-- EN: Concrete Wall C (building) -->
+  <Frame_SadjuukWallCC.label>Concrete Wall C (building)</Frame_SadjuukWallCC.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <Frame_SadjuukWallCC.description>HP : 775
+Concrete wall.</Frame_SadjuukWallCC.description>
+  <!-- EN: Concrete Wall D (building) -->
+  <Frame_SadjuukWallCD.label>Concrete Wall D (building)</Frame_SadjuukWallCD.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <Frame_SadjuukWallCD.description>HP : 775
+Concrete wall.</Frame_SadjuukWallCD.description>
+  <!-- EN: Concrete Wall E (building) -->
+  <Frame_SadjuukWallCE.label>Concrete Wall E (building)</Frame_SadjuukWallCE.label>
+  <!-- EN: HP : 775\nConcrete wall. -->
+  <Frame_SadjuukWallCE.description>HP : 775
+Concrete wall.</Frame_SadjuukWallCE.description>
+  <!-- EN: Shielded Wall (building) -->
+  <Frame_SadjuukWallDA.label>Shielded Wall (building)</Frame_SadjuukWallDA.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDA.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDA.description>
+  <!-- EN: Green Shielded Wall (building) -->
+  <Frame_SadjuukWallDB.label>Green Shielded Wall (building)</Frame_SadjuukWallDB.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDB.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDB.description>
+  <!-- EN: Woodland Camo Wall (building) -->
+  <Frame_SadjuukWallDC.label>Woodland Camo Wall (building)</Frame_SadjuukWallDC.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDC.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDC.description>
+  <!-- EN: Flecktarn Camo Wall (building) -->
+  <Frame_SadjuukWallDD.label>Flecktarn Camo Wall (building)</Frame_SadjuukWallDD.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDD.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDD.description>
+  <!-- EN: Desert Camo Wall (building) -->
+  <Frame_SadjuukWallDE.label>Desert Camo Wall (building)</Frame_SadjuukWallDE.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDE.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDE.description>
+  <!-- EN: Ice Camo Wall (building) -->
+  <Frame_SadjuukWallDF.label>Ice Camo Wall (building)</Frame_SadjuukWallDF.label>
+  <!-- EN: HP : 1550\nShielded concrete wall. -->
+  <Frame_SadjuukWallDF.description>HP : 1550
+Shielded concrete wall.</Frame_SadjuukWallDF.description>
+  <!-- EN: Armored Wall A (building) -->
+  <Frame_SadjuukWallEA.label>Armored Wall A (building)</Frame_SadjuukWallEA.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <Frame_SadjuukWallEA.description>HP : 3350
+Armored concrete wall.</Frame_SadjuukWallEA.description>
+  <!-- EN: Armored Wall B (building) -->
+  <Frame_SadjuukWallEB.label>Armored Wall B (building)</Frame_SadjuukWallEB.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <Frame_SadjuukWallEB.description>HP : 3350
+Armored concrete wall.</Frame_SadjuukWallEB.description>
+  <!-- EN: Armored Wall C (building) -->
+  <Frame_SadjuukWallEC.label>Armored Wall C (building)</Frame_SadjuukWallEC.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <Frame_SadjuukWallEC.description>HP : 3350
+Armored concrete wall.</Frame_SadjuukWallEC.description>
+  <!-- EN: Armored Wall D (building) -->
+  <Frame_SadjuukWallED.label>Armored Wall D (building)</Frame_SadjuukWallED.label>
+  <!-- EN: HP : 3350\nArmored concrete wall. -->
+  <Frame_SadjuukWallED.description>HP : 3350
+Armored concrete wall.</Frame_SadjuukWallED.description>
+  <!-- EN: Wood Fence (building) -->
+  <Frame_SadjuukWoodFence.label>Wood Fence (building)</Frame_SadjuukWoodFence.label>
+  <!-- EN: HP : 80\nA rustic Wooden fence. -->
+  <Frame_SadjuukWoodFence.description>HP : 80
+A rustic Wooden fence.</Frame_SadjuukWoodFence.description>
+  <!-- EN: Wood Floor A (building) -->
+  <Frame_SadjuukWoodFloorAA.label>Wood Floor A (building)</Frame_SadjuukWoodFloorAA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAA.description>Terrain building in progress.</Frame_SadjuukWoodFloorAA.description>
+  <!-- EN: Wood Floor B (building) -->
+  <Frame_SadjuukWoodFloorAB.label>Wood Floor B (building)</Frame_SadjuukWoodFloorAB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAB.description>Terrain building in progress.</Frame_SadjuukWoodFloorAB.description>
+  <!-- EN: Wood Floor C (building) -->
+  <Frame_SadjuukWoodFloorAC.label>Wood Floor C (building)</Frame_SadjuukWoodFloorAC.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAC.description>Terrain building in progress.</Frame_SadjuukWoodFloorAC.description>
+  <!-- EN: Wood Floor D (building) -->
+  <Frame_SadjuukWoodFloorAD.label>Wood Floor D (building)</Frame_SadjuukWoodFloorAD.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAD.description>Terrain building in progress.</Frame_SadjuukWoodFloorAD.description>
+  <!-- EN: Wood Floor E (building) -->
+  <Frame_SadjuukWoodFloorAE.label>Wood Floor E (building)</Frame_SadjuukWoodFloorAE.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAE.description>Terrain building in progress.</Frame_SadjuukWoodFloorAE.description>
+  <!-- EN: Wood Floor F (building) -->
+  <Frame_SadjuukWoodFloorAF.label>Wood Floor F (building)</Frame_SadjuukWoodFloorAF.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorAF.description>Terrain building in progress.</Frame_SadjuukWoodFloorAF.description>
+  <!-- EN: Wood Floor A (building) -->
+  <Frame_SadjuukWoodFloorBA.label>Wood Floor A (building)</Frame_SadjuukWoodFloorBA.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBA.description>Terrain building in progress.</Frame_SadjuukWoodFloorBA.description>
+  <!-- EN: Wood Floor B (building) -->
+  <Frame_SadjuukWoodFloorBB.label>Wood Floor B (building)</Frame_SadjuukWoodFloorBB.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBB.description>Terrain building in progress.</Frame_SadjuukWoodFloorBB.description>
+  <!-- EN: Wood Floor C (building) -->
+  <Frame_SadjuukWoodFloorBC.label>Wood Floor C (building)</Frame_SadjuukWoodFloorBC.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBC.description>Terrain building in progress.</Frame_SadjuukWoodFloorBC.description>
+  <!-- EN: Wood Floor D (building) -->
+  <Frame_SadjuukWoodFloorBD.label>Wood Floor D (building)</Frame_SadjuukWoodFloorBD.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBD.description>Terrain building in progress.</Frame_SadjuukWoodFloorBD.description>
+  <!-- EN: Wood Floor E (building) -->
+  <Frame_SadjuukWoodFloorBE.label>Wood Floor E (building)</Frame_SadjuukWoodFloorBE.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBE.description>Terrain building in progress.</Frame_SadjuukWoodFloorBE.description>
+  <!-- EN: Wood Floor F (building) -->
+  <Frame_SadjuukWoodFloorBF.label>Wood Floor F (building)</Frame_SadjuukWoodFloorBF.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SadjuukWoodFloorBF.description>Terrain building in progress.</Frame_SadjuukWoodFloorBF.description>
+  <!-- EN: Wood Generator (building) -->
+  <Frame_SadjuukWoodGeneratorA.label>Wood Generator (building)</Frame_SadjuukWoodGeneratorA.label>
+  <!-- EN: P : 1500W\nA very rustic generator, using water steam as source of power. -->
+  <Frame_SadjuukWoodGeneratorA.description>P : 1500W
+A very rustic generator, using water steam as source of power.</Frame_SadjuukWoodGeneratorA.description>
+</LanguageData>

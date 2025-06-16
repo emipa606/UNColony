@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Armored Plate -->
+  <SadjuukArmoredPlate.label>Armored Plate</SadjuukArmoredPlate.label>
+  <!-- EN: A very high-density structural component used in a wide variety of advanced construction. -->
+  <SadjuukArmoredPlate.description>A very high-density structural component used in a wide variety of advanced construction.</SadjuukArmoredPlate.description>
+  <!-- EN: Basic Components -->
+  <SadjuukBasicComponent.label>Basic Components</SadjuukBasicComponent.label>
+  <!-- EN: A collection of industrial components as electric motors, sensors, pneumatic actuators, fasteners and others. -->
+  <SadjuukBasicComponent.description>A collection of industrial components as electric motors, sensors, pneumatic actuators, fasteners and others.</SadjuukBasicComponent.description>
+  <!-- EN: Diesel -->
+  <SadjuukDiesel.label>Diesel</SadjuukDiesel.label>
+  <!-- EN: Fractional distillate of fuel oil. Very efficient fuel for generators, with an excellent energy-volume ratio. -->
+  <SadjuukDiesel.description>Fractional distillate of fuel oil. Very efficient fuel for generators, with an excellent energy-volume ratio.</SadjuukDiesel.description>
+  <!-- EN: Fuel oil -->
+  <SadjuukFuelOil.label>Fuel oil</SadjuukFuelOil.label>
+  <!-- EN: Low sulfur heavy fuel oil. Also known as marine fuel, it is used on rustic installations. Not explosive, it can only be ignited. -->
+  <SadjuukFuelOil.description>Low sulfur heavy fuel oil. Also known as marine fuel, it is used on rustic installations. Not explosive, it can only be ignited.</SadjuukFuelOil.description>
+  <!-- EN: Liquid Hydrogen -->
+  <SadjuukHydrogen.label>Liquid Hydrogen</SadjuukHydrogen.label>
+  <!-- EN: Liquid hydrogen is a common liquid rocket fuel but can also be used as fuel for fuel cell. -->
+  <SadjuukHydrogen.description>Liquid hydrogen is a common liquid rocket fuel but can also be used as fuel for fuel cell.</SadjuukHydrogen.description>
+  <!-- EN: Metal Grid -->
+  <SadjuukMetalGrid.label>Metal Grid</SadjuukMetalGrid.label>
+  <!-- EN: A variety of sturdy pieces of interwoven steel. -->
+  <SadjuukMetalGrid.description>A variety of sturdy pieces of interwoven steel.</SadjuukMetalGrid.description>
+  <!-- EN: Solar Cell -->
+  <SadjuukSolarCell.label>Solar Cell</SadjuukSolarCell.label>
+  <!-- EN: Photovoltaic component used in the construction of Solar Panels. -->
+  <SadjuukSolarCell.description>Photovoltaic component used in the construction of Solar Panels.</SadjuukSolarCell.description>
+  <!-- EN: Steel Plate -->
+  <SadjuukSteelPlate.label>Steel Plate</SadjuukSteelPlate.label>
+  <!-- EN: A basic structural component used in a wide variety of construction. -->
+  <SadjuukSteelPlate.description>A basic structural component used in a wide variety of construction.</SadjuukSteelPlate.description>
+  <!-- EN: Steel Tube -->
+  <SadjuukSteelTube.label>Steel Tube</SadjuukSteelTube.label>
+  <!-- EN: A variety of sturdy hollow cylinder. -->
+  <SadjuukSteelTube.description>A variety of sturdy hollow cylinder.</SadjuukSteelTube.description>
+  <!-- EN: Wire -->
+  <SadjuukWire.label>Wire</SadjuukWire.label>
+  <!-- EN: Various wire and cables. -->
+  <SadjuukWire.description>Various wire and cables.</SadjuukWire.description>
+</LanguageData>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================================================================= -->
+  <!-- BASE ALL FLOORS -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukFloorBase" ParentName="FloorBase" Abstract="True">
+    <designationCategory>SadjuukUN-Building</designationCategory>
+    <filthAcceptanceMask>Terrain</filthAcceptanceMask>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Wood Floor A (Wood log) -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukWoodFloorBaseA" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukWoodFloorBaseA</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructWood</constructEffect>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukWoodFloorA</texturePath>
+    <description>Simple wooden flooring, made of wooden logs.</description>
+    <statBases>
+      <WorkToBuild>80</WorkToBuild>
+      <Flammability>0.22</Flammability>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <burnedDef>BurnedWoodPlankFloor</burnedDef>
+  </TerrainDef>
+  <!-- Wood Floor AA -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAA</defName>
+    <label>Wood Floor A</label>
+    <color>(96,59,9)</color>
+  </TerrainDef>
+  <!-- Wood Floor AB -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAB</defName>
+    <label>Wood Floor B</label>
+    <color>(116,94,73)</color>
+  </TerrainDef>
+  <!-- Wood Floor AC -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAC</defName>
+    <label>Wood Floor C</label>
+    <color>(134,116,99)</color>
+  </TerrainDef>
+  <!-- Wood Floor AD -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAD</defName>
+    <label>Wood Floor D</label>
+    <color>(139,94,36)</color>
+  </TerrainDef>
+  <!-- Wood Floor AE -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAE</defName>
+    <label>Wood Floor E</label>
+    <color>(126,87,32)</color>
+  </TerrainDef>
+  <!-- Wood Floor AF -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseA">
+    <defName>SadjuukWoodFloorAF</defName>
+    <label>Wood Floor F</label>
+    <color>(146,117,65)</color>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Wood Floor B (Wood plank) -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukWoodFloorBaseB" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukWoodFloorBaseB</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructWood</constructEffect>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukWoodFloorB</texturePath>
+    <description>Simple wooden flooring, made of wood planks.</description>
+    <statBases>
+      <WorkToBuild>160</WorkToBuild>
+      <Flammability>0.22</Flammability>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <burnedDef>BurnedWoodPlankFloor</burnedDef>
+  </TerrainDef>
+  <!-- Wood Floor BA -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBA</defName>
+    <label>Wood Floor A</label>
+    <color>(96,59,9)</color>
+  </TerrainDef>
+  <!-- Wood Floor BB -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBB</defName>
+    <label>Wood Floor B</label>
+    <color>(116,94,73)</color>
+  </TerrainDef>
+  <!-- Wood Floor BC -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBC</defName>
+    <label>Wood Floor C</label>
+    <color>(134,116,99)</color>
+  </TerrainDef>
+  <!-- Wood Floor BD -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBD</defName>
+    <label>Wood Floor D</label>
+    <color>(139,94,36)</color>
+  </TerrainDef>
+  <!-- Wood Floor BE -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBE</defName>
+    <label>Wood Floor E</label>
+    <color>(126,87,32)</color>
+  </TerrainDef>
+  <!-- Wood Floor BF -->
+  <TerrainDef ParentName="SadjuukWoodFloorBaseB">
+    <defName>SadjuukWoodFloorBF</defName>
+    <label>Wood Floor F</label>
+    <color>(146,117,65)</color>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Sleel Floor A (Plate and Grid) -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukSteelFloorBaseA" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukSteelFloorBaseA</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <description>Raw Metal Floor, inexpensive and quick to build, but ugly.</description>
+    <constructEffect>ConstructMetal</constructEffect>
+    <statBases>
+      <WorkToBuild>100</WorkToBuild>
+      <Beauty>-1</Beauty>
+    </statBases>
+    <researchPrerequisites>
+      <li>Electricity</li>
+    </researchPrerequisites>
+  </TerrainDef>
+  <!-- Steel Floor AA -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseA">
+    <defName>SadjuukSteelFloorAA</defName>
+    <label>Metal Grid Floor</label>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorAA</texturePath>
+    <costList>
+      <SadjuukMetalGrid>1</SadjuukMetalGrid>
+    </costList>
+  </TerrainDef>
+  <!-- Steel Floor AB -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseA">
+    <defName>SadjuukSteelFloorAB</defName>
+    <label>Metal Plate Floor</label>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorAB</texturePath>
+    <costList>
+      <SadjuukSteelPlate>1</SadjuukSteelPlate>
+    </costList>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Steel Floor C -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukSteelFloorBaseC" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukSteelFloorBaseC</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructMetal</constructEffect>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorC</texturePath>
+    <description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
+Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</description>
+    <statBases>
+      <WorkToBuild>350</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.3</Cleanliness>
+    </statBases>
+    <researchPrerequisites>
+      <li>SadjuukConstructionA</li>
+    </researchPrerequisites>
+    <costList>
+      <SadjuukConcrete>1</SadjuukConcrete>
+      <SadjuukSteelPlate>1</SadjuukSteelPlate>
+      <SadjuukMetalGrid>1</SadjuukMetalGrid>
+      <SadjuukSyntheticPaint>4</SadjuukSyntheticPaint>
+    </costList>
+  </TerrainDef>
+  <!-- Steel Floor CA -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCA</defName>
+    <label>Painted Steel Floor A</label>
+    <color>(160,160,160)</color>
+  </TerrainDef>
+  <!-- Steel Floor CB -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCB</defName>
+    <label>Painted Steel Floor B</label>
+    <color>(48,48,48)</color>
+  </TerrainDef>
+  <!-- Steel Floor CC -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCC</defName>
+    <label>Painted Steel Floor C</label>
+    <color>(255,127,127)</color>
+  </TerrainDef>
+  <!-- Steel Floor CD -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCD</defName>
+    <label>Painted Steel Floor D</label>
+    <color>(255,178,127)</color>
+  </TerrainDef>
+  <!-- Steel Floor CE -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCE</defName>
+    <label>Painted Steel Floor E</label>
+    <color>(255,233,127)</color>
+  </TerrainDef>
+  <!-- Steel Floor CF -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCF</defName>
+    <label>Painted Steel Floor F</label>
+    <color>(218,255,127)</color>
+  </TerrainDef>
+  <!-- Steel Floor CG -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCG</defName>
+    <label>Painted Steel Floor G</label>
+    <color>(165,255,127)</color>
+  </TerrainDef>
+  <!-- Steel Floor CH -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCH</defName>
+    <label>Painted Steel Floor H</label>
+    <color>(127,255,142)</color>
+  </TerrainDef>
+  <!-- Steel Floor CI -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCI</defName>
+    <label>Painted Steel Floor I</label>
+    <color>(127,255,197)</color>
+  </TerrainDef>
+  <!-- Steel Floor CJ -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCJ</defName>
+    <label>Painted Steel Floor J</label>
+    <color>(127,255,255)</color>
+  </TerrainDef>
+  <!-- Steel Floor CK -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCK</defName>
+    <label>Painted Steel Floor K</label>
+    <color>(127,201,255)</color>
+  </TerrainDef>
+  <!-- Steel Floor CL -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCL</defName>
+    <label>Painted Steel Floor L</label>
+    <color>(127,146,255)</color>
+  </TerrainDef>
+  <!-- Steel Floor CM -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCM</defName>
+    <label>Painted Steel Floor M</label>
+    <color>(161,127,255)</color>
+  </TerrainDef>
+  <!-- Steel Floor CN -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCN</defName>
+    <label>Painted Steel Floor N</label>
+    <color>(214,127,255)</color>
+  </TerrainDef>
+  <!-- Steel Floor CO -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCO</defName>
+    <label>Painted Steel Floor O</label>
+    <color>(255,127,237)</color>
+  </TerrainDef>
+  <!-- Steel Floor CP -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCP</defName>
+    <label>Painted Steel Floor P</label>
+    <color>(255,127,182)</color>
+  </TerrainDef>
+  <!-- Steel Floor CQ -->
+  <TerrainDef ParentName="SadjuukSteelFloorBaseC">
+    <defName>SadjuukConcreteFloorCQ</defName>
+    <label>Painted Steel Floor Q</label>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Concrete Floor A -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukConcreteFloorBaseA" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukConcreteFloorBaseA</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructDirt</constructEffect>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
+    <description>Painted concrete Floor.</description>
+    <statBases>
+      <WorkToBuild>300</WorkToBuild>
+    </statBases>
+    <researchPrerequisites>
+      <li>SadjuukConstructionA</li>
+    </researchPrerequisites>
+    <costList>
+      <SadjuukConcrete>1</SadjuukConcrete>
+      <SadjuukSyntheticPaint>4</SadjuukSyntheticPaint>
+    </costList>
+  </TerrainDef>
+  <!-- Concrete Floor A -->
+  <TerrainDef ParentName="SadjuukFloorBase">
+    <defName>SadjuukConcreteFloorA</defName>
+    <label>Concrete Floor</label>
+    <designatorDropdown>SadjuukConcreteFloorBaseA</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructDirt</constructEffect>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
+    <description>Concrete Floor.</description>
+    <statBases>
+      <WorkToBuild>250</WorkToBuild>
+    </statBases>
+    <researchPrerequisites>
+      <li>SadjuukConstructionA</li>
+    </researchPrerequisites>
+    <costList>
+      <SadjuukConcrete>1</SadjuukConcrete>
+    </costList>
+  </TerrainDef>
+  <!-- Concrete Floor AA -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAA</defName>
+    <label>Painted Concrete Floor A</label>
+    <color>(255,127,127)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AB -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAB</defName>
+    <label>Painted Concrete Floor B</label>
+    <color>(255,178,127)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AC -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAC</defName>
+    <label>Painted Concrete Floor C</label>
+    <color>(255,233,127)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AD -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAD</defName>
+    <label>Painted Concrete Floor D</label>
+    <color>(218,255,127)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AE -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAE</defName>
+    <label>Painted Concrete Floor E</label>
+    <color>(165,255,127)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AF -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAF</defName>
+    <label>Painted Concrete Floor F</label>
+    <color>(127,255,142)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AG -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAG</defName>
+    <label>Painted Concrete Floor G</label>
+    <color>(127,255,197)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AH -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAH</defName>
+    <label>Painted Concrete Floor H</label>
+    <color>(127,255,255)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AI -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAI</defName>
+    <label>Painted Concrete Floor I</label>
+    <color>(127,201,255)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AJ -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAJ</defName>
+    <label>Painted Concrete Floor J</label>
+    <color>(127,146,255)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AK -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAK</defName>
+    <label>Painted Concrete Floor K</label>
+    <color>(161,127,255)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AL -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAL</defName>
+    <label>Painted Concrete Floor L</label>
+    <color>(214,127,255)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AM -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAM</defName>
+    <label>Painted Concrete Floor M</label>
+    <color>(255,127,237)</color>
+  </TerrainDef>
+  <!-- Concrete Floor AN -->
+  <TerrainDef ParentName="SadjuukConcreteFloorBaseA">
+    <defName>SadjuukConcreteFloorAN</defName>
+    <label>Painted Concrete Floor N</label>
+    <color>(255,127,182)</color>
+  </TerrainDef>
+  <!-- ============================================================================= -->
+  <!-- BASE Asphalt Floor -->
+  <!-- ============================================================================= -->
+  <TerrainDef Name="SadjuukAsphaltFloorBaseA" ParentName="SadjuukFloorBase" Abstract="True">
+    <designatorDropdown>SadjuukAsphaltFloorBaseA</designatorDropdown>
+    <renderPrecedence>250</renderPrecedence>
+    <constructEffect>ConstructDirt</constructEffect>
+    <description>Asphalt Floor, usually for roads or outdoor storage area.</description>
+    <statBases>
+      <WorkToBuild>250</WorkToBuild>
+    </statBases>
+    <costList>
+      <SadjuukConcrete>1</SadjuukConcrete>
+      <SadjuukAsphaltConcrete>1</SadjuukAsphaltConcrete>
+    </costList>
+    <researchPrerequisites>
+      <li>SadjuukConstructionA</li>
+    </researchPrerequisites>
+  </TerrainDef>
+  <!-- Asphalt Floor AA -->
+  <TerrainDef ParentName="SadjuukAsphaltFloorBaseA">
+    <defName>SadjuukAsphaltFloorAA</defName>
+    <label>Asphalt</label>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukAsphaltFloorAA</texturePath>
+  </TerrainDef>
+  <!-- Asphalt Floor AB -->
+  <TerrainDef ParentName="SadjuukAsphaltFloorBaseA">
+    <defName>SadjuukAsphaltFloorAB</defName>
+    <label>Dark Asphalt</label>
+    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukAsphaltFloorAB</texturePath>
+  </TerrainDef>
+</Defs>

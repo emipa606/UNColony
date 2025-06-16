@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Basic Construction -->
+  <SadjuukConstructionA.label>Basic Construction</SadjuukConstructionA.label>
+  <!-- EN: This important research allow you to produce Concrete, Paint, Glass and other basic constructions. -->
+  <SadjuukConstructionA.description>This important research allow you to produce Concrete, Paint, Glass and other basic constructions.</SadjuukConstructionA.description>
+  <!-- EN: Shielded Walls -->
+  <SadjuukConstructionB.label>Shielded Walls</SadjuukConstructionB.label>
+  <!-- EN: Shielded Walls and doors are essential to protect your colony or build bunkers. -->
+  <SadjuukConstructionB.description>Shielded Walls and doors are essential to protect your colony or build bunkers.</SadjuukConstructionB.description>
+  <!-- EN: Armored Walls -->
+  <SadjuukConstructionC.label>Armored Walls</SadjuukConstructionC.label>
+  <!-- EN: Develop Armored Walls and Doors, with the strongest materials. -->
+  <SadjuukConstructionC.description>Develop Armored Walls and Doors, with the strongest materials.</SadjuukConstructionC.description>
+</LanguageData>

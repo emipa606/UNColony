@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make 15 Concrete Slabs. -->
+  <SadjuukConcreteRecipeA.label>Make 15 Concrete Slabs.</SadjuukConcreteRecipeA.label>
+  <!-- EN: Produce Concrete Slabs. -->
+  <SadjuukConcreteRecipeA.description>Produce Concrete Slabs.</SadjuukConcreteRecipeA.description>
+  <!-- EN: Producing Concrete Slabs. -->
+  <SadjuukConcreteRecipeA.jobString>Producing Concrete Slabs.</SadjuukConcreteRecipeA.jobString>
+  <!-- EN: Make 75 Asphalt Concrete. -->
+  <SadjuukConcreteRecipeB.label>Make 75 Asphalt Concrete.</SadjuukConcreteRecipeB.label>
+  <!-- EN: Produce Asphalt Concrete. -->
+  <SadjuukConcreteRecipeB.description>Produce Asphalt Concrete.</SadjuukConcreteRecipeB.description>
+  <!-- EN: Producing Asphalt Concrete. -->
+  <SadjuukConcreteRecipeB.jobString>Producing Asphalt Concrete.</SadjuukConcreteRecipeB.jobString>
+  <!-- EN: Make 12 Glass Slabs. -->
+  <SadjuukGlassRecipeA.label>Make 12 Glass Slabs.</SadjuukGlassRecipeA.label>
+  <!-- EN: Produce Glass Slabs. -->
+  <SadjuukGlassRecipeA.description>Produce Glass Slabs.</SadjuukGlassRecipeA.description>
+  <!-- EN: Producing Glass Slabs. -->
+  <SadjuukGlassRecipeA.jobString>Producing Glass Slabs.</SadjuukGlassRecipeA.jobString>
+  <!-- EN: make 5 Paint from chemfuel -->
+  <SadjuukSyntheticPaintRecipe.label>make 5 Paint from chemfuel</SadjuukSyntheticPaintRecipe.label>
+  <!-- EN: Synthesize paint from biofuel. -->
+  <SadjuukSyntheticPaintRecipe.description>Synthesize paint from biofuel.</SadjuukSyntheticPaintRecipe.description>
+  <!-- EN: Synthesize paint. -->
+  <SadjuukSyntheticPaintRecipe.jobString>Synthesize paint.</SadjuukSyntheticPaintRecipe.jobString>
+  <!-- EN: make 75 Paint from Fuel Oil -->
+  <SadjuukSyntheticPaintRecipeB.label>make 75 Paint from Fuel Oil</SadjuukSyntheticPaintRecipeB.label>
+  <!-- EN: Synthesize paint from Fuel Oil. -->
+  <SadjuukSyntheticPaintRecipeB.description>Synthesize paint from Fuel Oil.</SadjuukSyntheticPaintRecipeB.description>
+  <!-- EN: Synthesize paint. -->
+  <SadjuukSyntheticPaintRecipeB.jobString>Synthesize paint.</SadjuukSyntheticPaintRecipeB.jobString>
+</LanguageData>

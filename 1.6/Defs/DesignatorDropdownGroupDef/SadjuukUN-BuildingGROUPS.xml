@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Painted Lines -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukPaintBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Arrows Paint -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukPaintBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Zebra Paint -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukPaintBaseCR</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukPaintBaseCY</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Wood Floor A (Wood Log) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWoodFloorBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Wood Floor B (Wood Plank) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWoodFloorBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Steel Floor A (Raw Steel) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukSteelFloorBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Steel Floor C (Clean Steel) -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukSteelFloorBaseC</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Concrete Floor A -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukConcreteFloorBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Asphalt Floor A -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukAsphaltFloorBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Doors and gates -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseC</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseD</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseL</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseE</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseF</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseG</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseH</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseI</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseJ</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukDoorBaseK</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Rustic Wooden Walls -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWallBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukEmbrasureBaseA</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Rustic Steel Walls -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWallBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukEmbrasureBaseB</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Concrete Walls -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWallBaseC</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukEmbrasureBaseC</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Shielded Concrete Walls -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWallBaseD</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukEmbrasureBaseD</defName>
+  </DesignatorDropdownGroupDef>
+  <!-- Armored Concrete Walls -->
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukWallBaseE</defName>
+  </DesignatorDropdownGroupDef>
+  <DesignatorDropdownGroupDef>
+    <defName>SadjuukEmbrasureBaseE</defName>
+  </DesignatorDropdownGroupDef>
+</Defs>

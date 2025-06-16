@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: UN-Building tab -->
+  <Architect_SadjuukUN-Building.label>UN-Building tab</Architect_SadjuukUN-Building.label>
+  <!-- EN: Key bindings for the "UN-Building" section of the Architect menu -->
+  <Architect_SadjuukUN-Building.description>Key bindings for the "UN-Building" section of the Architect menu</Architect_SadjuukUN-Building.description>
+  <!-- EN: UN-Industry tab -->
+  <Architect_SadjuukUN-Industry.label>UN-Industry tab</Architect_SadjuukUN-Industry.label>
+  <!-- EN: Key bindings for the "UN-Industry" section of the Architect menu -->
+  <Architect_SadjuukUN-Industry.description>Key bindings for the "UN-Industry" section of the Architect menu</Architect_SadjuukUN-Industry.description>
+</LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/FleckDef[defName="Owl_SmokeHeavy"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[@ParentName="SadjuukHeavyGeneratorBase"]/comps</xpath>
+          <value>
+            <li Class="Flecker.CompProperties_Smoker">
+              <fleckDef>Owl_SmokeHeavy</fleckDef>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="SadjuukGeneratorV" or defName="SadjuukGeneratorW"]/comps</xpath>
+          <value>
+            <li Class="Flecker.CompProperties_Smoker">
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="SadjuukRefineryA" or defName="SadjuukRefineryB" or defName="SadjuukRefineryC"]/comps</xpath>
+          <value>
+            <li Class="Flecker.CompProperties_Smoker">
+              <fleckDef>Owl_SmokeHeavy</fleckDef>
+              <billsOnly>true</billsOnly>
+              <particleSize>1.1</particleSize>
+            </li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="SadjuukBessemerConverter" or defName="SadjuukOpenHearthFurnace" or defName="SadjuukElectricArcFurnace"]/comps</xpath>
+          <value>
+            <li Class="Flecker.CompProperties_Smoker">
+              <fleckDef>Owl_SmokeHeavy</fleckDef>
+              <billsOnly>true</billsOnly>
+              <particleSize>0.8</particleSize>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
