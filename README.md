@@ -1,9 +1,13 @@
-# [UN-Colony (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245)
+# [[Legacy] UN-Colony (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
+
+**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md).**
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735).
+This version will not receive any further updates.
 
 The old mod has an updated reworked version here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003

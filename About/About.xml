@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>UN-Colony (Continued)</name>
+  <name>[Legacy] UN-Colony (Continued)</name>
   <packageId>Mlie.UNColony</packageId>
   <author>Mlie</author>
   <url>https://github.com/emipa606/UNColony</url>
@@ -18,6 +18,10 @@
 Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
 
+[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url].[/b]
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735]here[/url].
+This version will not receive any further updates.
+
 The old mod has an updated reworked version here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
 
@@ -31,7 +35,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1869087753
 [table]
 	[tr]
 		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-		[td][url=https://github.com/emipa606/UNColony][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/UNColony/tree/legacy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
@@ -104,5 +108,5 @@ Hope you will enjoy !
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2019774245][img]https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  production,  furniture</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.3</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.4</modVersion>
 </ModMetaData>

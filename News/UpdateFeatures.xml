@@ -9,4 +9,10 @@
     <assemblyVersion>1.0.3.0</assemblyVersion>
     <content>Walls and embrasures had some old definitions that made them behave different from other walls/embrasures. This would cause graphical issues when buildning next to rock-wall or if you built a double-wall. There were also some issues with floor-interaction. These issues should now be fixed.</content>
   </HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="UNColony_UpdateFeatureBase">
+		<defName>UNColony_1_5_3</defName>
+		<assemblyVersion>1.5.3</assemblyVersion>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
+

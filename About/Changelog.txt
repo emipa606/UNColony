@@ -1,5 +1,8 @@
 # Changelog for UNColony
 
+1.5.4 - Last update of the legacy version of the mod
+
+
 1.5.3 - Fixed wall-attachment support
 
 
