@@ -14,7 +14,7 @@
     <designatorDropdown>SadjuukWoodFloorBaseA</designatorDropdown>
     <renderPrecedence>250</renderPrecedence>
     <constructEffect>ConstructWood</constructEffect>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukWoodFloorA</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukWoodFloorA</texturePath>
     <description>Simple wooden flooring, made of wooden logs.</description>
     <statBases>
       <WorkToBuild>80</WorkToBuild>
@@ -68,7 +68,7 @@
     <designatorDropdown>SadjuukWoodFloorBaseB</designatorDropdown>
     <renderPrecedence>250</renderPrecedence>
     <constructEffect>ConstructWood</constructEffect>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukWoodFloorB</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukWoodFloorB</texturePath>
     <description>Simple wooden flooring, made of wood planks.</description>
     <statBases>
       <WorkToBuild>160</WorkToBuild>
@@ -135,7 +135,7 @@
   <TerrainDef ParentName="SadjuukSteelFloorBaseA">
     <defName>SadjuukSteelFloorAA</defName>
     <label>Metal Grid Floor</label>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorAA</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukSteelFloorAA</texturePath>
     <costList>
       <SadjuukMetalGrid>1</SadjuukMetalGrid>
     </costList>
@@ -144,7 +144,7 @@
   <TerrainDef ParentName="SadjuukSteelFloorBaseA">
     <defName>SadjuukSteelFloorAB</defName>
     <label>Metal Plate Floor</label>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorAB</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukSteelFloorAB</texturePath>
     <costList>
       <SadjuukSteelPlate>1</SadjuukSteelPlate>
     </costList>
@@ -156,7 +156,7 @@
     <designatorDropdown>SadjuukSteelFloorBaseC</designatorDropdown>
     <renderPrecedence>250</renderPrecedence>
     <constructEffect>ConstructMetal</constructEffect>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukSteelFloorC</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukSteelFloorC</texturePath>
     <description>An aesthetic painted Steel Floor for hospital, kitchens or industrial complex. 
 Very strong conception with its concrete foundation, the thick layer of paint makes it also very easy to clean.</description>
     <statBases>
@@ -282,7 +282,7 @@ Very strong conception with its concrete foundation, the thick layer of paint ma
     <designatorDropdown>SadjuukConcreteFloorBaseA</designatorDropdown>
     <renderPrecedence>250</renderPrecedence>
     <constructEffect>ConstructDirt</constructEffect>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
     <description>Painted concrete Floor.</description>
     <statBases>
       <WorkToBuild>300</WorkToBuild>
@@ -302,7 +302,7 @@ Very strong conception with its concrete foundation, the thick layer of paint ma
     <designatorDropdown>SadjuukConcreteFloorBaseA</designatorDropdown>
     <renderPrecedence>250</renderPrecedence>
     <constructEffect>ConstructDirt</constructEffect>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukConcreteFloorA</texturePath>
     <description>Concrete Floor.</description>
     <statBases>
       <WorkToBuild>250</WorkToBuild>
@@ -421,12 +421,12 @@ Very strong conception with its concrete foundation, the thick layer of paint ma
   <TerrainDef ParentName="SadjuukAsphaltFloorBaseA">
     <defName>SadjuukAsphaltFloorAA</defName>
     <label>Asphalt</label>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukAsphaltFloorAA</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukAsphaltFloorAA</texturePath>
   </TerrainDef>
   <!-- Asphalt Floor AB -->
   <TerrainDef ParentName="SadjuukAsphaltFloorBaseA">
     <defName>SadjuukAsphaltFloorAB</defName>
     <label>Dark Asphalt</label>
-    <texturePath>SadjuukUN-Building/SadjuukFloor/SadjuukAsphaltFloorAB</texturePath>
+    <texturePath>Terrain/SadjuukFloor/SadjuukAsphaltFloorAB</texturePath>
   </TerrainDef>
 </Defs>

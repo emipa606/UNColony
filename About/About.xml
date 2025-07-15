@@ -99,6 +99,8 @@ Hope you will enjoy !
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]  | tags:  production,  furniture</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list]  | tags:  production,  furniture 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735][img]https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  production,  furniture</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>
