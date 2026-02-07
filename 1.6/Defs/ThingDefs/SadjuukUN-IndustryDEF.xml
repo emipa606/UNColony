@@ -1098,6 +1098,7 @@ Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</descri
     <thingClass>Building</thingClass>
     <category>Building</category>
     <altitudeLayer>Building</altitudeLayer>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <selectable>true</selectable>
     <rotatable>true</rotatable>
     <clearBuildingArea>true</clearBuildingArea>
@@ -1113,6 +1114,9 @@ Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</descri
     <constructEffect>ConstructMetal</constructEffect>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Big</destroySound>
+    </building>
     <costList>
       <SadjuukBasicComponent>10</SadjuukBasicComponent>
       <SadjuukSteelTube>20</SadjuukSteelTube>
@@ -1125,18 +1129,26 @@ Hydrogen Fuel cell power generation is 67% more efficient than Chemfuel.</descri
       <Flammability>0.7</Flammability>
       <Beauty>5</Beauty>
     </statBases>
+    <tickerType>Normal</tickerType>
     <comps>
       <li Class="CompProperties_Power">
         <compClass>CompPowerPlantSolar</compClass>
-        <basePowerConsumption>-1</basePowerConsumption>
+        <basePowerConsumption>-1700</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+      <li Class="CompProperties_Stunnable">
+        <useLargeEMPEffecter>true</useLargeEMPEffecter>
+        <empChancePerTick>0.03</empChancePerTick>
+        <affectedDamageDefs>
+          <li>EMP</li>
+        </affectedDamageDefs>
       </li>
     </comps>
     <researchPrerequisites>
-      <li>Electricity</li>
       <li>SolarPanels</li>
     </researchPrerequisites>
-    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
   </ThingDef>
   <!-- Solar Panel A -->
   <ThingDef ParentName="SadjuukSolarPanelBase">

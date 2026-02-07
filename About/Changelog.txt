@@ -1,5 +1,8 @@
 # Changelog for UNColony
 
+1.6.3 - Fixed solar panels
+
+
 1.6.2 - Conduits should now be buildable in corners
 
 
