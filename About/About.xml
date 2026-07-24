@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>UN-Colony (Continued)</name>
   <packageId>Mlie.UNColony</packageId>
-  <author>Mlie</author>
+  <author>Sadjuuk</author>
   <url>https://github.com/emipa606/UNColony</url>
   <supportedVersions>
     <li>1.6</li>
@@ -102,5 +102,5 @@ Hope you will enjoy !
 [/list]  | tags:  production,  furniture 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735][img]https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: furniture, production</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.3</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.4</modVersion>
 </ModMetaData>
