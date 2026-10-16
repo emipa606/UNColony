@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>UN-Colony (Continued)</name>
+  <name>[1.6] UN-Colony (Continued)</name>
   <packageId>Mlie.UNColony</packageId>
   <author>Sadjuuk</author>
   <url>https://github.com/emipa606/UNColony</url>
@@ -13,8 +13,9 @@
 Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
 
-[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url][/b].
-To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245]here[/url].
+[b]The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance[/b].
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3820983535]here[/url].
+This version will not receive any further updates.
 
 The old mod has an updated reworked version here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
@@ -29,7 +30,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1869087753
 [table]
 	[tr]
 		[td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td]
-		[td][url=https://github.com/emipa606/UNColony][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/UNColony/tree/assetbundles][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
@@ -101,6 +102,6 @@ Hope you will enjoy !
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]  | tags:  production,  furniture 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735][img]https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: furniture, production</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.4</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735][img]https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | furniture, production</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.5</modVersion>
 </ModMetaData>

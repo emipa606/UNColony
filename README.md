@@ -1,12 +1,13 @@
-# [UN-Colony (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735)
+# [[1.6] UN-Colony (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735)
 
 ![Image](https://img.litet.net/logos/Info.png)
 
 Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
 
-**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md)**.
-To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245).
+**The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance**.
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the new version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3820983535).
+This version will not receive any further updates.
 
 The old mod has an updated reworked version here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003
@@ -91,4 +92,4 @@ Hope you will enjoy !
 
   | tags:  production,  furniture 
 
-[![Image](https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735) | tags: furniture, production
+[![Image](https://img.shields.io/github/v/release/emipa606/UNColony?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3501284735) | furniture, production
