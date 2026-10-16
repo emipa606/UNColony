@@ -1,5 +1,8 @@
 # Changelog for UNColony
 
+1.7.1 - Mod updated for  and passed autotests
+
+
 1.7.0 - Mod updated for 1.7 and passed autotests
 
 

@@ -89,4 +89,4 @@ Hope you will enjoy !
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
-  | tags:  production,  furniture  | furniture, production
+  | tags:  production,  furniture  | furniture, production  | furniture, production
